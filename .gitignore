@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+lib64/
+
+# Airflow
+airflow/logs/
+
+# Postgres data
+api-request/postgres/data/
+postgres/data/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Mac/Linux
+.DS_Store
