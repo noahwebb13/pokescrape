@@ -6,6 +6,9 @@ venv/
 env/
 lib64/
 
+# Data
+serbii_data*.csv
+
 # Airflow
 airflow/logs/
 
