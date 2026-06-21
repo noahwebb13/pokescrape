@@ -1,0 +1,1026 @@
+No.,Name,Type,Abilities,HP,Att,Def,S.Att,S.Def,Spd,Total
+#0001,Bulbasaur (/pokemon/bulbasaur),grass | poison,Overgrow (/abilitydex/overgrow.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml),45,49,49,65,65,45,318
+#0002,Ivysaur (/pokemon/ivysaur),grass | poison,Overgrow (/abilitydex/overgrow.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml),60,62,63,80,80,60,405
+#0003,Venusaur (/pokemon/venusaur),grass | poison,Overgrow (/abilitydex/overgrow.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml),80,82,83,100,100,80,525
+#0004,Charmander (/pokemon/charmander),fire,Blaze (/abilitydex/blaze.shtml) | Solar Power (/abilitydex/solarpower.shtml),39,52,43,60,50,65,309
+#0005,Charmeleon (/pokemon/charmeleon),fire,Blaze (/abilitydex/blaze.shtml) | Solar Power (/abilitydex/solarpower.shtml),58,64,58,80,65,80,405
+#0006,Charizard (/pokemon/charizard),fire | flying,Blaze (/abilitydex/blaze.shtml) | Solar Power (/abilitydex/solarpower.shtml),78,84,78,109,85,100,534
+#0007,Squirtle (/pokemon/squirtle),water,Torrent (/abilitydex/torrent.shtml) | Rain Dish (/abilitydex/raindish.shtml),44,48,65,50,64,43,314
+#0008,Wartortle (/pokemon/wartortle),water,Torrent (/abilitydex/torrent.shtml) | Rain Dish (/abilitydex/raindish.shtml),59,63,80,65,80,58,405
+#0009,Blastoise (/pokemon/blastoise),water,Torrent (/abilitydex/torrent.shtml) | Rain Dish (/abilitydex/raindish.shtml),79,83,100,85,105,78,530
+#0010,Caterpie (/pokemon/caterpie),bug,Shield Dust (/abilitydex/shielddust.shtml) | Run Away (/abilitydex/runaway.shtml),45,30,35,20,20,45,195
+#0011,Metapod (/pokemon/metapod),bug,Shed Skin (/abilitydex/shedskin.shtml),50,20,55,25,25,30,205
+#0012,Butterfree (/pokemon/butterfree),bug | flying,Compoundeyes (/abilitydex/compoundeyes.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml),60,45,50,90,80,70,395
+#0013,Weedle (/pokemon/weedle),bug | poison,Shield Dust (/abilitydex/shielddust.shtml) | Run Away (/abilitydex/runaway.shtml),40,35,30,20,20,50,195
+#0014,Kakuna (/pokemon/kakuna),bug | poison,Shed Skin (/abilitydex/shedskin.shtml),45,25,50,25,25,35,205
+#0015,Beedrill (/pokemon/beedrill),bug | poison,Swarm (/abilitydex/swarm.shtml) | Sniper (/abilitydex/sniper.shtml),65,90,40,45,80,75,395
+#0016,Pidgey (/pokemon/pidgey),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Tangled Feet (/abilitydex/tangledfeet.shtml) | Big Pecks (/abilitydex/bigpecks.shtml),40,45,40,35,35,56,251
+#0017,Pidgeotto (/pokemon/pidgeotto),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Tangled Feet (/abilitydex/tangledfeet.shtml) | Big Pecks (/abilitydex/bigpecks.shtml),63,60,55,50,50,71,349
+#0018,Pidgeot (/pokemon/pidgeot),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Tangled Feet (/abilitydex/tangledfeet.shtml) | Big Pecks (/abilitydex/bigpecks.shtml),83,80,75,70,70,101,479
+#0019,Rattata (/pokemon/rattata),normal,Run Away (/abilitydex/runaway.shtml) | Guts (/abilitydex/guts.shtml) | Hustle (/abilitydex/hustle.shtml),30,56,35,25,35,72,253
+#0020,Raticate (/pokemon/raticate),normal,Run Away (/abilitydex/runaway.shtml) | Guts (/abilitydex/guts.shtml) | Hustle (/abilitydex/hustle.shtml),55,81,60,50,70,97,413
+#0021,Spearow (/pokemon/spearow),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Sniper (/abilitydex/sniper.shtml),40,60,30,31,31,70,262
+#0022,Fearow (/pokemon/fearow),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Sniper (/abilitydex/sniper.shtml),65,90,65,61,61,100,442
+#0023,Ekans (/pokemon/ekans),poison,Intimidate (/abilitydex/intimidate.shtml) | Shed Skin (/abilitydex/shedskin.shtml) | Unnerve (/abilitydex/unnerve.shtml),35,60,44,40,54,55,288
+#0024,Arbok (/pokemon/arbok),poison,Intimidate (/abilitydex/intimidate.shtml) | Shed Skin (/abilitydex/shedskin.shtml) | Unnerve (/abilitydex/unnerve.shtml),60,95,69,65,79,80,448
+#0025,Pikachu (/pokemon/pikachu),electric,Static (/abilitydex/static.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml),35,55,40,50,50,90,320
+#0026,Raichu (/pokemon/raichu),electric,Static (/abilitydex/static.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml),60,90,55,90,80,110,485
+#0027,Sandshrew (/pokemon/sandshrew),ground,Sand Veil (/abilitydex/sandveil.shtml) | Sand Rush (/abilitydex/sandrush.shtml),50,75,85,20,30,40,300
+#0028,Sandslash (/pokemon/sandslash),ground,Sand Veil (/abilitydex/sandveil.shtml) | Sand Rush (/abilitydex/sandrush.shtml),75,100,110,45,55,65,450
+#0029,Nidoran♀ (/pokemon/nidoranf),poison,Poison Point (/abilitydex/poisonpoint.shtml) | Rivalry (/abilitydex/rivalry.shtml) | Hustle (/abilitydex/hustle.shtml),55,47,52,40,40,41,275
+#0030,Nidorina (/pokemon/nidorina),poison,Poison Point (/abilitydex/poisonpoint.shtml) | Rivalry (/abilitydex/rivalry.shtml) | Hustle (/abilitydex/hustle.shtml),70,62,67,55,55,56,365
+#0031,Nidoqueen (/pokemon/nidoqueen),poison | ground,Poison Point (/abilitydex/poisonpoint.shtml) | Rivalry (/abilitydex/rivalry.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),90,92,87,75,85,76,505
+#0032,Nidoran♂ (/pokemon/nidoranm),poison,Poison Point (/abilitydex/poisonpoint.shtml) | Rivalry (/abilitydex/rivalry.shtml) | Hustle (/abilitydex/hustle.shtml),46,57,40,40,40,50,273
+#0033,Nidorino (/pokemon/nidorino),poison,Poison Point (/abilitydex/poisonpoint.shtml) | Rivalry (/abilitydex/rivalry.shtml) | Hustle (/abilitydex/hustle.shtml),61,72,57,55,55,65,365
+#0034,Nidoking (/pokemon/nidoking),poison | ground,Poison Point (/abilitydex/poisonpoint.shtml) | Rivalry (/abilitydex/rivalry.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),81,102,77,85,75,85,505
+#0035,Clefairy (/pokemon/clefairy),fairy,Cute Charm (/abilitydex/cutecharm.shtml) | Magic Guard (/abilitydex/magicguard.shtml) | Friend Guard (/abilitydex/friendguard.shtml),70,45,48,60,65,35,323
+#0036,Clefable (/pokemon/clefable),fairy,Cute Charm (/abilitydex/cutecharm.shtml) | Magic Guard (/abilitydex/magicguard.shtml) | Unaware (/abilitydex/unaware.shtml),95,70,73,95,90,60,483
+#0037,Vulpix (/pokemon/vulpix),fire,Flash Fire (/abilitydex/flashfire.shtml) | Drought (/abilitydex/drought.shtml),38,41,40,50,65,65,299
+#0038,Ninetales (/pokemon/ninetales),fire,Flash Fire (/abilitydex/flashfire.shtml) | Drought (/abilitydex/drought.shtml),73,76,75,81,100,100,505
+#0039,Jigglypuff (/pokemon/jigglypuff),normal | fairy,Cute Charm (/abilitydex/cutecharm.shtml) | Competitive (/abilitydex/competitive.shtml) | Friend Guard (/abilitydex/friendguard.shtml),115,45,20,45,25,20,270
+#0040,Wigglytuff (/pokemon/wigglytuff),normal | fairy,Cute Charm (/abilitydex/cutecharm.shtml) | Competitive (/abilitydex/competitive.shtml) | Frisk (/abilitydex/frisk.shtml),140,70,45,85,50,45,435
+#0041,Zubat (/pokemon/zubat),poison | flying,Inner Focus (/abilitydex/innerfocus.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),40,45,35,30,40,55,245
+#0042,Golbat (/pokemon/golbat),poison | flying,Inner Focus (/abilitydex/innerfocus.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),75,80,70,65,75,90,455
+#0043,Oddish (/pokemon/oddish),grass | poison,Chlorophyll (/abilitydex/chlorophyll.shtml) | Run Away (/abilitydex/runaway.shtml),45,50,55,75,65,30,320
+#0044,Gloom (/pokemon/gloom),grass | poison,Chlorophyll (/abilitydex/chlorophyll.shtml) | Stench (/abilitydex/stench.shtml),60,65,70,85,75,40,395
+#0045,Vileplume (/pokemon/vileplume),grass | poison,Chlorophyll (/abilitydex/chlorophyll.shtml) | Effect Spore (/abilitydex/effectspore.shtml),75,80,85,110,90,50,490
+#0046,Paras (/pokemon/paras),bug | grass,Effect Spore (/abilitydex/effectspore.shtml) | Dry Skin (/abilitydex/dryskin.shtml) | Damp (/abilitydex/damp.shtml),35,70,55,45,55,25,285
+#0047,Parasect (/pokemon/parasect),bug | grass,Effect Spore (/abilitydex/effectspore.shtml) | Dry Skin (/abilitydex/dryskin.shtml) | Damp (/abilitydex/damp.shtml),60,95,80,60,80,30,405
+#0048,Venonat (/pokemon/venonat),bug | poison,Compoundeyes (/abilitydex/compoundeyes.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml) | Run Away (/abilitydex/runaway.shtml),60,55,50,40,55,45,305
+#0049,Venomoth (/pokemon/venomoth),bug | poison,Shield Dust (/abilitydex/shielddust.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml) | Wonder Skin (/abilitydex/wonderskin.shtml),70,65,60,90,75,90,450
+#0050,Diglett (/pokemon/diglett),ground,Sand Veil (/abilitydex/sandveil.shtml) | Arena Trap (/abilitydex/arenatrap.shtml) | Sand Force (/abilitydex/sandforce.shtml),10,55,25,35,45,95,265
+#0051,Dugtrio (/pokemon/dugtrio),ground,Sand Veil (/abilitydex/sandveil.shtml) | Arena Trap (/abilitydex/arenatrap.shtml) | Sand Force (/abilitydex/sandforce.shtml),35,100,50,50,70,120,425
+#0052,Meowth (/pokemon/meowth),normal,Pickup (/abilitydex/pickup.shtml) | Technician (/abilitydex/technician.shtml) | Unnerve (/abilitydex/unnerve.shtml),40,45,35,40,40,90,290
+#0053,Persian (/pokemon/persian),normal,Limber (/abilitydex/limber.shtml) | Technician (/abilitydex/technician.shtml) | Unnerve (/abilitydex/unnerve.shtml),65,70,60,65,65,115,440
+#0054,Psyduck (/pokemon/psyduck),water,Damp (/abilitydex/damp.shtml) | Cloud Nine (/abilitydex/cloudnine.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),50,52,48,65,50,55,320
+#0055,Golduck (/pokemon/golduck),water,Damp (/abilitydex/damp.shtml) | Cloud Nine (/abilitydex/cloudnine.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),80,82,78,95,80,85,500
+#0056,Mankey (/pokemon/mankey),fighting,Vital Spirit (/abilitydex/vitalspirit.shtml) | Anger Point (/abilitydex/angerpoint.shtml) | Defiant (/abilitydex/defiant.shtml),40,80,35,35,45,70,305
+#0057,Primeape (/pokemon/primeape),fighting,Vital Spirit (/abilitydex/vitalspirit.shtml) | Anger Point (/abilitydex/angerpoint.shtml) | Defiant (/abilitydex/defiant.shtml),65,105,60,60,70,95,455
+#0058,Growlithe (/pokemon/growlithe),fire,Intimidate (/abilitydex/intimidate.shtml) | Flash Fire (/abilitydex/flashfire.shtml) | Justified (/abilitydex/justified.shtml),55,70,45,70,50,60,350
+#0059,Arcanine (/pokemon/arcanine),fire,Intimidate (/abilitydex/intimidate.shtml) | Flash Fire (/abilitydex/flashfire.shtml) | Justified (/abilitydex/justified.shtml),90,110,80,100,80,95,555
+#0060,Poliwag (/pokemon/poliwag),water,Water Absorb (/abilitydex/waterabsorb.shtml) | Damp (/abilitydex/damp.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),40,50,40,40,40,90,300
+#0061,Poliwhirl (/pokemon/poliwhirl),water,Water Absorb (/abilitydex/waterabsorb.shtml) | Damp (/abilitydex/damp.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),65,65,65,50,50,90,385
+#0062,Poliwrath (/pokemon/poliwrath),water | fighting,Water Absorb (/abilitydex/waterabsorb.shtml) | Damp (/abilitydex/damp.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),90,95,95,70,90,70,510
+#0063,Abra (/pokemon/abra),psychic,Synchronize (/abilitydex/synchronize.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Magic Guard (/abilitydex/magicguard.shtml),25,20,15,105,55,90,310
+#0064,Kadabra (/pokemon/kadabra),psychic,Synchronize (/abilitydex/synchronize.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Magic Guard (/abilitydex/magicguard.shtml),40,35,30,120,70,105,400
+#0065,Alakazam (/pokemon/alakazam),psychic,Synchronize (/abilitydex/synchronize.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Magic Guard (/abilitydex/magicguard.shtml),55,50,45,135,95,120,500
+#0066,Machop (/pokemon/machop),fighting,Guts (/abilitydex/guts.shtml) | No Guard (/abilitydex/noguard.shtml) | Steadfast (/abilitydex/steadfast.shtml),70,80,50,35,35,35,305
+#0067,Machoke (/pokemon/machoke),fighting,Guts (/abilitydex/guts.shtml) | No Guard (/abilitydex/noguard.shtml) | Steadfast (/abilitydex/steadfast.shtml),80,100,70,50,60,45,405
+#0068,Machamp (/pokemon/machamp),fighting,Guts (/abilitydex/guts.shtml) | No Guard (/abilitydex/noguard.shtml) | Steadfast (/abilitydex/steadfast.shtml),90,130,80,65,85,55,505
+#0069,Bellsprout (/pokemon/bellsprout),grass | poison,Chlorophyll (/abilitydex/chlorophyll.shtml) | Gluttony (/abilitydex/gluttony.shtml),50,75,35,70,30,40,300
+#0070,Weepinbell (/pokemon/weepinbell),grass | poison,Chlorophyll (/abilitydex/chlorophyll.shtml) | Gluttony (/abilitydex/gluttony.shtml),65,90,50,85,45,55,390
+#0071,Victreebel (/pokemon/victreebel),grass | poison,Chlorophyll (/abilitydex/chlorophyll.shtml) | Gluttony (/abilitydex/gluttony.shtml),80,105,65,100,70,70,490
+#0072,Tentacool (/pokemon/tentacool),water | poison,Clear Body (/abilitydex/clearbody.shtml) | Liquid Ooze (/abilitydex/liquidooze.shtml) | Rain Dish (/abilitydex/raindish.shtml),40,40,35,50,100,70,335
+#0073,Tentacruel (/pokemon/tentacruel),water | poison,Clear Body (/abilitydex/clearbody.shtml) | Liquid Ooze (/abilitydex/liquidooze.shtml) | Rain Dish (/abilitydex/raindish.shtml),80,70,65,80,120,100,515
+#0074,Geodude (/pokemon/geodude),rock | ground,Rock Head (/abilitydex/rockhead.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Sand Veil (/abilitydex/sandveil.shtml),40,80,100,30,30,20,300
+#0075,Graveler (/pokemon/graveler),rock | ground,Rock Head (/abilitydex/rockhead.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Sand Veil (/abilitydex/sandveil.shtml),55,95,115,45,45,35,390
+#0076,Golem (/pokemon/golem),rock | ground,Rock Head (/abilitydex/rockhead.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Sand Veil (/abilitydex/sandveil.shtml),80,120,130,55,65,45,495
+#0077,Ponyta (/pokemon/ponyta),fire,Run Away (/abilitydex/runaway.shtml) | Flash Fire (/abilitydex/flashfire.shtml) | Flame Body (/abilitydex/flamebody.shtml),50,85,55,65,65,90,410
+#0078,Rapidash (/pokemon/rapidash),fire,Run Away (/abilitydex/runaway.shtml) | Flash Fire (/abilitydex/flashfire.shtml) | Flame Body (/abilitydex/flamebody.shtml),65,100,70,80,80,105,500
+#0079,Slowpoke (/pokemon/slowpoke),water | psychic,Oblivious (/abilitydex/oblivious.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Regenerator (/abilitydex/regenerator.shtml),90,65,65,40,40,15,315
+#0080,Slowbro (/pokemon/slowbro),water | psychic,Oblivious (/abilitydex/oblivious.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Regenerator (/abilitydex/regenerator.shtml),95,75,110,100,80,30,490
+#0081,Magnemite (/pokemon/magnemite),electric | steel,Magnet Pull (/abilitydex/magnetpull.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Analytic (/abilitydex/analytic.shtml),25,35,70,95,55,45,325
+#0082,Magneton (/pokemon/magneton),electric | steel,Magnet Pull (/abilitydex/magnetpull.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Analytic (/abilitydex/analytic.shtml),50,60,95,120,70,70,465
+#0083,Farfetch'd (/pokemon/farfetch'd),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Defiant (/abilitydex/defiant.shtml),52,90,55,58,62,60,377
+#0084,Doduo (/pokemon/doduo),normal | flying,Run Away (/abilitydex/runaway.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Tangled Feet (/abilitydex/tangledfeet.shtml),35,85,45,35,35,75,310
+#0085,Dodrio (/pokemon/dodrio),normal | flying,Run Away (/abilitydex/runaway.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Tangled Feet (/abilitydex/tangledfeet.shtml),60,110,70,60,60,110,470
+#0086,Seel (/pokemon/seel),water,Thick Fat (/abilitydex/thickfat.shtml) | Hydration (/abilitydex/hydration.shtml) | Ice Body (/abilitydex/icebody.shtml),65,45,55,45,70,45,325
+#0087,Dewgong (/pokemon/dewgong),water | ice,Thick Fat (/abilitydex/thickfat.shtml) | Hydration (/abilitydex/hydration.shtml) | Ice Body (/abilitydex/icebody.shtml),90,70,80,70,95,70,475
+#0088,Grimer (/pokemon/grimer),poison,Stench (/abilitydex/stench.shtml) | Sticky Hold (/abilitydex/stickyhold.shtml) | Poison Touch (/abilitydex/poisontouch.shtml),80,80,50,40,50,25,325
+#0089,Muk (/pokemon/muk),poison,Stench (/abilitydex/stench.shtml) | Sticky Hold (/abilitydex/stickyhold.shtml) | Poison Touch (/abilitydex/poisontouch.shtml),105,105,75,65,100,50,500
+#0090,Shellder (/pokemon/shellder),water,Shell Armor (/abilitydex/shellarmor.shtml) | Skill Link (/abilitydex/skilllink.shtml) | Overcoat (/abilitydex/overcoat.shtml),30,65,100,45,25,40,305
+#0091,Cloyster (/pokemon/cloyster),water | ice,Shell Armor (/abilitydex/shellarmor.shtml) | Skill Link (/abilitydex/skilllink.shtml) | Overcoat (/abilitydex/overcoat.shtml),50,95,180,85,45,70,525
+#0092,Gastly (/pokemon/gastly),ghost | poison,Levitate (/abilitydex/levitate.shtml),30,35,30,100,35,80,310
+#0093,Haunter (/pokemon/haunter),ghost | poison,Levitate (/abilitydex/levitate.shtml),45,50,45,115,55,95,405
+#0094,Gengar (/pokemon/gengar),ghost | poison,Cursed Body (/abilitydex/cursedbody.shtml),60,65,60,130,75,110,500
+#0095,Onix (/pokemon/onix),rock | ground,Rock Head (/abilitydex/rockhead.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),35,45,160,30,45,70,385
+#0096,Drowzee (/pokemon/drowzee),psychic,Insomnia (/abilitydex/insomnia.shtml) | Forewarn (/abilitydex/forewarn.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),60,48,45,43,90,42,328
+#0097,Hypno (/pokemon/hypno),psychic,Insomnia (/abilitydex/insomnia.shtml) | Forewarn (/abilitydex/forewarn.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),85,73,70,73,115,67,483
+#0098,Krabby (/pokemon/krabby),water,Hyper Cutter (/abilitydex/hypercutter.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),30,105,90,25,25,50,325
+#0099,Kingler (/pokemon/kingler),water,Hyper Cutter (/abilitydex/hypercutter.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),55,130,115,50,50,75,475
+#0100,Voltorb (/pokemon/voltorb),electric,Soundproof (/abilitydex/soundproof.shtml) | Static (/abilitydex/static.shtml) | Aftermath (/abilitydex/aftermath.shtml),40,30,50,55,55,100,330
+#0101,Electrode (/pokemon/electrode),electric,Soundproof (/abilitydex/soundproof.shtml) | Static (/abilitydex/static.shtml) | Aftermath (/abilitydex/aftermath.shtml),60,50,70,80,80,150,490
+#0102,Exeggcute (/pokemon/exeggcute),grass | psychic,Chlorophyll (/abilitydex/chlorophyll.shtml) | Harvest (/abilitydex/harvest.shtml),60,40,80,60,45,40,325
+#0103,Exeggutor (/pokemon/exeggutor),grass | psychic,Chlorophyll (/abilitydex/chlorophyll.shtml) | Harvest (/abilitydex/harvest.shtml),95,95,85,125,75,55,530
+#0104,Cubone (/pokemon/cubone),ground,Rock Head (/abilitydex/rockhead.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml) | Battle Armor (/abilitydex/battlearmor.shtml),50,50,95,40,50,35,320
+#0105,Marowak (/pokemon/marowak),ground,Rock Head (/abilitydex/rockhead.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml) | Battle Armor (/abilitydex/battlearmor.shtml),60,80,110,50,80,45,425
+#0106,Hitmonlee (/pokemon/hitmonlee),fighting,Limber (/abilitydex/limber.shtml) | Reckless (/abilitydex/reckless.shtml) | Unburden (/abilitydex/unburden.shtml),50,120,53,35,110,87,455
+#0107,Hitmonchan (/pokemon/hitmonchan),fighting,Keen Eye (/abilitydex/keeneye.shtml) | Iron Fist (/abilitydex/ironfist.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),50,105,79,35,110,76,455
+#0108,Lickitung (/pokemon/lickitung),normal,Own Tempo (/abilitydex/owntempo.shtml) | Oblivious (/abilitydex/oblivious.shtml) | Cloud Nine (/abilitydex/cloudnine.shtml),90,55,75,60,75,30,385
+#0109,Koffing (/pokemon/koffing),poison,Levitate (/abilitydex/levitate.shtml) | Neutralizing Gas (/abilitydex/neutralizinggas.shtml) | Stench (/abilitydex/stench.shtml),40,65,95,60,45,35,340
+#0110,Weezing (/pokemon/weezing),poison,Levitate (/abilitydex/levitate.shtml) | Neutralizing Gas (/abilitydex/neutralizinggas.shtml) | Stench (/abilitydex/stench.shtml),65,90,120,85,70,60,490
+#0111,Rhyhorn (/pokemon/rhyhorn),ground | rock,Lightning Rod (/abilitydex/lightningrod.shtml) | Rock Head (/abilitydex/rockhead.shtml) | Reckless (/abilitydex/reckless.shtml),80,85,95,30,30,25,345
+#0112,Rhydon (/pokemon/rhydon),ground | rock,Lightning Rod (/abilitydex/lightningrod.shtml) | Rock Head (/abilitydex/rockhead.shtml) | Reckless (/abilitydex/reckless.shtml),105,130,120,45,45,40,485
+#0113,Chansey (/pokemon/chansey),normal,Natural Cure (/abilitydex/naturalcure.shtml) | Serene Grace (/abilitydex/serenegrace.shtml) | Healer (/abilitydex/healer.shtml),250,5,5,35,105,50,450
+#0114,Tangela (/pokemon/tangela),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Leaf Guard (/abilitydex/leafguard.shtml) | Regenerator (/abilitydex/regenerator.shtml),65,55,115,100,40,60,435
+#0115,Kangaskhan (/pokemon/kangaskhan),normal,Early Bird (/abilitydex/earlybird.shtml) | Scrappy (/abilitydex/scrappy.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),105,95,80,40,80,90,490
+#0116,Horsea (/pokemon/horsea),water,Swift Swim (/abilitydex/swiftswim.shtml) | Sniper (/abilitydex/sniper.shtml) | Damp (/abilitydex/damp.shtml),30,40,70,70,25,60,295
+#0117,Seadra (/pokemon/seadra),water,Poison Point (/abilitydex/poisonpoint.shtml) | Sniper (/abilitydex/sniper.shtml) | Damp (/abilitydex/damp.shtml),55,65,95,95,45,85,440
+#0118,Goldeen (/pokemon/goldeen),water,Swift Swim (/abilitydex/swiftswim.shtml) | Water Veil (/abilitydex/waterveil.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml),45,67,60,35,50,63,320
+#0119,Seaking (/pokemon/seaking),water,Swift Swim (/abilitydex/swiftswim.shtml) | Water Veil (/abilitydex/waterveil.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml),80,92,65,65,80,68,450
+#0120,Staryu (/pokemon/staryu),water,Illuminate (/abilitydex/illuminate.shtml) | Natural Cure (/abilitydex/naturalcure.shtml) | Analytic (/abilitydex/analytic.shtml),30,45,55,70,55,85,340
+#0121,Starmie (/pokemon/starmie),water | psychic,Illuminate (/abilitydex/illuminate.shtml) | Natural Cure (/abilitydex/naturalcure.shtml) | Analytic (/abilitydex/analytic.shtml),60,75,85,100,85,115,520
+#0122,Mr. Mime (/pokemon/mr.mime),psychic | fairy,Soundproof (/abilitydex/soundproof.shtml) | Filter (/abilitydex/filter.shtml) | Technician (/abilitydex/technician.shtml),40,45,65,100,120,90,460
+#0123,Scyther (/pokemon/scyther),bug | flying,Swarm (/abilitydex/swarm.shtml) | Technician (/abilitydex/technician.shtml) | Steadfast (/abilitydex/steadfast.shtml),70,110,80,55,80,105,500
+#0124,Jynx (/pokemon/jynx),ice | psychic,Oblivious (/abilitydex/oblivious.shtml) | Forewarn (/abilitydex/forewarn.shtml) | Dry Skin (/abilitydex/dryskin.shtml),65,50,35,115,95,95,455
+#0125,Electabuzz (/pokemon/electabuzz),electric,Static (/abilitydex/static.shtml) | Vital Spirit (/abilitydex/vitalspirit.shtml),65,83,57,95,85,105,490
+#0126,Magmar (/pokemon/magmar),fire,Flame Body (/abilitydex/flamebody.shtml) | Vital Spirit (/abilitydex/vitalspirit.shtml),65,95,57,100,85,93,495
+#0127,Pinsir (/pokemon/pinsir),bug,Hyper Cutter (/abilitydex/hypercutter.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml) | Moxie (/abilitydex/moxie.shtml),65,125,100,55,70,85,500
+#0128,Tauros (/pokemon/tauros),normal,Intimidate (/abilitydex/intimidate.shtml) | Anger Point (/abilitydex/angerpoint.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),75,100,95,40,70,110,490
+#0129,Magikarp (/pokemon/magikarp),water,Swift Swim (/abilitydex/swiftswim.shtml) | Rattled (/abilitydex/rattled.shtml),20,10,55,15,20,80,200
+#0130,Gyarados (/pokemon/gyarados),water | flying,Intimidate (/abilitydex/intimidate.shtml) | Moxie (/abilitydex/moxie.shtml),95,125,79,60,100,81,540
+#0131,Lapras (/pokemon/lapras),water | ice,Water Absorb (/abilitydex/waterabsorb.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Hydration (/abilitydex/hydration.shtml),130,85,80,85,95,60,535
+#0132,Ditto (/pokemon/ditto),normal,Limber (/abilitydex/limber.shtml) | Imposter (/abilitydex/imposter.shtml),48,48,48,48,48,48,288
+#0133,Eevee (/pokemon/eevee),normal,Run Away (/abilitydex/runaway.shtml) | Adaptability (/abilitydex/adaptability.shtml) | Anticipation (/abilitydex/anticipation.shtml),55,55,50,45,65,55,325
+#0134,Vaporeon (/pokemon/vaporeon),water,Water Absorb (/abilitydex/waterabsorb.shtml) | Hydration (/abilitydex/hydration.shtml),130,65,60,110,95,65,525
+#0135,Jolteon (/pokemon/jolteon),electric,Volt Absorb (/abilitydex/voltabsorb.shtml) | Quick Feet (/abilitydex/quickfeet.shtml),65,65,60,110,95,130,525
+#0136,Flareon (/pokemon/flareon),fire,Flash Fire (/abilitydex/flashfire.shtml) | Guts (/abilitydex/guts.shtml),65,130,60,95,110,65,525
+#0137,Porygon (/pokemon/porygon),normal,Trace (/abilitydex/trace.shtml) | Download (/abilitydex/download.shtml) | Analytic (/abilitydex/analytic.shtml),65,60,70,85,75,40,395
+#0138,Omanyte (/pokemon/omanyte),rock | water,Swift Swim (/abilitydex/swiftswim.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),35,40,100,90,55,35,355
+#0139,Omastar (/pokemon/omastar),rock | water,Swift Swim (/abilitydex/swiftswim.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),70,60,125,115,70,55,495
+#0140,Kabuto (/pokemon/kabuto),rock | water,Swift Swim (/abilitydex/swiftswim.shtml) | Battle Armor (/abilitydex/battlearmor.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),30,80,90,55,45,55,355
+#0141,Kabutops (/pokemon/kabutops),rock | water,Swift Swim (/abilitydex/swiftswim.shtml) | Battle Armor (/abilitydex/battlearmor.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),60,115,105,65,70,80,495
+#0142,Aerodactyl (/pokemon/aerodactyl),rock | flying,Rock Head (/abilitydex/rockhead.shtml) | Pressure (/abilitydex/pressure.shtml) | Unnerve (/abilitydex/unnerve.shtml),80,105,65,60,75,130,515
+#0143,Snorlax (/pokemon/snorlax),normal,Immunity (/abilitydex/immunity.shtml) | Thick Fat (/abilitydex/thickfat.shtml) | Gluttony (/abilitydex/gluttony.shtml),160,110,65,65,110,30,540
+#0144,Articuno (/pokemon/articuno),ice | flying,Pressure (/abilitydex/pressure.shtml) | Snow Cloak (/abilitydex/snowcloak.shtml),90,85,100,95,125,85,580
+#0145,Zapdos (/pokemon/zapdos),electric | flying,Pressure (/abilitydex/pressure.shtml) | Static (/abilitydex/static.shtml),90,90,85,125,90,100,580
+#0146,Moltres (/pokemon/moltres),fire | flying,Pressure (/abilitydex/pressure.shtml) | Flame Body (/abilitydex/flamebody.shtml),90,100,90,125,85,90,580
+#0147,Dratini (/pokemon/dratini),dragon,Shed Skin (/abilitydex/shedskin.shtml) | Marvel Scale (/abilitydex/marvelscale.shtml),41,64,45,50,50,50,300
+#0148,Dragonair (/pokemon/dragonair),dragon,Shed Skin (/abilitydex/shedskin.shtml) | Marvel Scale (/abilitydex/marvelscale.shtml),61,84,65,70,70,70,420
+#0149,Dragonite (/pokemon/dragonite),dragon | flying,Inner Focus (/abilitydex/innerfocus.shtml) | Multiscale (/abilitydex/multiscale.shtml),91,134,95,100,100,80,600
+#0150,Mewtwo (/pokemon/mewtwo),psychic,Pressure (/abilitydex/pressure.shtml) | Unnerve (/abilitydex/unnerve.shtml),106,110,90,154,90,130,680
+#0151,Mew (/pokemon/mew),psychic,Synchronize (/abilitydex/synchronize.shtml),100,100,100,100,100,100,600
+#0152,Chikorita (/pokemon/chikorita),grass,Overgrow (/abilitydex/overgrow.shtml) | Leaf Guard (/abilitydex/leafguard.shtml),45,49,65,49,65,45,318
+#0153,Bayleef (/pokemon/bayleef),grass,Overgrow (/abilitydex/overgrow.shtml) | Leaf Guard (/abilitydex/leafguard.shtml),60,62,80,63,80,60,405
+#0154,Meganium (/pokemon/meganium),grass,Overgrow (/abilitydex/overgrow.shtml) | Leaf Guard (/abilitydex/leafguard.shtml),80,82,100,83,100,80,525
+#0155,Cyndaquil (/pokemon/cyndaquil),fire,Blaze (/abilitydex/blaze.shtml) | Flash Fire (/abilitydex/flashfire.shtml),39,52,43,60,50,65,309
+#0156,Quilava (/pokemon/quilava),fire,Blaze (/abilitydex/blaze.shtml) | Flash Fire (/abilitydex/flashfire.shtml),58,64,58,80,65,80,405
+#0157,Typhlosion (/pokemon/typhlosion),fire,Blaze (/abilitydex/blaze.shtml) | Flash Fire (/abilitydex/flashfire.shtml),78,84,78,109,85,100,534
+#0158,Totodile (/pokemon/totodile),water,Torrent (/abilitydex/torrent.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),50,65,64,44,48,43,314
+#0159,Croconaw (/pokemon/croconaw),water,Torrent (/abilitydex/torrent.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),65,80,80,59,63,58,405
+#0160,Feraligatr (/pokemon/feraligatr),water,Torrent (/abilitydex/torrent.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),85,105,100,79,83,78,530
+#0161,Sentret (/pokemon/sentret),normal,Run Away (/abilitydex/runaway.shtml) | Keen Eye (/abilitydex/keeneye.shtml) | Frisk (/abilitydex/frisk.shtml),35,46,34,35,45,20,215
+#0162,Furret (/pokemon/furret),normal,Run Away (/abilitydex/runaway.shtml) | Keen Eye (/abilitydex/keeneye.shtml) | Frisk (/abilitydex/frisk.shtml),85,76,64,45,55,90,415
+#0163,Hoothoot (/pokemon/hoothoot),normal | flying,Insomnia (/abilitydex/insomnia.shtml) | Keen Eye (/abilitydex/keeneye.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml),60,30,30,36,56,50,262
+#0164,Noctowl (/pokemon/noctowl),normal | flying,Insomnia (/abilitydex/insomnia.shtml) | Keen Eye (/abilitydex/keeneye.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml),100,50,50,86,96,70,452
+#0165,Ledyba (/pokemon/ledyba),bug | flying,Swarm (/abilitydex/swarm.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Rattled (/abilitydex/rattled.shtml),40,20,30,40,80,55,265
+#0166,Ledian (/pokemon/ledian),bug | flying,Swarm (/abilitydex/swarm.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Iron Fist (/abilitydex/ironfist.shtml),55,35,50,55,110,85,390
+#0167,Spinarak (/pokemon/spinarak),bug | poison,Swarm (/abilitydex/swarm.shtml) | Insomnia (/abilitydex/insomnia.shtml) | Sniper (/abilitydex/sniper.shtml),40,60,40,40,40,30,250
+#0168,Ariados (/pokemon/ariados),bug | poison,Swarm (/abilitydex/swarm.shtml) | Insomnia (/abilitydex/insomnia.shtml) | Sniper (/abilitydex/sniper.shtml),70,90,70,60,70,40,400
+#0169,Crobat (/pokemon/crobat),poison | flying,Inner Focus (/abilitydex/innerfocus.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),85,90,80,70,80,130,535
+#0170,Chinchou (/pokemon/chinchou),water | electric,Volt Absorb (/abilitydex/voltabsorb.shtml) | Illuminate (/abilitydex/illuminate.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),75,38,38,56,56,67,330
+#0171,Lanturn (/pokemon/lanturn),water | electric,Volt Absorb (/abilitydex/voltabsorb.shtml) | Illuminate (/abilitydex/illuminate.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),125,58,58,76,76,67,460
+#0172,Pichu (/pokemon/pichu),electric,Static (/abilitydex/static.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml),20,40,15,35,35,60,205
+#0173,Cleffa (/pokemon/cleffa),fairy,Cute Charm (/abilitydex/cutecharm.shtml) | Magic Guard (/abilitydex/magicguard.shtml) | Friend Guard (/abilitydex/friendguard.shtml),50,25,28,45,55,15,218
+#0174,Igglybuff (/pokemon/igglybuff),normal | fairy,Cute Charm (/abilitydex/cutecharm.shtml) | Competitive (/abilitydex/competitive.shtml) | Friend Guard (/abilitydex/friendguard.shtml),90,30,15,40,20,15,210
+#0175,Togepi (/pokemon/togepi),fairy,Hustle (/abilitydex/hustle.shtml) | Serene Grace (/abilitydex/serenegrace.shtml) | Super Luck (/abilitydex/superluck.shtml),35,20,65,40,65,20,245
+#0176,Togetic (/pokemon/togetic),fairy | flying,Hustle (/abilitydex/hustle.shtml) | Serene Grace (/abilitydex/serenegrace.shtml) | Super Luck (/abilitydex/superluck.shtml),55,40,85,80,105,40,405
+#0177,Natu (/pokemon/natu),psychic | flying,Synchronize (/abilitydex/synchronize.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Magic Bounce (/abilitydex/magicbounce.shtml),40,50,45,70,45,70,320
+#0178,Xatu (/pokemon/xatu),psychic | flying,Synchronize (/abilitydex/synchronize.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Magic Bounce (/abilitydex/magicbounce.shtml),65,75,70,95,70,95,470
+#0179,Mareep (/pokemon/mareep),electric,Static (/abilitydex/static.shtml) | Plus (/abilitydex/plus.shtml),55,40,40,65,45,35,280
+#0180,Flaaffy (/pokemon/flaaffy),electric,Static (/abilitydex/static.shtml) | Plus (/abilitydex/plus.shtml),70,55,55,80,60,45,365
+#0181,Ampharos (/pokemon/ampharos),electric,Static (/abilitydex/static.shtml) | Plus (/abilitydex/plus.shtml),90,75,85,115,90,55,510
+#0182,Bellossom (/pokemon/bellossom),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Healer (/abilitydex/healer.shtml),75,80,95,90,100,50,490
+#0183,Marill (/pokemon/marill),water | fairy,Thick Fat (/abilitydex/thickfat.shtml) | Huge Power (/abilitydex/hugepower.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),70,20,50,20,50,40,250
+#0184,Azumarill (/pokemon/azumarill),water | fairy,Thick Fat (/abilitydex/thickfat.shtml) | Huge Power (/abilitydex/hugepower.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),100,50,80,60,80,50,420
+#0185,Sudowoodo (/pokemon/sudowoodo),rock,Sturdy (/abilitydex/sturdy.shtml) | Rock Head (/abilitydex/rockhead.shtml) | Rattled (/abilitydex/rattled.shtml),70,100,115,30,65,30,410
+#0186,Politoed (/pokemon/politoed),water,Water Absorb (/abilitydex/waterabsorb.shtml) | Damp (/abilitydex/damp.shtml) | Drizzle (/abilitydex/drizzle.shtml),90,75,75,90,100,70,500
+#0187,Hoppip (/pokemon/hoppip),grass | flying,Chlorophyll (/abilitydex/chlorophyll.shtml) | Leaf Guard (/abilitydex/leafguard.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),35,35,40,35,55,50,250
+#0188,Skiploom (/pokemon/skiploom),grass | flying,Chlorophyll (/abilitydex/chlorophyll.shtml) | Leaf Guard (/abilitydex/leafguard.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),55,45,50,45,65,80,340
+#0189,Jumpluff (/pokemon/jumpluff),grass | flying,Chlorophyll (/abilitydex/chlorophyll.shtml) | Leaf Guard (/abilitydex/leafguard.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),75,55,70,55,95,110,460
+#0190,Aipom (/pokemon/aipom),normal,Run Away (/abilitydex/runaway.shtml) | Pickup (/abilitydex/pickup.shtml) | Skill Link (/abilitydex/skilllink.shtml),55,70,55,40,55,85,360
+#0191,Sunkern (/pokemon/sunkern),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Solar Power (/abilitydex/solarpower.shtml) | Early Bird (/abilitydex/earlybird.shtml),30,30,30,30,30,30,180
+#0192,Sunflora (/pokemon/sunflora),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Solar Power (/abilitydex/solarpower.shtml) | Early Bird (/abilitydex/earlybird.shtml),75,75,55,105,85,30,425
+#0193,Yanma (/pokemon/yanma),bug | flying,Speed Boost (/abilitydex/speedboost.shtml) | Compoundeyes (/abilitydex/compoundeyes.shtml) | Frisk (/abilitydex/frisk.shtml),65,65,45,75,45,95,390
+#0194,Wooper (/pokemon/wooper),water | ground,Damp (/abilitydex/damp.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml) | Unaware (/abilitydex/unaware.shtml),55,45,45,25,25,15,210
+#0195,Quagsire (/pokemon/quagsire),water | ground,Damp (/abilitydex/damp.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml) | Unaware (/abilitydex/unaware.shtml),95,85,85,65,65,35,430
+#0196,Espeon (/pokemon/espeon),psychic,Synchronize (/abilitydex/synchronize.shtml) | Magic Bounce (/abilitydex/magicbounce.shtml),65,65,60,130,95,110,525
+#0197,Umbreon (/pokemon/umbreon),dark,Synchronize (/abilitydex/synchronize.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),95,65,110,60,130,65,525
+#0198,Murkrow (/pokemon/murkrow),dark | flying,Insomnia (/abilitydex/insomnia.shtml) | Super Luck (/abilitydex/superluck.shtml) | Prankster (/abilitydex/prankster.shtml),60,85,42,85,42,91,405
+#0199,Slowking (/pokemon/slowking),water | psychic,Oblivious (/abilitydex/oblivious.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Regenerator (/abilitydex/regenerator.shtml),95,75,80,100,110,30,490
+#0200,Misdreavus (/pokemon/misdreavus),ghost,Levitate (/abilitydex/levitate.shtml),60,60,60,85,85,85,435
+#0201,Unown (/pokemon/unown),psychic,Levitate (/abilitydex/levitate.shtml),48,72,48,72,48,48,336
+#0202,Wobbuffet (/pokemon/wobbuffet),psychic,Shadow Tag (/abilitydex/shadowtag.shtml) | Telepathy (/abilitydex/telepathy.shtml),190,33,58,33,58,33,405
+#0203,Girafarig (/pokemon/girafarig),normal | psychic,Inner Focus (/abilitydex/innerfocus.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),70,80,65,90,65,85,455
+#0204,Pineco (/pokemon/pineco),bug,Sturdy (/abilitydex/sturdy.shtml) | Overcoat (/abilitydex/overcoat.shtml),50,65,90,35,35,15,290
+#0205,Forretress (/pokemon/forretress),bug | steel,Sturdy (/abilitydex/sturdy.shtml) | Overcoat (/abilitydex/overcoat.shtml),75,90,140,60,60,40,465
+#0206,Dunsparce (/pokemon/dunsparce),normal,Serene Grace (/abilitydex/serenegrace.shtml) | Run Away (/abilitydex/runaway.shtml) | Rattled (/abilitydex/rattled.shtml),100,70,70,65,65,45,415
+#0207,Gligar (/pokemon/gligar),ground | flying,Hyper Cutter (/abilitydex/hypercutter.shtml) | Sand Veil (/abilitydex/sandveil.shtml) | Immunity (/abilitydex/immunity.shtml),65,75,105,35,65,85,430
+#0208,Steelix (/pokemon/steelix),steel | ground,Rock Head (/abilitydex/rockhead.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),75,85,200,55,65,30,510
+#0209,Snubbull (/pokemon/snubbull),fairy,Intimidate (/abilitydex/intimidate.shtml) | Run Away (/abilitydex/runaway.shtml) | Rattled (/abilitydex/rattled.shtml),60,80,50,40,40,30,300
+#0210,Granbull (/pokemon/granbull),fairy,Intimidate (/abilitydex/intimidate.shtml) | Quick Feet (/abilitydex/quickfeet.shtml) | Rattled (/abilitydex/rattled.shtml),90,120,75,60,60,45,450
+#0211,Qwilfish (/pokemon/qwilfish),water | poison,Poison Point (/abilitydex/poisonpoint.shtml) | Swift Swim (/abilitydex/swiftswim.shtml) | Intimidate (/abilitydex/intimidate.shtml),65,95,85,55,55,85,440
+#0212,Scizor (/pokemon/scizor),bug | steel,Swarm (/abilitydex/swarm.shtml) | Technician (/abilitydex/technician.shtml) | Light Metal (/abilitydex/lightmetal.shtml),70,130,100,55,80,65,500
+#0213,Shuckle (/pokemon/shuckle),bug | rock,Sturdy (/abilitydex/sturdy.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Contrary (/abilitydex/contrary.shtml),20,10,230,10,230,5,505
+#0214,Heracross (/pokemon/heracross),bug | fighting,Swarm (/abilitydex/swarm.shtml) | Guts (/abilitydex/guts.shtml) | Moxie (/abilitydex/moxie.shtml),80,125,75,40,95,85,500
+#0215,Sneasel (/pokemon/sneasel),dark | ice,Inner Focus (/abilitydex/innerfocus.shtml) | Keen Eye (/abilitydex/keeneye.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),55,95,55,35,75,115,430
+#0216,Teddiursa (/pokemon/teddiursa),normal,Pickup (/abilitydex/pickup.shtml) | Quick Feet (/abilitydex/quickfeet.shtml) | Honey Gather (/abilitydex/honeygather.shtml),60,80,50,50,50,40,330
+#0217,Ursaring (/pokemon/ursaring),normal,Guts (/abilitydex/guts.shtml) | Quick Feet (/abilitydex/quickfeet.shtml) | Unnerve (/abilitydex/unnerve.shtml),90,130,75,75,75,55,500
+#0218,Slugma (/pokemon/slugma),fire,Magma Armor (/abilitydex/magmaarmor.shtml) | Flame Body (/abilitydex/flamebody.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),40,40,40,70,40,20,250
+#0219,Magcargo (/pokemon/magcargo),fire | rock,Magma Armor (/abilitydex/magmaarmor.shtml) | Flame Body (/abilitydex/flamebody.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),60,50,120,90,80,30,430
+#0220,Swinub (/pokemon/swinub),ice | ground,Oblivious (/abilitydex/oblivious.shtml) | Snow Cloak (/abilitydex/snowcloak.shtml) | Thick Fat (/abilitydex/thickfat.shtml),50,50,40,30,30,50,250
+#0221,Piloswine (/pokemon/piloswine),ice | ground,Oblivious (/abilitydex/oblivious.shtml) | Snow Cloak (/abilitydex/snowcloak.shtml) | Thick Fat (/abilitydex/thickfat.shtml),100,100,80,60,60,50,450
+#0222,Corsola (/pokemon/corsola),water | rock,Hustle (/abilitydex/hustle.shtml) | Natural Cure (/abilitydex/naturalcure.shtml) | Regenerator (/abilitydex/regenerator.shtml),65,55,95,65,95,35,410
+#0223,Remoraid (/pokemon/remoraid),water,Hustle (/abilitydex/hustle.shtml) | Sniper (/abilitydex/sniper.shtml) | Moody (/abilitydex/moody.shtml),35,65,35,65,35,65,300
+#0224,Octillery (/pokemon/octillery),water,Suction Cups (/abilitydex/suctioncups.shtml) | Sniper (/abilitydex/sniper.shtml) | Moody (/abilitydex/moody.shtml),75,105,75,105,75,45,480
+#0225,Delibird (/pokemon/delibird),ice | flying,Vital Spirit (/abilitydex/vitalspirit.shtml) | Hustle (/abilitydex/hustle.shtml) | Insomnia (/abilitydex/insomnia.shtml),45,55,45,65,45,75,330
+#0226,Mantine (/pokemon/mantine),water | flying,Swift Swim (/abilitydex/swiftswim.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml) | Water Veil (/abilitydex/waterveil.shtml),85,40,70,80,140,70,485
+#0227,Skarmory (/pokemon/skarmory),steel | flying,Keen Eye (/abilitydex/keeneye.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),65,80,140,40,70,70,465
+#0228,Houndour (/pokemon/houndour),dark | fire,Early Bird (/abilitydex/earlybird.shtml) | Flash Fire (/abilitydex/flashfire.shtml) | Unnerve (/abilitydex/unnerve.shtml),45,60,30,80,50,65,330
+#0229,Houndoom (/pokemon/houndoom),dark | fire,Early Bird (/abilitydex/earlybird.shtml) | Flash Fire (/abilitydex/flashfire.shtml) | Unnerve (/abilitydex/unnerve.shtml),75,90,50,110,80,95,500
+#0230,Kingdra (/pokemon/kingdra),water | dragon,Swift Swim (/abilitydex/swiftswim.shtml) | Sniper (/abilitydex/sniper.shtml) | Damp (/abilitydex/damp.shtml),75,95,95,95,95,85,540
+#0231,Phanpy (/pokemon/phanpy),ground,Pickup (/abilitydex/pickup.shtml) | Sand Veil (/abilitydex/sandveil.shtml),90,60,60,40,40,40,330
+#0232,Donphan (/pokemon/donphan),ground,Sturdy (/abilitydex/sturdy.shtml) | Sand Veil (/abilitydex/sandveil.shtml),90,120,120,60,60,50,500
+#0233,Porygon2 (/pokemon/porygon2),normal,Trace (/abilitydex/trace.shtml) | Download (/abilitydex/download.shtml) | Analytic (/abilitydex/analytic.shtml),85,80,90,105,95,60,515
+#0234,Stantler (/pokemon/stantler),normal,Intimidate (/abilitydex/intimidate.shtml) | Frisk (/abilitydex/frisk.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),73,95,62,85,65,85,465
+#0235,Smeargle (/pokemon/smeargle),normal,Own Tempo (/abilitydex/owntempo.shtml) | Technician (/abilitydex/technician.shtml) | Moody (/abilitydex/moody.shtml),55,20,35,20,45,75,250
+#0236,Tyrogue (/pokemon/tyrogue),fighting,Guts (/abilitydex/guts.shtml) | Steadfast (/abilitydex/steadfast.shtml) | Vital Spirit (/abilitydex/vitalspirit.shtml),35,35,35,35,35,35,210
+#0237,Hitmontop (/pokemon/hitmontop),fighting,Intimidate (/abilitydex/intimidate.shtml) | Technician (/abilitydex/technician.shtml) | Steadfast (/abilitydex/steadfast.shtml),50,95,95,35,110,70,455
+#0238,Smoochum (/pokemon/smoochum),ice | psychic,Oblivious (/abilitydex/oblivious.shtml) | Forewarn (/abilitydex/forewarn.shtml) | Hydration (/abilitydex/hydration.shtml),45,30,15,85,65,65,305
+#0239,Elekid (/pokemon/elekid),electric,Static (/abilitydex/static.shtml) | Vital Spirit (/abilitydex/vitalspirit.shtml),45,63,37,65,55,95,360
+#0240,Magby (/pokemon/magby),fire,Flame Body (/abilitydex/flamebody.shtml) | Vital Spirit (/abilitydex/vitalspirit.shtml),45,75,37,70,55,83,365
+#0241,Miltank (/pokemon/miltank),normal,Thick Fat (/abilitydex/thickfat.shtml) | Scrappy (/abilitydex/scrappy.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),95,80,105,40,70,100,490
+#0242,Blissey (/pokemon/blissey),normal,Natural Cure (/abilitydex/naturalcure.shtml) | Serene Grace (/abilitydex/serenegrace.shtml) | Healer (/abilitydex/healer.shtml),255,10,10,75,135,55,540
+#0243,Raikou (/pokemon/raikou),electric,Pressure (/abilitydex/pressure.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),90,85,75,115,100,115,580
+#0244,Entei (/pokemon/entei),fire,Pressure (/abilitydex/pressure.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),115,115,85,90,75,100,580
+#0245,Suicune (/pokemon/suicune),water,Pressure (/abilitydex/pressure.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),100,75,115,90,115,85,580
+#0246,Larvitar (/pokemon/larvitar),rock | ground,Guts (/abilitydex/guts.shtml) | Sand Veil (/abilitydex/sandveil.shtml),50,64,50,45,50,41,300
+#0247,Pupitar (/pokemon/pupitar),rock | ground,Shed Skin (/abilitydex/shedskin.shtml),70,84,70,65,70,51,410
+#0248,Tyranitar (/pokemon/tyranitar),rock | dark,Sand Stream (/abilitydex/sandstream.shtml) | Unnerve (/abilitydex/unnerve.shtml),100,134,110,95,100,61,600
+#0249,Lugia (/pokemon/lugia),psychic | flying,Pressure (/abilitydex/pressure.shtml) | Multiscale (/abilitydex/multiscale.shtml),106,90,130,90,154,110,680
+#0250,Ho-Oh (/pokemon/ho-oh),fire | flying,Pressure (/abilitydex/pressure.shtml) | Regenerator (/abilitydex/regenerator.shtml),106,130,90,110,154,90,680
+#0251,Celebi (/pokemon/celebi),psychic | grass,Natural Cure (/abilitydex/naturalcure.shtml),100,100,100,100,100,100,600
+#0252,Treecko (/pokemon/treecko),grass,Overgrow (/abilitydex/overgrow.shtml) | Unburden (/abilitydex/unburden.shtml),40,45,35,65,55,70,310
+#0253,Grovyle (/pokemon/grovyle),grass,Overgrow (/abilitydex/overgrow.shtml) | Unburden (/abilitydex/unburden.shtml),50,65,45,85,65,95,405
+#0254,Sceptile (/pokemon/sceptile),grass,Overgrow (/abilitydex/overgrow.shtml) | Unburden (/abilitydex/unburden.shtml),70,85,65,105,85,120,530
+#0255,Torchic (/pokemon/torchic),fire,Blaze (/abilitydex/blaze.shtml) | Speed Boost (/abilitydex/speedboost.shtml),45,60,40,70,50,45,310
+#0256,Combusken (/pokemon/combusken),fire | fighting,Blaze (/abilitydex/blaze.shtml) | Speed Boost (/abilitydex/speedboost.shtml),60,85,60,85,60,55,405
+#0257,Blaziken (/pokemon/blaziken),fire | fighting,Blaze (/abilitydex/blaze.shtml) | Speed Boost (/abilitydex/speedboost.shtml),80,120,70,110,70,80,530
+#0258,Mudkip (/pokemon/mudkip),water,Torrent (/abilitydex/torrent.shtml) | Damp (/abilitydex/damp.shtml),50,70,50,50,50,40,310
+#0259,Marshtomp (/pokemon/marshtomp),water | ground,Torrent (/abilitydex/torrent.shtml) | Damp (/abilitydex/damp.shtml),70,85,70,60,70,50,405
+#0260,Swampert (/pokemon/swampert),water | ground,Torrent (/abilitydex/torrent.shtml) | Damp (/abilitydex/damp.shtml),100,110,90,85,90,60,535
+#0261,Poochyena (/pokemon/poochyena),dark,Run Away (/abilitydex/runaway.shtml) | Quick Feet (/abilitydex/quickfeet.shtml) | Rattled (/abilitydex/rattled.shtml),35,55,35,30,30,35,220
+#0262,Mightyena (/pokemon/mightyena),dark,Intimidate (/abilitydex/intimidate.shtml) | Quick Feet (/abilitydex/quickfeet.shtml) | Moxie (/abilitydex/moxie.shtml),70,90,70,60,60,70,420
+#0263,Zigzagoon (/pokemon/zigzagoon),normal,Pickup (/abilitydex/pickup.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Quick Feet (/abilitydex/quickfeet.shtml),38,30,41,30,41,60,240
+#0264,Linoone (/pokemon/linoone),normal,Pickup (/abilitydex/pickup.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Quick Feet (/abilitydex/quickfeet.shtml),78,70,61,50,61,100,420
+#0265,Wurmple (/pokemon/wurmple),bug,Shield Dust (/abilitydex/shielddust.shtml) | Run Away (/abilitydex/runaway.shtml),45,45,35,20,30,20,195
+#0266,Silcoon (/pokemon/silcoon),bug,Shed Skin (/abilitydex/shedskin.shtml),50,35,55,25,25,15,205
+#0267,Beautifly (/pokemon/beautifly),bug | flying,Swarm (/abilitydex/swarm.shtml) | Rivalry (/abilitydex/rivalry.shtml),60,70,50,100,50,65,395
+#0268,Cascoon (/pokemon/cascoon),bug,Shed Skin (/abilitydex/shedskin.shtml),50,35,55,25,25,15,205
+#0269,Dustox (/pokemon/dustox),bug | poison,Shield Dust (/abilitydex/shielddust.shtml) | Compoundeyes (/abilitydex/compoundeyes.shtml),60,50,70,50,90,65,385
+#0270,Lotad (/pokemon/lotad),water | grass,Swift Swim (/abilitydex/swiftswim.shtml) | Rain Dish (/abilitydex/raindish.shtml) | Own Tempo (/abilitydex/owntempo.shtml),40,30,30,40,50,30,220
+#0271,Lombre (/pokemon/lombre),water | grass,Swift Swim (/abilitydex/swiftswim.shtml) | Rain Dish (/abilitydex/raindish.shtml) | Own Tempo (/abilitydex/owntempo.shtml),60,50,50,60,70,50,340
+#0272,Ludicolo (/pokemon/ludicolo),water | grass,Swift Swim (/abilitydex/swiftswim.shtml) | Rain Dish (/abilitydex/raindish.shtml) | Own Tempo (/abilitydex/owntempo.shtml),80,70,70,90,100,70,480
+#0273,Seedot (/pokemon/seedot),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),40,40,50,30,30,30,220
+#0274,Nuzleaf (/pokemon/nuzleaf),grass | dark,Chlorophyll (/abilitydex/chlorophyll.shtml) | Early Bird (/abilitydex/earlybird.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),70,70,40,60,40,60,340
+#0275,Shiftry (/pokemon/shiftry),grass | dark,Chlorophyll (/abilitydex/chlorophyll.shtml) | Wind Rider (/abilitydex/windrider.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),90,100,60,90,60,80,480
+#0276,Taillow (/pokemon/taillow),normal | flying,Guts (/abilitydex/guts.shtml) | Scrappy (/abilitydex/scrappy.shtml),40,55,30,30,30,85,270
+#0277,Swellow (/pokemon/swellow),normal | flying,Guts (/abilitydex/guts.shtml) | Scrappy (/abilitydex/scrappy.shtml),60,85,60,75,50,125,455
+#0278,Wingull (/pokemon/wingull),water | flying,Keen Eye (/abilitydex/keeneye.shtml) | Hydration (/abilitydex/hydration.shtml) | Rain Dish (/abilitydex/raindish.shtml),40,30,30,55,30,85,270
+#0279,Pelipper (/pokemon/pelipper),water | flying,Keen Eye (/abilitydex/keeneye.shtml) | Drizzle (/abilitydex/drizzle.shtml) | Rain Dish (/abilitydex/raindish.shtml),60,50,100,95,70,65,440
+#0280,Ralts (/pokemon/ralts),psychic | fairy,Synchronize (/abilitydex/synchronize.shtml) | Trace (/abilitydex/trace.shtml) | Telepathy (/abilitydex/telepathy.shtml),28,25,25,45,35,40,198
+#0281,Kirlia (/pokemon/kirlia),psychic | fairy,Synchronize (/abilitydex/synchronize.shtml) | Trace (/abilitydex/trace.shtml) | Telepathy (/abilitydex/telepathy.shtml),38,35,35,65,55,50,278
+#0282,Gardevoir (/pokemon/gardevoir),psychic | fairy,Synchronize (/abilitydex/synchronize.shtml) | Trace (/abilitydex/trace.shtml) | Telepathy (/abilitydex/telepathy.shtml),68,65,65,125,115,80,518
+#0283,Surskit (/pokemon/surskit),bug | water,Swift Swim (/abilitydex/swiftswim.shtml) | Rain Dish (/abilitydex/raindish.shtml),40,30,32,50,52,65,269
+#0284,Masquerain (/pokemon/masquerain),bug | flying,Intimidate (/abilitydex/intimidate.shtml) | Unnerve (/abilitydex/unnerve.shtml),70,60,62,100,82,80,454
+#0285,Shroomish (/pokemon/shroomish),grass,Effect Spore (/abilitydex/effectspore.shtml) | Poison Heal (/abilitydex/poisonheal.shtml) | Quick Feet (/abilitydex/quickfeet.shtml),60,40,60,40,60,35,295
+#0286,Breloom (/pokemon/breloom),grass | fighting,Effect Spore (/abilitydex/effectspore.shtml) | Poison Heal (/abilitydex/poisonheal.shtml) | Technician (/abilitydex/technician.shtml),60,130,80,60,60,70,460
+#0287,Slakoth (/pokemon/slakoth),normal,Truant (/abilitydex/truant.shtml),60,60,60,35,35,30,280
+#0288,Vigoroth (/pokemon/vigoroth),normal,Vital Spirit (/abilitydex/vitalspirit.shtml),80,80,80,55,55,90,440
+#0289,Slaking (/pokemon/slaking),normal,Truant (/abilitydex/truant.shtml),150,160,100,95,65,100,670
+#0290,Nincada (/pokemon/nincada),bug | ground,Compoundeyes (/abilitydex/compoundeyes.shtml) | Run Away (/abilitydex/runaway.shtml),31,45,90,30,30,40,266
+#0291,Ninjask (/pokemon/ninjask),bug | flying,Speed Boost (/abilitydex/speedboost.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),61,90,45,50,50,160,456
+#0292,Shedinja (/pokemon/shedinja),bug | ghost,Wonder Guard (/abilitydex/wonderguard.shtml),1,90,45,30,30,40,236
+#0293,Whismur (/pokemon/whismur),normal,Soundproof (/abilitydex/soundproof.shtml) | Rattled (/abilitydex/rattled.shtml),64,51,23,51,23,28,240
+#0294,Loudred (/pokemon/loudred),normal,Soundproof (/abilitydex/soundproof.shtml) | Scrappy (/abilitydex/scrappy.shtml),84,71,43,71,43,48,360
+#0295,Exploud (/pokemon/exploud),normal,Soundproof (/abilitydex/soundproof.shtml) | Scrappy (/abilitydex/scrappy.shtml),104,91,63,91,73,68,490
+#0296,Makuhita (/pokemon/makuhita),fighting,Thick Fat (/abilitydex/thickfat.shtml) | Guts (/abilitydex/guts.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),72,60,30,20,30,25,237
+#0297,Hariyama (/pokemon/hariyama),fighting,Thick Fat (/abilitydex/thickfat.shtml) | Guts (/abilitydex/guts.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),144,120,60,40,60,50,474
+#0298,Azurill (/pokemon/azurill),normal | fairy,Thick Fat (/abilitydex/thickfat.shtml) | Huge Power (/abilitydex/hugepower.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),50,20,40,20,40,20,190
+#0299,Nosepass (/pokemon/nosepass),rock,Sturdy (/abilitydex/sturdy.shtml) | Magnet Pull (/abilitydex/magnetpull.shtml) | Sand Force (/abilitydex/sandforce.shtml),30,45,135,45,90,30,375
+#0300,Skitty (/pokemon/skitty),normal,Cute Charm (/abilitydex/cutecharm.shtml) | Normalize (/abilitydex/normalize.shtml) | Wonder Skin (/abilitydex/wonderskin.shtml),50,45,45,35,35,50,260
+#0301,Delcatty (/pokemon/delcatty),normal,Cute Charm (/abilitydex/cutecharm.shtml) | Normalize (/abilitydex/normalize.shtml) | Wonder Skin (/abilitydex/wonderskin.shtml),70,65,65,55,55,90,400
+#0302,Sableye (/pokemon/sableye),dark | ghost,Keen Eye (/abilitydex/keeneye.shtml) | Stall (/abilitydex/stall.shtml) | Prankster (/abilitydex/prankster.shtml),50,75,75,65,65,50,380
+#0303,Mawile (/pokemon/mawile),steel | fairy,Hyper Cutter (/abilitydex/hypercutter.shtml) | Intimidate (/abilitydex/intimidate.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),50,85,85,55,55,50,380
+#0304,Aron (/pokemon/aron),steel | rock,Sturdy (/abilitydex/sturdy.shtml) | Rock Head (/abilitydex/rockhead.shtml) | Heavy Metal (/abilitydex/heavymetal.shtml),50,70,100,40,40,30,330
+#0305,Lairon (/pokemon/lairon),steel | rock,Sturdy (/abilitydex/sturdy.shtml) | Rock Head (/abilitydex/rockhead.shtml) | Heavy Metal (/abilitydex/heavymetal.shtml),60,90,140,50,50,40,430
+#0306,Aggron (/pokemon/aggron),steel | rock,Sturdy (/abilitydex/sturdy.shtml) | Rock Head (/abilitydex/rockhead.shtml) | Heavy Metal (/abilitydex/heavymetal.shtml),70,110,180,60,60,50,530
+#0307,Meditite (/pokemon/meditite),fighting | psychic,Pure Power (/abilitydex/purepower.shtml) | Telepathy (/abilitydex/telepathy.shtml),30,40,55,40,55,60,280
+#0308,Medicham (/pokemon/medicham),fighting | psychic,Pure Power (/abilitydex/purepower.shtml) | Telepathy (/abilitydex/telepathy.shtml),60,60,75,60,75,80,410
+#0309,Electrike (/pokemon/electrike),electric,Static (/abilitydex/static.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml) | Minus (/abilitydex/minus.shtml),40,45,40,65,40,65,295
+#0310,Manectric (/pokemon/manectric),electric,Static (/abilitydex/static.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml) | Minus (/abilitydex/minus.shtml),70,75,60,105,60,105,475
+#0311,Plusle (/pokemon/plusle),electric,Plus (/abilitydex/plus.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml),60,50,40,85,75,95,405
+#0312,Minun (/pokemon/minun),electric,Minus (/abilitydex/minus.shtml) | Volt Absorb (/abilitydex/voltabsorb.shtml),60,40,50,75,85,95,405
+#0313,Volbeat (/pokemon/volbeat),bug,Illuminate (/abilitydex/illuminate.shtml) | Swarm (/abilitydex/swarm.shtml) | Prankster (/abilitydex/prankster.shtml),65,73,75,47,85,85,430
+#0314,Illumise (/pokemon/illumise),bug,Oblivious (/abilitydex/oblivious.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml) | Prankster (/abilitydex/prankster.shtml),65,47,75,73,85,85,430
+#0315,Roselia (/pokemon/roselia),grass | poison,Natural Cure (/abilitydex/naturalcure.shtml) | Poison Point (/abilitydex/poisonpoint.shtml) | Leaf Guard (/abilitydex/leafguard.shtml),50,60,45,100,80,65,400
+#0316,Gulpin (/pokemon/gulpin),poison,Liquid Ooze (/abilitydex/liquidooze.shtml) | Sticky Hold (/abilitydex/stickyhold.shtml) | Gluttony (/abilitydex/gluttony.shtml),70,43,53,43,53,40,302
+#0317,Swalot (/pokemon/swalot),poison,Liquid Ooze (/abilitydex/liquidooze.shtml) | Sticky Hold (/abilitydex/stickyhold.shtml) | Gluttony (/abilitydex/gluttony.shtml),100,73,83,73,83,55,467
+#0318,Carvanha (/pokemon/carvanha),water | dark,Rough Skin (/abilitydex/roughskin.shtml) | Speed Boost (/abilitydex/speedboost.shtml),45,90,20,65,20,65,305
+#0319,Sharpedo (/pokemon/sharpedo),water | dark,Rough Skin (/abilitydex/roughskin.shtml) | Speed Boost (/abilitydex/speedboost.shtml),70,120,40,95,40,95,460
+#0320,Wailmer (/pokemon/wailmer),water,Water Veil (/abilitydex/waterveil.shtml) | Oblivious (/abilitydex/oblivious.shtml) | Pressure (/abilitydex/pressure.shtml),130,70,35,70,35,60,400
+#0321,Wailord (/pokemon/wailord),water,Water Veil (/abilitydex/waterveil.shtml) | Oblivious (/abilitydex/oblivious.shtml) | Pressure (/abilitydex/pressure.shtml),170,90,45,90,45,60,500
+#0322,Numel (/pokemon/numel),fire | ground,Oblivious (/abilitydex/oblivious.shtml) | Simple (/abilitydex/simple.shtml) | Own Tempo (/abilitydex/owntempo.shtml),60,60,40,65,45,35,305
+#0323,Camerupt (/pokemon/camerupt),fire | ground,Magma Armor (/abilitydex/magmaarmor.shtml) | Solid Rock (/abilitydex/solidrock.shtml) | Anger Point (/abilitydex/angerpoint.shtml),70,100,70,105,75,40,460
+#0324,Torkoal (/pokemon/torkoal),fire,White Smoke (/abilitydex/whitesmoke.shtml) | Drought (/abilitydex/drought.shtml) | Shell Armor (/abilitydex/shellarmor.shtml),70,85,140,85,70,20,470
+#0325,Spoink (/pokemon/spoink),psychic,Thick Fat (/abilitydex/thickfat.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Gluttony (/abilitydex/gluttony.shtml),60,25,35,70,80,60,330
+#0326,Grumpig (/pokemon/grumpig),psychic,Thick Fat (/abilitydex/thickfat.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Gluttony (/abilitydex/gluttony.shtml),80,45,65,90,110,80,470
+#0327,Spinda (/pokemon/spinda),normal,Own Tempo (/abilitydex/owntempo.shtml) | Tangled Feet (/abilitydex/tangledfeet.shtml) | Contrary (/abilitydex/contrary.shtml),60,60,60,60,60,60,360
+#0328,Trapinch (/pokemon/trapinch),ground,Hyper Cutter (/abilitydex/hypercutter.shtml) | Arena Trap (/abilitydex/arenatrap.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),45,100,45,45,45,10,290
+#0329,Vibrava (/pokemon/vibrava),ground | dragon,Levitate (/abilitydex/levitate.shtml),50,70,50,50,50,70,340
+#0330,Flygon (/pokemon/flygon),ground | dragon,Levitate (/abilitydex/levitate.shtml),80,100,80,80,80,100,520
+#0331,Cacnea (/pokemon/cacnea),grass,Sand Veil (/abilitydex/sandveil.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),50,85,40,85,40,35,335
+#0332,Cacturne (/pokemon/cacturne),grass | dark,Sand Veil (/abilitydex/sandveil.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),70,115,60,115,60,55,475
+#0333,Swablu (/pokemon/swablu),normal | flying,Natural Cure (/abilitydex/naturalcure.shtml) | Cloud Nine (/abilitydex/cloudnine.shtml),45,40,60,40,75,50,310
+#0334,Altaria (/pokemon/altaria),dragon | flying,Natural Cure (/abilitydex/naturalcure.shtml) | Cloud Nine (/abilitydex/cloudnine.shtml),75,70,90,70,105,80,490
+#0335,Zangoose (/pokemon/zangoose),normal,Immunity (/abilitydex/immunity.shtml) | Toxic Boost (/abilitydex/toxicboost.shtml),73,115,60,60,60,90,458
+#0336,Seviper (/pokemon/seviper),poison,Shed Skin (/abilitydex/shedskin.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),73,100,60,100,60,65,458
+#0337,Lunatone (/pokemon/lunatone),rock | psychic,Levitate (/abilitydex/levitate.shtml),90,55,65,95,85,70,460
+#0338,Solrock (/pokemon/solrock),rock | psychic,Levitate (/abilitydex/levitate.shtml),90,95,85,55,65,70,460
+#0339,Barboach (/pokemon/barboach),water | ground,Oblivious (/abilitydex/oblivious.shtml) | Anticipation (/abilitydex/anticipation.shtml) | Hydration (/abilitydex/hydration.shtml),50,48,43,46,41,60,288
+#0340,Whiscash (/pokemon/whiscash),water | ground,Oblivious (/abilitydex/oblivious.shtml) | Anticipation (/abilitydex/anticipation.shtml) | Hydration (/abilitydex/hydration.shtml),110,78,73,76,71,60,468
+#0341,Corphish (/pokemon/corphish),water,Hyper Cutter (/abilitydex/hypercutter.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Adaptability (/abilitydex/adaptability.shtml),43,80,65,50,35,35,308
+#0342,Crawdaunt (/pokemon/crawdaunt),water | dark,Hyper Cutter (/abilitydex/hypercutter.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Adaptability (/abilitydex/adaptability.shtml),63,120,85,90,55,55,468
+#0343,Baltoy (/pokemon/baltoy),ground | psychic,Levitate (/abilitydex/levitate.shtml),40,40,55,40,70,55,300
+#0344,Claydol (/pokemon/claydol),ground | psychic,Levitate (/abilitydex/levitate.shtml),60,70,105,70,120,75,500
+#0345,Lileep (/pokemon/lileep),rock | grass,Suction Cups (/abilitydex/suctioncups.shtml) | Storm Drain (/abilitydex/stormdrain.shtml),66,41,77,61,87,23,355
+#0346,Cradily (/pokemon/cradily),rock | grass,Suction Cups (/abilitydex/suctioncups.shtml) | Storm Drain (/abilitydex/stormdrain.shtml),86,81,97,81,107,43,495
+#0347,Anorith (/pokemon/anorith),rock | bug,Battle Armor (/abilitydex/battlearmor.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),45,95,50,40,50,75,355
+#0348,Armaldo (/pokemon/armaldo),rock | bug,Battle Armor (/abilitydex/battlearmor.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),75,125,100,70,80,45,495
+#0349,Feebas (/pokemon/feebas),water,Swift Swim (/abilitydex/swiftswim.shtml) | Oblivious (/abilitydex/oblivious.shtml) | Adaptability (/abilitydex/adaptability.shtml),20,15,20,10,55,80,200
+#0350,Milotic (/pokemon/milotic),water,Marvel Scale (/abilitydex/marvelscale.shtml) | Competitive (/abilitydex/competitive.shtml) | Cute Charm (/abilitydex/cutecharm.shtml),95,60,79,100,125,81,540
+#0351,Castform (/pokemon/castform),normal,Forecast (/abilitydex/forecast.shtml),70,70,70,70,70,70,420
+#0352,Kecleon (/pokemon/kecleon),normal,Color Change (/abilitydex/colorchange.shtml) | Protean (/abilitydex/protean.shtml),60,90,70,60,120,40,440
+#0353,Shuppet (/pokemon/shuppet),ghost,Insomnia (/abilitydex/insomnia.shtml) | Frisk (/abilitydex/frisk.shtml) | Cursed Body (/abilitydex/cursedbody.shtml),44,75,35,63,33,45,295
+#0354,Banette (/pokemon/banette),ghost,Insomnia (/abilitydex/insomnia.shtml) | Frisk (/abilitydex/frisk.shtml) | Cursed Body (/abilitydex/cursedbody.shtml),64,115,65,83,63,65,455
+#0355,Duskull (/pokemon/duskull),ghost,Levitate (/abilitydex/levitate.shtml) | Frisk (/abilitydex/frisk.shtml),20,40,90,30,90,25,295
+#0356,Dusclops (/pokemon/dusclops),ghost,Pressure (/abilitydex/pressure.shtml) | Frisk (/abilitydex/frisk.shtml),40,70,130,60,130,25,455
+#0357,Tropius (/pokemon/tropius),grass | flying,Chlorophyll (/abilitydex/chlorophyll.shtml) | Solar Power (/abilitydex/solarpower.shtml) | Harvest (/abilitydex/harvest.shtml),99,68,83,72,87,51,460
+#0358,Chimecho (/pokemon/chimecho),psychic,Levitate (/abilitydex/levitate.shtml),75,50,80,95,90,65,455
+#0359,Absol (/pokemon/absol),dark,Pressure (/abilitydex/pressure.shtml) | Super Luck (/abilitydex/superluck.shtml) | Justified (/abilitydex/justified.shtml),65,130,60,75,60,75,465
+#0360,Wynaut (/pokemon/wynaut),psychic,Shadow Tag (/abilitydex/shadowtag.shtml) | Telepathy (/abilitydex/telepathy.shtml),95,23,48,23,48,23,260
+#0361,Snorunt (/pokemon/snorunt),ice,Inner Focus (/abilitydex/innerfocus.shtml) | Ice Body (/abilitydex/icebody.shtml) | Moody (/abilitydex/moody.shtml),50,50,50,50,50,50,300
+#0362,Glalie (/pokemon/glalie),ice,Inner Focus (/abilitydex/innerfocus.shtml) | Ice Body (/abilitydex/icebody.shtml) | Moody (/abilitydex/moody.shtml),80,80,80,80,80,80,480
+#0363,Spheal (/pokemon/spheal),ice | water,Thick Fat (/abilitydex/thickfat.shtml) | Ice Body (/abilitydex/icebody.shtml) | Oblivious (/abilitydex/oblivious.shtml),70,40,50,55,50,25,290
+#0364,Sealeo (/pokemon/sealeo),ice | water,Thick Fat (/abilitydex/thickfat.shtml) | Ice Body (/abilitydex/icebody.shtml) | Oblivious (/abilitydex/oblivious.shtml),90,60,70,75,70,45,410
+#0365,Walrein (/pokemon/walrein),ice | water,Thick Fat (/abilitydex/thickfat.shtml) | Ice Body (/abilitydex/icebody.shtml) | Oblivious (/abilitydex/oblivious.shtml),110,80,90,95,90,65,530
+#0366,Clamperl (/pokemon/clamperl),water,Shell Armor (/abilitydex/shellarmor.shtml) | Rattled (/abilitydex/rattled.shtml),35,64,85,74,55,32,345
+#0367,Huntail (/pokemon/huntail),water,Swift Swim (/abilitydex/swiftswim.shtml) | Water Veil (/abilitydex/waterveil.shtml),55,104,105,94,75,52,485
+#0368,Gorebyss (/pokemon/gorebyss),water,Swift Swim (/abilitydex/swiftswim.shtml) | Hydration (/abilitydex/hydration.shtml),55,84,105,114,75,52,485
+#0369,Relicanth (/pokemon/relicanth),water | rock,Swift Swim (/abilitydex/swiftswim.shtml) | Rock Head (/abilitydex/rockhead.shtml) | Sturdy (/abilitydex/sturdy.shtml),100,90,130,45,65,55,485
+#0370,Luvdisc (/pokemon/luvdisc),water,Swift Swim (/abilitydex/swiftswim.shtml) | Hydration (/abilitydex/hydration.shtml),43,30,55,40,65,97,330
+#0371,Bagon (/pokemon/bagon),dragon,Rock Head (/abilitydex/rockhead.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),45,75,60,40,30,50,300
+#0372,Shelgon (/pokemon/shelgon),dragon,Rock Head (/abilitydex/rockhead.shtml) | Overcoat (/abilitydex/overcoat.shtml),65,95,100,60,50,50,420
+#0373,Salamence (/pokemon/salamence),dragon | flying,Intimidate (/abilitydex/intimidate.shtml) | Moxie (/abilitydex/moxie.shtml),95,135,80,110,80,100,600
+#0374,Beldum (/pokemon/beldum),steel | psychic,Clear Body (/abilitydex/clearbody.shtml) | Light Metal (/abilitydex/lightmetal.shtml),40,55,80,35,60,30,300
+#0375,Metang (/pokemon/metang),steel | psychic,Clear Body (/abilitydex/clearbody.shtml) | Light Metal (/abilitydex/lightmetal.shtml),60,75,100,55,80,50,420
+#0376,Metagross (/pokemon/metagross),steel | psychic,Clear Body (/abilitydex/clearbody.shtml) | Light Metal (/abilitydex/lightmetal.shtml),80,135,130,95,90,70,600
+#0377,Regirock (/pokemon/regirock),rock,Clear Body (/abilitydex/clearbody.shtml) | Sturdy (/abilitydex/sturdy.shtml),80,100,200,50,100,50,580
+#0378,Regice (/pokemon/regice),ice,Clear Body (/abilitydex/clearbody.shtml) | Ice Body (/abilitydex/icebody.shtml),80,50,100,100,200,50,580
+#0379,Registeel (/pokemon/registeel),steel,Clear Body (/abilitydex/clearbody.shtml) | Light Metal (/abilitydex/lightmetal.shtml),80,75,150,75,150,50,580
+#0380,Latias (/pokemon/latias),dragon | psychic,Levitate (/abilitydex/levitate.shtml),80,80,90,110,130,110,600
+#0381,Latios (/pokemon/latios),dragon | psychic,Levitate (/abilitydex/levitate.shtml),80,90,80,130,110,110,600
+#0382,Kyogre (/pokemon/kyogre),water,Drizzle (/abilitydex/drizzle.shtml),100,100,90,150,140,90,670
+#0383,Groudon (/pokemon/groudon),ground,Drought (/abilitydex/drought.shtml),100,150,140,100,90,90,670
+#0384,Rayquaza (/pokemon/rayquaza),dragon | flying,Air Lock (/abilitydex/airlock.shtml),105,150,90,150,90,95,680
+#0385,Jirachi (/pokemon/jirachi),steel | psychic,Serene Grace (/abilitydex/serenegrace.shtml),100,100,100,100,100,100,600
+#0386,Deoxys (/pokemon/deoxys),psychic,Pressure (/abilitydex/pressure.shtml),50,150,50,150,50,150,600
+#0387,Turtwig (/pokemon/turtwig),grass,Overgrow (/abilitydex/overgrow.shtml) | Shell Armor (/abilitydex/shellarmor.shtml),55,68,64,45,55,31,318
+#0388,Grotle (/pokemon/grotle),grass,Overgrow (/abilitydex/overgrow.shtml) | Shell Armor (/abilitydex/shellarmor.shtml),75,89,85,55,65,36,405
+#0389,Torterra (/pokemon/torterra),grass | ground,Overgrow (/abilitydex/overgrow.shtml) | Shell Armor (/abilitydex/shellarmor.shtml),95,109,105,75,85,56,525
+#0390,Chimchar (/pokemon/chimchar),fire,Blaze (/abilitydex/blaze.shtml) | Iron Fist (/abilitydex/ironfist.shtml),44,58,44,58,44,61,309
+#0391,Monferno (/pokemon/monferno),fire | fighting,Blaze (/abilitydex/blaze.shtml) | Iron Fist (/abilitydex/ironfist.shtml),64,78,52,78,52,81,405
+#0392,Infernape (/pokemon/infernape),fire | fighting,Blaze (/abilitydex/blaze.shtml) | Iron Fist (/abilitydex/ironfist.shtml),76,104,71,104,71,108,534
+#0393,Piplup (/pokemon/piplup),water,Torrent (/abilitydex/torrent.shtml) | Competitive (/abilitydex/competitive.shtml),53,51,53,61,56,40,314
+#0394,Prinplup (/pokemon/prinplup),water,Torrent (/abilitydex/torrent.shtml) | Competitive (/abilitydex/competitive.shtml),64,66,68,81,76,50,405
+#0395,Empoleon (/pokemon/empoleon),water | steel,Torrent (/abilitydex/torrent.shtml) | Competitive (/abilitydex/competitive.shtml),84,86,88,111,101,60,530
+#0396,Starly (/pokemon/starly),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Reckless (/abilitydex/reckless.shtml),40,55,30,30,30,60,245
+#0397,Staravia (/pokemon/staravia),normal | flying,Intimidate (/abilitydex/intimidate.shtml) | Reckless (/abilitydex/reckless.shtml),55,75,50,40,40,80,340
+#0398,Staraptor (/pokemon/staraptor),normal | flying,Intimidate (/abilitydex/intimidate.shtml) | Reckless (/abilitydex/reckless.shtml),85,120,70,50,60,100,485
+#0399,Bidoof (/pokemon/bidoof),normal,Simple (/abilitydex/simple.shtml) | Unaware (/abilitydex/unaware.shtml) | Moody (/abilitydex/moody.shtml),59,45,40,35,40,31,250
+#0400,Bibarel (/pokemon/bibarel),normal | water,Simple (/abilitydex/simple.shtml) | Unaware (/abilitydex/unaware.shtml) | Moody (/abilitydex/moody.shtml),79,85,60,55,60,71,410
+#0401,Kricketot (/pokemon/kricketot),bug,Shed Skin (/abilitydex/shedskin.shtml) | Run Away (/abilitydex/runaway.shtml),37,25,41,25,41,25,194
+#0402,Kricketune (/pokemon/kricketune),bug,Swarm (/abilitydex/swarm.shtml) | Technician (/abilitydex/technician.shtml),77,85,51,55,51,65,384
+#0403,Shinx (/pokemon/shinx),electric,Rivalry (/abilitydex/rivalry.shtml) | Intimidate (/abilitydex/intimidate.shtml) | Guts (/abilitydex/guts.shtml),45,65,34,40,34,45,263
+#0404,Luxio (/pokemon/luxio),electric,Rivalry (/abilitydex/rivalry.shtml) | Intimidate (/abilitydex/intimidate.shtml) | Guts (/abilitydex/guts.shtml),60,85,49,60,49,60,363
+#0405,Luxray (/pokemon/luxray),electric,Rivalry (/abilitydex/rivalry.shtml) | Intimidate (/abilitydex/intimidate.shtml) | Guts (/abilitydex/guts.shtml),80,120,79,95,79,70,523
+#0406,Budew (/pokemon/budew),grass | poison,Natural Cure (/abilitydex/naturalcure.shtml) | Poison Point (/abilitydex/poisonpoint.shtml) | Leaf Guard (/abilitydex/leafguard.shtml),40,30,35,50,70,55,280
+#0407,Roserade (/pokemon/roserade),grass | poison,Natural Cure (/abilitydex/naturalcure.shtml) | Poison Point (/abilitydex/poisonpoint.shtml) | Technician (/abilitydex/technician.shtml),60,70,65,125,105,90,515
+#0408,Cranidos (/pokemon/cranidos),rock,Mold Breaker (/abilitydex/moldbreaker.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),67,125,40,30,30,58,350
+#0409,Rampardos (/pokemon/rampardos),rock,Mold Breaker (/abilitydex/moldbreaker.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),97,165,60,65,50,58,495
+#0410,Shieldon (/pokemon/shieldon),rock | steel,Sturdy (/abilitydex/sturdy.shtml) | Soundproof (/abilitydex/soundproof.shtml),30,42,118,42,88,30,350
+#0411,Bastiodon (/pokemon/bastiodon),rock | steel,Sturdy (/abilitydex/sturdy.shtml) | Soundproof (/abilitydex/soundproof.shtml),60,52,168,47,138,30,495
+#0412,Burmy (/pokemon/burmy),bug,Shed Skin (/abilitydex/shedskin.shtml) | Overcoat (/abilitydex/overcoat.shtml),40,29,45,29,45,36,224
+#0413,Wormadam (/pokemon/wormadam),bug | grass,Anticipation (/abilitydex/anticipation.shtml) | Overcoat (/abilitydex/overcoat.shtml),60,59,85,79,105,36,424
+#0414,Mothim (/pokemon/mothim),bug | flying,Swarm (/abilitydex/swarm.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml),70,94,50,94,50,66,424
+#0415,Combee (/pokemon/combee),bug | flying,Honey Gather (/abilitydex/honeygather.shtml) | Hustle (/abilitydex/hustle.shtml),30,30,42,30,42,70,244
+#0416,Vespiquen (/pokemon/vespiquen),bug | flying,Pressure (/abilitydex/pressure.shtml) | Unnerve (/abilitydex/unnerve.shtml),70,80,102,80,102,40,474
+#0417,Pachirisu (/pokemon/pachirisu),electric,Run Away (/abilitydex/runaway.shtml) | Pickup (/abilitydex/pickup.shtml) | Volt Absorb (/abilitydex/voltabsorb.shtml),60,45,70,45,90,95,405
+#0418,Buizel (/pokemon/buizel),water,Swift Swim (/abilitydex/swiftswim.shtml) | Water Veil (/abilitydex/waterveil.shtml),55,65,35,60,30,85,330
+#0419,Floatzel (/pokemon/floatzel),water,Swift Swim (/abilitydex/swiftswim.shtml) | Water Veil (/abilitydex/waterveil.shtml),85,105,55,85,50,115,495
+#0420,Cherubi (/pokemon/cherubi),grass,Chlorophyll (/abilitydex/chlorophyll.shtml),45,35,45,62,53,35,275
+#0421,Cherrim (/pokemon/cherrim),grass,Flower Gift (/abilitydex/flowergift.shtml),70,60,70,87,78,85,450
+#0422,Shellos (/pokemon/shellos),water,Sticky Hold (/abilitydex/stickyhold.shtml) | Storm Drain (/abilitydex/stormdrain.shtml) | Sand Force (/abilitydex/sandforce.shtml),76,48,48,57,62,34,325
+#0423,Gastrodon (/pokemon/gastrodon),water | ground,Sticky Hold (/abilitydex/stickyhold.shtml) | Storm Drain (/abilitydex/stormdrain.shtml) | Sand Force (/abilitydex/sandforce.shtml),111,83,68,92,82,39,475
+#0424,Ambipom (/pokemon/ambipom),normal,Technician (/abilitydex/technician.shtml) | Pickup (/abilitydex/pickup.shtml) | Skill Link (/abilitydex/skilllink.shtml),75,100,66,60,66,115,482
+#0425,Drifloon (/pokemon/drifloon),ghost | flying,Aftermath (/abilitydex/aftermath.shtml) | Unburden (/abilitydex/unburden.shtml) | Flare Boost (/abilitydex/flareboost.shtml),90,50,34,60,44,70,348
+#0426,Drifblim (/pokemon/drifblim),ghost | flying,Aftermath (/abilitydex/aftermath.shtml) | Unburden (/abilitydex/unburden.shtml) | Flare Boost (/abilitydex/flareboost.shtml),150,80,44,90,54,80,498
+#0427,Buneary (/pokemon/buneary),normal,Run Away (/abilitydex/runaway.shtml) | Klutz (/abilitydex/klutz.shtml) | Limber (/abilitydex/limber.shtml),55,66,44,44,56,85,350
+#0428,Lopunny (/pokemon/lopunny),normal,Cute Charm (/abilitydex/cutecharm.shtml) | Klutz (/abilitydex/klutz.shtml) | Limber (/abilitydex/limber.shtml),65,76,84,54,96,105,480
+#0429,Mismagius (/pokemon/mismagius),ghost,Levitate (/abilitydex/levitate.shtml),60,60,60,105,105,105,495
+#0430,Honchkrow (/pokemon/honchkrow),dark | flying,Insomnia (/abilitydex/insomnia.shtml) | Super Luck (/abilitydex/superluck.shtml) | Moxie (/abilitydex/moxie.shtml),100,125,52,105,52,71,505
+#0431,Glameow (/pokemon/glameow),normal,Limber (/abilitydex/limber.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Keen Eye (/abilitydex/keeneye.shtml),49,55,42,42,37,85,310
+#0432,Purugly (/pokemon/purugly),normal,Thick Fat (/abilitydex/thickfat.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Defiant (/abilitydex/defiant.shtml),71,82,64,64,59,112,452
+#0433,Chingling (/pokemon/chingling),psychic,Levitate (/abilitydex/levitate.shtml),45,30,50,65,50,45,285
+#0434,Stunky (/pokemon/stunky),poison | dark,Stench (/abilitydex/stench.shtml) | Aftermath (/abilitydex/aftermath.shtml) | Keen Eye (/abilitydex/keeneye.shtml),63,63,47,41,41,74,329
+#0435,Skuntank (/pokemon/skuntank),poison | dark,Stench (/abilitydex/stench.shtml) | Aftermath (/abilitydex/aftermath.shtml) | Keen Eye (/abilitydex/keeneye.shtml),103,93,67,71,61,84,479
+#0436,Bronzor (/pokemon/bronzor),steel | psychic,Levitate (/abilitydex/levitate.shtml) | Heatproof (/abilitydex/heatproof.shtml) | Heavy Metal (/abilitydex/heavymetal.shtml),57,24,86,24,86,23,300
+#0437,Bronzong (/pokemon/bronzong),steel | psychic,Levitate (/abilitydex/levitate.shtml) | Heatproof (/abilitydex/heatproof.shtml) | Heavy Metal (/abilitydex/heavymetal.shtml),67,89,116,79,116,33,500
+#0438,Bonsly (/pokemon/bonsly),rock,Sturdy (/abilitydex/sturdy.shtml) | Rock Head (/abilitydex/rockhead.shtml) | Rattled (/abilitydex/rattled.shtml),50,80,95,10,45,10,290
+#0439,Mime Jr. (/pokemon/mimejr.),psychic | fairy,Soundproof (/abilitydex/soundproof.shtml) | Filter (/abilitydex/filter.shtml) | Technician (/abilitydex/technician.shtml),20,25,45,70,90,60,310
+#0440,Happiny (/pokemon/happiny),normal,Natural Cure (/abilitydex/naturalcure.shtml) | Serene Grace (/abilitydex/serenegrace.shtml) | Friend Guard (/abilitydex/friendguard.shtml),100,5,5,15,65,30,220
+#0441,Chatot (/pokemon/chatot),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Tangled Feet (/abilitydex/tangledfeet.shtml) | Big Pecks (/abilitydex/bigpecks.shtml),76,65,45,92,42,91,411
+#0442,Spiritomb (/pokemon/spiritomb),ghost | dark,Pressure (/abilitydex/pressure.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),50,92,108,92,108,35,485
+#0443,Gible (/pokemon/gible),dragon | ground,Sand Veil (/abilitydex/sandveil.shtml) | Rough Skin (/abilitydex/roughskin.shtml),58,70,45,40,45,42,300
+#0444,Gabite (/pokemon/gabite),dragon | ground,Sand Veil (/abilitydex/sandveil.shtml) | Rough Skin (/abilitydex/roughskin.shtml),68,90,65,50,55,82,410
+#0445,Garchomp (/pokemon/garchomp),dragon | ground,Sand Veil (/abilitydex/sandveil.shtml) | Rough Skin (/abilitydex/roughskin.shtml),108,130,95,80,85,102,600
+#0446,Munchlax (/pokemon/munchlax),normal,Pickup (/abilitydex/pickup.shtml) | Thick Fat (/abilitydex/thickfat.shtml) | Gluttony (/abilitydex/gluttony.shtml),135,85,40,40,85,5,390
+#0447,Riolu (/pokemon/riolu),fighting,Steadfast (/abilitydex/steadfast.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Prankster (/abilitydex/prankster.shtml),40,70,40,35,40,60,285
+#0448,Lucario (/pokemon/lucario),fighting | steel,Steadfast (/abilitydex/steadfast.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Justified (/abilitydex/justified.shtml),70,110,70,115,70,90,525
+#0449,Hippopotas (/pokemon/hippopotas),ground,Sand Stream (/abilitydex/sandstream.shtml) | Sand Force (/abilitydex/sandforce.shtml),68,72,78,38,42,32,330
+#0450,Hippowdon (/pokemon/hippowdon),ground,Sand Stream (/abilitydex/sandstream.shtml) | Sand Force (/abilitydex/sandforce.shtml),108,112,118,68,72,47,525
+#0451,Skorupi (/pokemon/skorupi),poison | bug,Battle Armor (/abilitydex/battlearmor.shtml) | Sniper (/abilitydex/sniper.shtml) | Keen Eye (/abilitydex/keeneye.shtml),40,50,90,30,55,65,330
+#0452,Drapion (/pokemon/drapion),poison | dark,Battle Armor (/abilitydex/battlearmor.shtml) | Sniper (/abilitydex/sniper.shtml) | Keen Eye (/abilitydex/keeneye.shtml),70,90,110,60,75,95,500
+#0453,Croagunk (/pokemon/croagunk),poison | fighting,Anticipation (/abilitydex/anticipation.shtml) | Dry Skin (/abilitydex/dryskin.shtml) | Poison Touch (/abilitydex/poisontouch.shtml),48,61,40,61,40,50,300
+#0454,Toxicroak (/pokemon/toxicroak),poison | fighting,Anticipation (/abilitydex/anticipation.shtml) | Dry Skin (/abilitydex/dryskin.shtml) | Poison Touch (/abilitydex/poisontouch.shtml),83,106,65,86,65,85,490
+#0455,Carnivine (/pokemon/carnivine),grass,Levitate (/abilitydex/levitate.shtml),74,100,72,90,72,46,454
+#0456,Finneon (/pokemon/finneon),water,Swift Swim (/abilitydex/swiftswim.shtml) | Storm Drain (/abilitydex/stormdrain.shtml) | Water Veil (/abilitydex/waterveil.shtml),49,49,56,49,61,66,330
+#0457,Lumineon (/pokemon/lumineon),water,Swift Swim (/abilitydex/swiftswim.shtml) | Storm Drain (/abilitydex/stormdrain.shtml) | Water Veil (/abilitydex/waterveil.shtml),69,69,76,69,86,91,460
+#0458,Mantyke (/pokemon/mantyke),water | flying,Swift Swim (/abilitydex/swiftswim.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml) | Water Veil (/abilitydex/waterveil.shtml),45,20,50,60,120,50,345
+#0459,Snover (/pokemon/snover),grass | ice,Snow Warning (/abilitydex/snowwarning.shtml) | Soundproof (/abilitydex/soundproof.shtml),60,62,50,62,60,40,334
+#0460,Abomasnow (/pokemon/abomasnow),grass | ice,Snow Warning (/abilitydex/snowwarning.shtml) | Soundproof (/abilitydex/soundproof.shtml),90,92,75,92,85,60,494
+#0461,Weavile (/pokemon/weavile),dark | ice,Pressure (/abilitydex/pressure.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),70,120,65,45,85,125,510
+#0462,Magnezone (/pokemon/magnezone),electric | steel,Magnet Pull (/abilitydex/magnetpull.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Analytic (/abilitydex/analytic.shtml),70,70,115,130,90,60,535
+#0463,Lickilicky (/pokemon/lickilicky),normal,Own Tempo (/abilitydex/owntempo.shtml) | Oblivious (/abilitydex/oblivious.shtml) | Cloud Nine (/abilitydex/cloudnine.shtml),110,85,95,80,95,50,515
+#0464,Rhyperior (/pokemon/rhyperior),ground | rock,Lightning Rod (/abilitydex/lightningrod.shtml) | Solid Rock (/abilitydex/solidrock.shtml) | Reckless (/abilitydex/reckless.shtml),115,140,130,55,55,40,535
+#0465,Tangrowth (/pokemon/tangrowth),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Leaf Guard (/abilitydex/leafguard.shtml) | Regenerator (/abilitydex/regenerator.shtml),100,100,125,110,50,50,535
+#0466,Electivire (/pokemon/electivire),electric,Motor Drive (/abilitydex/motordrive.shtml) | Vital Spirit (/abilitydex/vitalspirit.shtml),75,123,67,95,85,95,540
+#0467,Magmortar (/pokemon/magmortar),fire,Flame Body (/abilitydex/flamebody.shtml) | Vital Spirit (/abilitydex/vitalspirit.shtml),75,95,67,125,95,83,540
+#0468,Togekiss (/pokemon/togekiss),fairy | flying,Hustle (/abilitydex/hustle.shtml) | Serene Grace (/abilitydex/serenegrace.shtml) | Super Luck (/abilitydex/superluck.shtml),85,50,95,120,115,80,545
+#0469,Yanmega (/pokemon/yanmega),bug | flying,Speed Boost (/abilitydex/speedboost.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml) | Frisk (/abilitydex/frisk.shtml),86,76,86,116,56,95,515
+#0470,Leafeon (/pokemon/leafeon),grass,Leaf Guard (/abilitydex/leafguard.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml),65,110,130,60,65,95,525
+#0471,Glaceon (/pokemon/glaceon),ice,Snow Cloak (/abilitydex/snowcloak.shtml) | Ice Body (/abilitydex/icebody.shtml),65,60,110,130,95,65,525
+#0472,Gliscor (/pokemon/gliscor),ground | flying,Hyper Cutter (/abilitydex/hypercutter.shtml) | Sand Veil (/abilitydex/sandveil.shtml) | Poison Heal (/abilitydex/poisonheal.shtml),75,95,125,45,75,95,510
+#0473,Mamoswine (/pokemon/mamoswine),ice | ground,Oblivious (/abilitydex/oblivious.shtml) | Snow Cloak (/abilitydex/snowcloak.shtml) | Thick Fat (/abilitydex/thickfat.shtml),110,130,80,70,60,80,530
+#0474,Porygon-Z (/pokemon/porygon-z),normal,Adaptability (/abilitydex/adaptability.shtml) | Download (/abilitydex/download.shtml) | Analytic (/abilitydex/analytic.shtml),85,80,70,135,75,90,535
+#0475,Gallade (/pokemon/gallade),psychic | fighting,Steadfast (/abilitydex/steadfast.shtml) | Sharpness (/abilitydex/sharpness.shtml) | Justified (/abilitydex/justified.shtml),68,125,65,65,115,80,518
+#0476,Probopass (/pokemon/probopass),rock | steel,Sturdy (/abilitydex/sturdy.shtml) | Magnet Pull (/abilitydex/magnetpull.shtml) | Sand Force (/abilitydex/sandforce.shtml),60,55,145,75,150,40,525
+#0477,Dusknoir (/pokemon/dusknoir),ghost,Pressure (/abilitydex/pressure.shtml) | Frisk (/abilitydex/frisk.shtml),45,100,135,65,135,45,525
+#0478,Froslass (/pokemon/froslass),ice | ghost,Snow Cloak (/abilitydex/snowcloak.shtml) | Cursed Body (/abilitydex/cursedbody.shtml),70,80,70,80,70,110,480
+#0479,Rotom (/pokemon/rotom),electric | ghost,Levitate (/abilitydex/levitate.shtml),50,50,77,95,77,91,440
+#0480,Uxie (/pokemon/uxie),psychic,Levitate (/abilitydex/levitate.shtml),75,75,130,75,130,95,580
+#0481,Mesprit (/pokemon/mesprit),psychic,Levitate (/abilitydex/levitate.shtml),80,105,105,105,105,80,580
+#0482,Azelf (/pokemon/azelf),psychic,Levitate (/abilitydex/levitate.shtml),75,125,70,125,70,115,580
+#0483,Dialga (/pokemon/dialga),steel | dragon,Pressure (/abilitydex/pressure.shtml) | Telepathy (/abilitydex/telepathy.shtml),100,120,120,150,100,90,680
+#0484,Palkia (/pokemon/palkia),water | dragon,Pressure (/abilitydex/pressure.shtml) | Telepathy (/abilitydex/telepathy.shtml),90,120,100,150,120,100,680
+#0485,Heatran (/pokemon/heatran),fire | steel,Flash Fire (/abilitydex/flashfire.shtml) | Flame Body (/abilitydex/flamebody.shtml),91,90,106,130,106,77,600
+#0486,Regigigas (/pokemon/regigigas),normal,Slow Start (/abilitydex/slowstart.shtml),110,160,110,80,110,100,670
+#0487,Giratina (/pokemon/giratina),ghost | dragon,Pressure (/abilitydex/pressure.shtml) | Telepathy (/abilitydex/telepathy.shtml),150,100,120,100,120,90,680
+#0488,Cresselia (/pokemon/cresselia),psychic,Levitate (/abilitydex/levitate.shtml),120,70,110,75,120,85,580
+#0489,Phione (/pokemon/phione),water,Hydration (/abilitydex/hydration.shtml),80,80,80,80,80,80,480
+#0490,Manaphy (/pokemon/manaphy),water,Hydration (/abilitydex/hydration.shtml),100,100,100,100,100,100,600
+#0491,Darkrai (/pokemon/darkrai),dark,Bad Dreams (/abilitydex/baddreams.shtml),70,90,90,135,90,125,600
+#0492,Shaymin (/pokemon/shaymin),grass,Natural Cure (/abilitydex/naturalcure.shtml),100,100,100,100,100,100,600
+#0493,Arceus (/pokemon/arceus),normal,Multitype (/abilitydex/multitype.shtml),120,120,120,120,120,120,720
+#0494,Victini (/pokemon/victini),psychic | fire,Victory Star (/abilitydex/victorystar.shtml),100,100,100,100,100,100,600
+#0495,Snivy (/pokemon/snivy),grass,Overgrow (/abilitydex/overgrow.shtml) | Contrary (/abilitydex/contrary.shtml),45,45,55,45,55,63,308
+#0496,Servine (/pokemon/servine),grass,Overgrow (/abilitydex/overgrow.shtml) | Contrary (/abilitydex/contrary.shtml),60,60,75,60,75,83,413
+#0497,Serperior (/pokemon/serperior),grass,Overgrow (/abilitydex/overgrow.shtml) | Contrary (/abilitydex/contrary.shtml),75,75,95,75,95,113,528
+#0498,Tepig (/pokemon/tepig),fire,Blaze (/abilitydex/blaze.shtml) | Thick Fat (/abilitydex/thickfat.shtml),65,63,45,45,45,45,308
+#0499,Pignite (/pokemon/pignite),fire | fighting,Blaze (/abilitydex/blaze.shtml) | Thick Fat (/abilitydex/thickfat.shtml),90,93,55,70,55,55,418
+#0500,Emboar (/pokemon/emboar),fire | fighting,Blaze (/abilitydex/blaze.shtml) | Reckless (/abilitydex/reckless.shtml),110,123,65,100,65,65,528
+#0501,Oshawott (/pokemon/oshawott),water,Torrent (/abilitydex/torrent.shtml) | Shell Armor (/abilitydex/shellarmor.shtml),55,55,45,63,45,45,308
+#0502,Dewott (/pokemon/dewott),water,Torrent (/abilitydex/torrent.shtml) | Shell Armor (/abilitydex/shellarmor.shtml),75,75,60,83,60,60,413
+#0503,Samurott (/pokemon/samurott),water,Torrent (/abilitydex/torrent.shtml) | Shell Armor (/abilitydex/shellarmor.shtml),95,100,85,108,70,70,528
+#0504,Patrat (/pokemon/patrat),normal,Run Away (/abilitydex/runaway.shtml) | Keen Eye (/abilitydex/keeneye.shtml) | Analytic (/abilitydex/analytic.shtml),45,55,39,35,39,42,255
+#0505,Watchog (/pokemon/watchog),normal,Illuminate (/abilitydex/illuminate.shtml) | Keen Eye (/abilitydex/keeneye.shtml) | Analytic (/abilitydex/analytic.shtml),60,85,69,60,69,77,420
+#0506,Lillipup (/pokemon/lillipup),normal,Vital Spirit (/abilitydex/vitalspirit.shtml) | Pickup (/abilitydex/pickup.shtml) | Run Away (/abilitydex/runaway.shtml),45,60,45,25,45,55,275
+#0507,Herdier (/pokemon/herdier),normal,Intimidate (/abilitydex/intimidate.shtml) | Sand Rush (/abilitydex/sandrush.shtml) | Scrappy (/abilitydex/scrappy.shtml),65,80,65,35,65,60,370
+#0508,Stoutland (/pokemon/stoutland),normal,Intimidate (/abilitydex/intimidate.shtml) | Sand Rush (/abilitydex/sandrush.shtml) | Scrappy (/abilitydex/scrappy.shtml),85,110,90,45,90,80,500
+#0509,Purrloin (/pokemon/purrloin),dark,Limber (/abilitydex/limber.shtml) | Unburden (/abilitydex/unburden.shtml) | Prankster (/abilitydex/prankster.shtml),41,50,37,50,37,66,281
+#0510,Liepard (/pokemon/liepard),dark,Limber (/abilitydex/limber.shtml) | Unburden (/abilitydex/unburden.shtml) | Prankster (/abilitydex/prankster.shtml),64,88,50,88,50,106,446
+#0511,Pansage (/pokemon/pansage),grass,Gluttony (/abilitydex/gluttony.shtml) | Overgrow (/abilitydex/overgrow.shtml),50,53,48,53,48,64,316
+#0512,Simisage (/pokemon/simisage),grass,Gluttony (/abilitydex/gluttony.shtml) | Overgrow (/abilitydex/overgrow.shtml),75,98,63,98,63,101,498
+#0513,Pansear (/pokemon/pansear),fire,Gluttony (/abilitydex/gluttony.shtml) | Blaze (/abilitydex/blaze.shtml),50,53,48,53,48,64,316
+#0514,Simisear (/pokemon/simisear),fire,Gluttony (/abilitydex/gluttony.shtml) | Blaze (/abilitydex/blaze.shtml),75,98,63,98,63,101,498
+#0515,Panpour (/pokemon/panpour),water,Gluttony (/abilitydex/gluttony.shtml) | Torrent (/abilitydex/torrent.shtml),50,53,48,53,48,64,316
+#0516,Simipour (/pokemon/simipour),water,Gluttony (/abilitydex/gluttony.shtml) | Torrent (/abilitydex/torrent.shtml),75,98,63,98,63,101,498
+#0517,Munna (/pokemon/munna),psychic,Forewarn (/abilitydex/forewarn.shtml) | Synchronize (/abilitydex/synchronize.shtml) | Telepathy (/abilitydex/telepathy.shtml),76,25,45,67,55,24,292
+#0518,Musharna (/pokemon/musharna),psychic,Forewarn (/abilitydex/forewarn.shtml) | Synchronize (/abilitydex/synchronize.shtml) | Telepathy (/abilitydex/telepathy.shtml),116,55,85,107,95,29,487
+#0519,Pidove (/pokemon/pidove),normal | flying,Big Pecks (/abilitydex/bigpecks.shtml) | Super Luck (/abilitydex/superluck.shtml) | Rivalry (/abilitydex/rivalry.shtml),50,55,50,36,30,43,264
+#0520,Tranquill (/pokemon/tranquill),normal | flying,Big Pecks (/abilitydex/bigpecks.shtml) | Super Luck (/abilitydex/superluck.shtml) | Rivalry (/abilitydex/rivalry.shtml),62,77,62,50,42,65,358
+#0521,Unfezant (/pokemon/unfezant),normal | flying,Big Pecks (/abilitydex/bigpecks.shtml) | Super Luck (/abilitydex/superluck.shtml) | Rivalry (/abilitydex/rivalry.shtml),80,115,80,65,55,93,488
+#0522,Blitzle (/pokemon/blitzle),electric,Lightning Rod (/abilitydex/lightningrod.shtml) | Motor Drive (/abilitydex/motordrive.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),45,60,32,50,32,76,295
+#0523,Zebstrika (/pokemon/zebstrika),electric,Lightning Rod (/abilitydex/lightningrod.shtml) | Motor Drive (/abilitydex/motordrive.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),75,100,63,80,63,116,497
+#0524,Roggenrola (/pokemon/roggenrola),rock,Sturdy (/abilitydex/sturdy.shtml) | Weak Armor (/abilitydex/weakarmor.shtml) | Sand Force (/abilitydex/sandforce.shtml),55,75,85,25,25,15,280
+#0525,Boldore (/pokemon/boldore),rock,Sturdy (/abilitydex/sturdy.shtml) | Weak Armor (/abilitydex/weakarmor.shtml) | Sand Force (/abilitydex/sandforce.shtml),70,105,105,50,40,20,390
+#0526,Gigalith (/pokemon/gigalith),rock,Sturdy (/abilitydex/sturdy.shtml) | Sand Stream (/abilitydex/sandstream.shtml) | Sand Force (/abilitydex/sandforce.shtml),85,135,130,60,80,25,515
+#0527,Woobat (/pokemon/woobat),psychic | flying,Unaware (/abilitydex/unaware.shtml) | Klutz (/abilitydex/klutz.shtml) | Simple (/abilitydex/simple.shtml),65,45,43,55,43,72,323
+#0528,Swoobat (/pokemon/swoobat),psychic | flying,Unaware (/abilitydex/unaware.shtml) | Klutz (/abilitydex/klutz.shtml) | Simple (/abilitydex/simple.shtml),67,57,55,77,55,114,425
+#0529,Drilbur (/pokemon/drilbur),ground,Sand Rush (/abilitydex/sandrush.shtml) | Sand Force (/abilitydex/sandforce.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml),60,85,40,30,45,68,328
+#0530,Excadrill (/pokemon/excadrill),ground | steel,Sand Rush (/abilitydex/sandrush.shtml) | Sand Force (/abilitydex/sandforce.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml),110,135,60,50,65,88,508
+#0531,Audino (/pokemon/audino),normal,Healer (/abilitydex/healer.shtml) | Regenerator (/abilitydex/regenerator.shtml) | Klutz (/abilitydex/klutz.shtml),103,60,86,60,86,50,445
+#0532,Timburr (/pokemon/timburr),fighting,Guts (/abilitydex/guts.shtml) | Sheer Force (/abilitydex/sheerforce.shtml) | Iron Fist (/abilitydex/ironfist.shtml),75,80,55,25,35,35,305
+#0533,Gurdurr (/pokemon/gurdurr),fighting,Guts (/abilitydex/guts.shtml) | Sheer Force (/abilitydex/sheerforce.shtml) | Iron Fist (/abilitydex/ironfist.shtml),85,105,85,40,50,40,405
+#0534,Conkeldurr (/pokemon/conkeldurr),fighting,Guts (/abilitydex/guts.shtml) | Sheer Force (/abilitydex/sheerforce.shtml) | Iron Fist (/abilitydex/ironfist.shtml),105,140,95,55,65,45,505
+#0535,Tympole (/pokemon/tympole),water,Swift Swim (/abilitydex/swiftswim.shtml) | Hydration (/abilitydex/hydration.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),50,50,40,50,40,64,294
+#0536,Palpitoad (/pokemon/palpitoad),water | ground,Swift Swim (/abilitydex/swiftswim.shtml) | Hydration (/abilitydex/hydration.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),75,65,55,65,55,69,384
+#0537,Seismitoad (/pokemon/seismitoad),water | ground,Swift Swim (/abilitydex/swiftswim.shtml) | Poison Touch (/abilitydex/poisontouch.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),105,95,75,85,75,74,509
+#0538,Throh (/pokemon/throh),fighting,Guts (/abilitydex/guts.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml),120,100,85,30,85,45,465
+#0539,Sawk (/pokemon/sawk),fighting,Sturdy (/abilitydex/sturdy.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml),75,125,75,30,75,85,465
+#0540,Sewaddle (/pokemon/sewaddle),bug | grass,Swarm (/abilitydex/swarm.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml) | Overcoat (/abilitydex/overcoat.shtml),45,53,70,40,60,42,310
+#0541,Swadloon (/pokemon/swadloon),bug | grass,Leaf Guard (/abilitydex/leafguard.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml) | Overcoat (/abilitydex/overcoat.shtml),55,63,90,50,80,42,380
+#0542,Leavanny (/pokemon/leavanny),bug | grass,Swarm (/abilitydex/swarm.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml) | Overcoat (/abilitydex/overcoat.shtml),75,103,80,70,80,92,500
+#0543,Venipede (/pokemon/venipede),bug | poison,Poison Point (/abilitydex/poisonpoint.shtml) | Swarm (/abilitydex/swarm.shtml) | Speed Boost (/abilitydex/speedboost.shtml),30,45,59,30,39,57,260
+#0544,Whirlipede (/pokemon/whirlipede),bug | poison,Poison Point (/abilitydex/poisonpoint.shtml) | Swarm (/abilitydex/swarm.shtml) | Speed Boost (/abilitydex/speedboost.shtml),40,55,99,40,79,47,360
+#0545,Scolipede (/pokemon/scolipede),bug | poison,Poison Point (/abilitydex/poisonpoint.shtml) | Swarm (/abilitydex/swarm.shtml) | Speed Boost (/abilitydex/speedboost.shtml),60,100,89,55,69,112,485
+#0546,Cottonee (/pokemon/cottonee),grass | fairy,Prankster (/abilitydex/prankster.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml),40,27,60,37,50,66,280
+#0547,Whimsicott (/pokemon/whimsicott),grass | fairy,Prankster (/abilitydex/prankster.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml),60,67,85,77,75,116,480
+#0548,Petilil (/pokemon/petilil),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Leaf Guard (/abilitydex/leafguard.shtml),45,35,50,70,50,30,280
+#0549,Lilligant (/pokemon/lilligant),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Leaf Guard (/abilitydex/leafguard.shtml),70,60,75,110,75,90,480
+#0550,Basculin (/pokemon/basculin),water,Reckless (/abilitydex/reckless.shtml) | Adaptability (/abilitydex/adaptability.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml),70,92,65,80,55,98,460
+#0551,Sandile (/pokemon/sandile),ground | dark,Intimidate (/abilitydex/intimidate.shtml) | Moxie (/abilitydex/moxie.shtml) | Anger Point (/abilitydex/angerpoint.shtml),50,72,35,35,35,65,292
+#0552,Krokorok (/pokemon/krokorok),ground | dark,Intimidate (/abilitydex/intimidate.shtml) | Moxie (/abilitydex/moxie.shtml) | Anger Point (/abilitydex/angerpoint.shtml),60,82,45,45,45,74,351
+#0553,Krookodile (/pokemon/krookodile),ground | dark,Intimidate (/abilitydex/intimidate.shtml) | Moxie (/abilitydex/moxie.shtml) | Anger Point (/abilitydex/angerpoint.shtml),95,117,80,65,70,92,519
+#0554,Darumaka (/pokemon/darumaka),fire,Hustle (/abilitydex/hustle.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),70,90,45,15,45,50,315
+#0555,Darmanitan (/pokemon/darmanitan),fire,Sheer Force (/abilitydex/sheerforce.shtml) | Zen Mode (/abilitydex/zenmode.shtml),105,140,55,30,55,95,480
+#0556,Maractus (/pokemon/maractus),grass,Water Absorb (/abilitydex/waterabsorb.shtml) | Chlorophyll (/abilitydex/chlorophyll.shtml) | Storm Drain (/abilitydex/stormdrain.shtml),75,86,67,106,67,60,461
+#0557,Dwebble (/pokemon/dwebble),bug | rock,Sturdy (/abilitydex/sturdy.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),50,65,85,35,35,55,325
+#0558,Crustle (/pokemon/crustle),bug | rock,Sturdy (/abilitydex/sturdy.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),70,105,125,65,75,45,485
+#0559,Scraggy (/pokemon/scraggy),dark | fighting,Shed Skin (/abilitydex/shedskin.shtml) | Moxie (/abilitydex/moxie.shtml) | Intimidate (/abilitydex/intimidate.shtml),50,75,70,35,70,48,348
+#0560,Scrafty (/pokemon/scrafty),dark | fighting,Shed Skin (/abilitydex/shedskin.shtml) | Moxie (/abilitydex/moxie.shtml) | Intimidate (/abilitydex/intimidate.shtml),65,90,115,45,115,58,488
+#0561,Sigilyph (/pokemon/sigilyph),psychic | flying,Wonder Skin (/abilitydex/wonderskin.shtml) | Magic Guard (/abilitydex/magicguard.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml),72,58,80,103,80,97,490
+#0562,Yamask (/pokemon/yamask),ghost,Mummy (/abilitydex/mummy.shtml),38,30,85,55,65,30,303
+#0563,Cofagrigus (/pokemon/cofagrigus),ghost,Mummy (/abilitydex/mummy.shtml),58,50,145,95,105,30,483
+#0564,Tirtouga (/pokemon/tirtouga),water | rock,Solid Rock (/abilitydex/solidrock.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),54,78,103,53,45,22,355
+#0565,Carracosta (/pokemon/carracosta),water | rock,Solid Rock (/abilitydex/solidrock.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),74,108,133,83,65,32,495
+#0566,Archen (/pokemon/archen),rock | flying,Defeatist (/abilitydex/defeatist.shtml),55,112,45,74,45,70,401
+#0567,Archeops (/pokemon/archeops),rock | flying,Defeatist (/abilitydex/defeatist.shtml),75,140,65,112,65,110,567
+#0568,Trubbish (/pokemon/trubbish),poison,Stench (/abilitydex/stench.shtml) | Sticky Hold (/abilitydex/stickyhold.shtml) | Aftermath (/abilitydex/aftermath.shtml),50,50,62,40,62,65,329
+#0569,Garbodor (/pokemon/garbodor),poison,Stench (/abilitydex/stench.shtml) | Weak Armor (/abilitydex/weakarmor.shtml) | Aftermath (/abilitydex/aftermath.shtml),80,95,82,60,82,75,474
+#0570,Zorua (/pokemon/zorua),dark,Illusion (/abilitydex/illusion.shtml),40,65,40,80,40,65,330
+#0571,Zoroark (/pokemon/zoroark),dark,Illusion (/abilitydex/illusion.shtml),60,105,60,120,60,105,510
+#0572,Minccino (/pokemon/minccino),normal,Cute Charm (/abilitydex/cutecharm.shtml) | Technician (/abilitydex/technician.shtml) | Skill Link (/abilitydex/skilllink.shtml),55,50,40,40,40,75,300
+#0573,Cinccino (/pokemon/cinccino),normal,Cute Charm (/abilitydex/cutecharm.shtml) | Technician (/abilitydex/technician.shtml) | Skill Link (/abilitydex/skilllink.shtml),75,95,60,65,60,115,470
+#0574,Gothita (/pokemon/gothita),psychic,Frisk (/abilitydex/frisk.shtml) | Competitive (/abilitydex/competitive.shtml) | Shadow Tag (/abilitydex/shadowtag.shtml),45,30,50,55,65,45,290
+#0575,Gothorita (/pokemon/gothorita),psychic,Frisk (/abilitydex/frisk.shtml) | Competitive (/abilitydex/competitive.shtml) | Shadow Tag (/abilitydex/shadowtag.shtml),60,45,70,75,85,55,390
+#0576,Gothitelle (/pokemon/gothitelle),psychic,Frisk (/abilitydex/frisk.shtml) | Competitive (/abilitydex/competitive.shtml) | Shadow Tag (/abilitydex/shadowtag.shtml),70,55,95,95,110,65,490
+#0577,Solosis (/pokemon/solosis),psychic,Overcoat (/abilitydex/overcoat.shtml) | Magic Guard (/abilitydex/magicguard.shtml) | Regenerator (/abilitydex/regenerator.shtml),45,30,40,105,50,20,290
+#0578,Duosion (/pokemon/duosion),psychic,Overcoat (/abilitydex/overcoat.shtml) | Magic Guard (/abilitydex/magicguard.shtml) | Regenerator (/abilitydex/regenerator.shtml),65,40,50,125,60,30,370
+#0579,Reuniclus (/pokemon/reuniclus),psychic,Overcoat (/abilitydex/overcoat.shtml) | Magic Guard (/abilitydex/magicguard.shtml) | Regenerator (/abilitydex/regenerator.shtml),110,65,75,125,85,30,490
+#0580,Ducklett (/pokemon/ducklett),water | flying,Keen Eye (/abilitydex/keeneye.shtml) | Big Pecks (/abilitydex/bigpecks.shtml) | Hydration (/abilitydex/hydration.shtml),62,44,50,44,50,55,305
+#0581,Swanna (/pokemon/swanna),water | flying,Keen Eye (/abilitydex/keeneye.shtml) | Big Pecks (/abilitydex/bigpecks.shtml) | Hydration (/abilitydex/hydration.shtml),75,87,63,87,63,98,473
+#0582,Vanillite (/pokemon/vanillite),ice,Ice Body (/abilitydex/icebody.shtml) | Snow Cloak (/abilitydex/snowcloak.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),36,50,50,65,60,44,305
+#0583,Vanillish (/pokemon/vanillish),ice,Ice Body (/abilitydex/icebody.shtml) | Snow Cloak (/abilitydex/snowcloak.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),51,65,65,80,75,59,395
+#0584,Vanilluxe (/pokemon/vanilluxe),ice,Ice Body (/abilitydex/icebody.shtml) | Snow Warning (/abilitydex/snowwarning.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),71,95,85,110,95,79,535
+#0585,Deerling (/pokemon/deerling),normal | grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml) | Serene Grace (/abilitydex/serenegrace.shtml),60,60,50,40,50,75,335
+#0586,Sawsbuck (/pokemon/sawsbuck),normal | grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml) | Serene Grace (/abilitydex/serenegrace.shtml),80,100,70,60,70,95,475
+#0587,Emolga (/pokemon/emolga),electric | flying,Static (/abilitydex/static.shtml) | Motor Drive (/abilitydex/motordrive.shtml),55,75,60,75,60,103,428
+#0588,Karrablast (/pokemon/karrablast),bug,Swarm (/abilitydex/swarm.shtml) | Shed Skin (/abilitydex/shedskin.shtml) | No Guard (/abilitydex/noguard.shtml),50,75,45,40,45,60,315
+#0589,Escavalier (/pokemon/escavalier),bug | steel,Swarm (/abilitydex/swarm.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Overcoat (/abilitydex/overcoat.shtml),70,135,105,60,105,20,495
+#0590,Foongus (/pokemon/foongus),grass | poison,Effect Spore (/abilitydex/effectspore.shtml) | Regenerator (/abilitydex/regenerator.shtml),69,55,45,55,55,15,294
+#0591,Amoonguss (/pokemon/amoonguss),grass | poison,Effect Spore (/abilitydex/effectspore.shtml) | Regenerator (/abilitydex/regenerator.shtml),114,85,70,85,80,30,464
+#0592,Frillish (/pokemon/frillish),water | ghost,Water Absorb (/abilitydex/waterabsorb.shtml) | Cursed Body (/abilitydex/cursedbody.shtml) | Damp (/abilitydex/damp.shtml),55,40,50,65,85,40,335
+#0593,Jellicent (/pokemon/jellicent),water | ghost,Water Absorb (/abilitydex/waterabsorb.shtml) | Cursed Body (/abilitydex/cursedbody.shtml) | Damp (/abilitydex/damp.shtml),100,60,70,85,105,60,480
+#0594,Alomomola (/pokemon/alomomola),water,Healer (/abilitydex/healer.shtml) | Hydration (/abilitydex/hydration.shtml) | Regenerator (/abilitydex/regenerator.shtml),165,75,80,40,45,65,470
+#0595,Joltik (/pokemon/joltik),bug | electric,Compoundeyes (/abilitydex/compoundeyes.shtml) | Unnerve (/abilitydex/unnerve.shtml) | Swarm (/abilitydex/swarm.shtml),50,47,50,57,50,65,319
+#0596,Galvantula (/pokemon/galvantula),bug | electric,Compoundeyes (/abilitydex/compoundeyes.shtml) | Unnerve (/abilitydex/unnerve.shtml) | Swarm (/abilitydex/swarm.shtml),70,77,60,97,60,108,472
+#0597,Ferroseed (/pokemon/ferroseed),grass | steel,Iron Barbs (/abilitydex/ironbarbs.shtml),44,50,91,24,86,10,305
+#0598,Ferrothorn (/pokemon/ferrothorn),grass | steel,Iron Barbs (/abilitydex/ironbarbs.shtml) | Anticipation (/abilitydex/anticipation.shtml),74,94,131,54,116,20,489
+#0599,Klink (/pokemon/klink),steel,Plus (/abilitydex/plus.shtml) | Minus (/abilitydex/minus.shtml) | Clear Body (/abilitydex/clearbody.shtml),40,55,70,45,60,30,300
+#0600,Klang (/pokemon/klang),steel,Plus (/abilitydex/plus.shtml) | Minus (/abilitydex/minus.shtml) | Clear Body (/abilitydex/clearbody.shtml),60,80,95,70,85,50,440
+#0601,Klinklang (/pokemon/klinklang),steel,Plus (/abilitydex/plus.shtml) | Minus (/abilitydex/minus.shtml) | Clear Body (/abilitydex/clearbody.shtml),60,100,115,70,85,90,520
+#0602,Tynamo (/pokemon/tynamo),electric,Levitate (/abilitydex/levitate.shtml),35,55,40,45,40,60,275
+#0603,Eelektrik (/pokemon/eelektrik),electric,Levitate (/abilitydex/levitate.shtml),65,85,70,75,70,40,405
+#0604,Eelektross (/pokemon/eelektross),electric,Levitate (/abilitydex/levitate.shtml),85,115,80,105,80,50,515
+#0605,Elgyem (/pokemon/elgyem),psychic,Telepathy (/abilitydex/telepathy.shtml) | Synchronize (/abilitydex/synchronize.shtml) | Analytic (/abilitydex/analytic.shtml),55,55,55,85,55,30,335
+#0606,Beheeyem (/pokemon/beheeyem),psychic,Telepathy (/abilitydex/telepathy.shtml) | Synchronize (/abilitydex/synchronize.shtml) | Analytic (/abilitydex/analytic.shtml),75,75,75,125,95,40,485
+#0607,Litwick (/pokemon/litwick),ghost | fire,Flash Fire (/abilitydex/flashfire.shtml) | Flame Body (/abilitydex/flamebody.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),50,30,55,65,55,20,275
+#0608,Lampent (/pokemon/lampent),ghost | fire,Flash Fire (/abilitydex/flashfire.shtml) | Flame Body (/abilitydex/flamebody.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),60,40,60,95,60,55,370
+#0609,Chandelure (/pokemon/chandelure),ghost | fire,Flash Fire (/abilitydex/flashfire.shtml) | Flame Body (/abilitydex/flamebody.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),60,55,90,145,90,80,520
+#0610,Axew (/pokemon/axew),dragon,Rivalry (/abilitydex/rivalry.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml) | Unnerve (/abilitydex/unnerve.shtml),46,87,60,30,40,57,320
+#0611,Fraxure (/pokemon/fraxure),dragon,Rivalry (/abilitydex/rivalry.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml) | Unnerve (/abilitydex/unnerve.shtml),66,117,70,40,50,67,410
+#0612,Haxorus (/pokemon/haxorus),dragon,Rivalry (/abilitydex/rivalry.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml) | Unnerve (/abilitydex/unnerve.shtml),76,147,90,60,70,97,540
+#0613,Cubchoo (/pokemon/cubchoo),ice,Snow Cloak (/abilitydex/snowcloak.shtml) | Slush Rush (/abilitydex/slushrush.shtml) | Rattled (/abilitydex/rattled.shtml),55,70,40,60,40,40,305
+#0614,Beartic (/pokemon/beartic),ice,Snow Cloak (/abilitydex/snowcloak.shtml) | Slush Rush (/abilitydex/slushrush.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),95,130,80,70,80,50,505
+#0615,Cryogonal (/pokemon/cryogonal),ice,Levitate (/abilitydex/levitate.shtml),80,50,50,95,135,105,515
+#0616,Shelmet (/pokemon/shelmet),bug,Hydration (/abilitydex/hydration.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Overcoat (/abilitydex/overcoat.shtml),50,40,85,40,65,25,305
+#0617,Accelgor (/pokemon/accelgor),bug,Hydration (/abilitydex/hydration.shtml) | Sticky Hold (/abilitydex/stickyhold.shtml) | Unburden (/abilitydex/unburden.shtml),80,70,40,100,60,145,495
+#0618,Stunfisk (/pokemon/stunfisk),ground | electric,Static (/abilitydex/static.shtml) | Limber (/abilitydex/limber.shtml) | Sand Veil (/abilitydex/sandveil.shtml),109,66,84,81,99,32,471
+#0619,Mienfoo (/pokemon/mienfoo),fighting,Inner Focus (/abilitydex/innerfocus.shtml) | Regenerator (/abilitydex/regenerator.shtml) | Reckless (/abilitydex/reckless.shtml),45,85,50,55,50,65,350
+#0620,Mienshao (/pokemon/mienshao),fighting,Inner Focus (/abilitydex/innerfocus.shtml) | Regenerator (/abilitydex/regenerator.shtml) | Reckless (/abilitydex/reckless.shtml),65,125,60,95,60,105,510
+#0621,Druddigon (/pokemon/druddigon),dragon,Rough Skin (/abilitydex/roughskin.shtml) | Sheer Force (/abilitydex/sheerforce.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml),77,120,90,60,90,48,485
+#0622,Golett (/pokemon/golett),ground | ghost,Iron Fist (/abilitydex/ironfist.shtml) | Klutz (/abilitydex/klutz.shtml) | No Guard (/abilitydex/noguard.shtml),59,74,50,35,50,35,303
+#0623,Golurk (/pokemon/golurk),ground | ghost,Iron Fist (/abilitydex/ironfist.shtml) | Klutz (/abilitydex/klutz.shtml) | No Guard (/abilitydex/noguard.shtml),89,124,80,55,80,55,483
+#0624,Pawniard (/pokemon/pawniard),dark | steel,Defiant (/abilitydex/defiant.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Pressure (/abilitydex/pressure.shtml),45,85,70,40,40,60,340
+#0625,Bisharp (/pokemon/bisharp),dark | steel,Defiant (/abilitydex/defiant.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Pressure (/abilitydex/pressure.shtml),65,125,100,60,70,70,490
+#0626,Bouffalant (/pokemon/bouffalant),normal,Reckless (/abilitydex/reckless.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml) | Soundproof (/abilitydex/soundproof.shtml),95,110,95,40,95,55,490
+#0627,Rufflet (/pokemon/rufflet),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Sheer Force (/abilitydex/sheerforce.shtml) | Hustle (/abilitydex/hustle.shtml),70,83,50,37,50,60,350
+#0628,Braviary (/pokemon/braviary),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Sheer Force (/abilitydex/sheerforce.shtml) | Defiant (/abilitydex/defiant.shtml),100,123,75,57,75,80,510
+#0629,Vullaby (/pokemon/vullaby),dark | flying,Big Pecks (/abilitydex/bigpecks.shtml) | Overcoat (/abilitydex/overcoat.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),70,55,75,45,65,60,370
+#0630,Mandibuzz (/pokemon/mandibuzz),dark | flying,Big Pecks (/abilitydex/bigpecks.shtml) | Overcoat (/abilitydex/overcoat.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),110,65,105,55,95,80,510
+#0631,Heatmor (/pokemon/heatmor),fire,Gluttony (/abilitydex/gluttony.shtml) | Flash Fire (/abilitydex/flashfire.shtml) | White Smoke (/abilitydex/whitesmoke.shtml),85,97,66,105,66,65,484
+#0632,Durant (/pokemon/durant),bug | steel,Swarm (/abilitydex/swarm.shtml) | Hustle (/abilitydex/hustle.shtml) | Truant (/abilitydex/truant.shtml),58,109,112,48,48,109,484
+#0633,Deino (/pokemon/deino),dark | dragon,Hustle (/abilitydex/hustle.shtml),52,65,50,45,50,38,300
+#0634,Zweilous (/pokemon/zweilous),dark | dragon,Hustle (/abilitydex/hustle.shtml),72,85,70,65,70,58,420
+#0635,Hydreigon (/pokemon/hydreigon),dark | dragon,Levitate (/abilitydex/levitate.shtml),92,105,90,125,90,98,600
+#0636,Larvesta (/pokemon/larvesta),bug | fire,Flame Body (/abilitydex/flamebody.shtml) | Swarm (/abilitydex/swarm.shtml),55,85,55,50,55,60,360
+#0637,Volcarona (/pokemon/volcarona),bug | fire,Flame Body (/abilitydex/flamebody.shtml) | Swarm (/abilitydex/swarm.shtml),85,60,65,135,105,100,550
+#0638,Cobalion (/pokemon/cobalion),steel | fighting,Justified (/abilitydex/justified.shtml),91,90,129,90,72,108,580
+#0639,Terrakion (/pokemon/terrakion),rock | fighting,Justified (/abilitydex/justified.shtml),91,129,90,72,90,108,580
+#0640,Virizion (/pokemon/virizion),grass | fighting,Justified (/abilitydex/justified.shtml),91,90,72,90,129,108,580
+#0641,Tornadus (/pokemon/tornadus),flying,Prankster (/abilitydex/prankster.shtml) | Defiant (/abilitydex/defiant.shtml),79,115,70,125,80,111,580
+#0642,Thundurus (/pokemon/thundurus),electric | flying,Prankster (/abilitydex/prankster.shtml) | Defiant (/abilitydex/defiant.shtml),79,115,70,125,80,111,580
+#0643,Reshiram (/pokemon/reshiram),dragon | fire,Turboblaze (/abilitydex/turboblaze.shtml),100,120,100,150,120,90,680
+#0644,Zekrom (/pokemon/zekrom),dragon | electric,Teravolt (/abilitydex/teravolt.shtml),100,150,120,120,100,90,680
+#0645,Landorus (/pokemon/landorus),ground | flying,Sand Force (/abilitydex/sandforce.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),89,125,90,115,80,101,600
+#0646,Kyurem (/pokemon/kyurem),dragon | ice,Pressure (/abilitydex/pressure.shtml),125,130,90,130,90,95,660
+#0647,Keldeo (/pokemon/keldeo),water | fighting,Justified (/abilitydex/justified.shtml),91,72,90,129,90,108,580
+#0648,Meloetta (/pokemon/meloetta),normal | psychic,Serene Grace (/abilitydex/serenegrace.shtml),100,77,77,128,128,90,600
+#0649,Genesect (/pokemon/genesect),bug | steel,Download (/abilitydex/download.shtml),71,120,95,120,95,99,600
+#0650,Chespin (/pokemon/chespin),grass,Overgrow (/abilitydex/overgrow.shtml) | Bulletproof (/abilitydex/bulletproof.shtml),56,61,65,48,45,38,313
+#0651,Quilladin (/pokemon/quilladin),grass,Overgrow (/abilitydex/overgrow.shtml) | Bulletproof (/abilitydex/bulletproof.shtml),61,78,95,56,58,57,405
+#0652,Chesnaught (/pokemon/chesnaught),grass | fighting,Overgrow (/abilitydex/overgrow.shtml) | Bulletproof (/abilitydex/bulletproof.shtml),88,107,122,74,75,64,530
+#0653,Fennekin (/pokemon/fennekin),fire,Blaze (/abilitydex/blaze.shtml) | Magician (/abilitydex/magician.shtml),40,45,40,62,60,60,307
+#0654,Braixen (/pokemon/braixen),fire,Blaze (/abilitydex/blaze.shtml) | Magician (/abilitydex/magician.shtml),59,59,58,90,70,73,409
+#0655,Delphox (/pokemon/delphox),fire | psychic,Blaze (/abilitydex/blaze.shtml) | Magician (/abilitydex/magician.shtml),75,69,72,114,100,104,534
+#0656,Froakie (/pokemon/froakie),water,Torrent (/abilitydex/torrent.shtml) | Protean (/abilitydex/protean.shtml),41,56,40,62,44,71,314
+#0657,Frogadier (/pokemon/frogadier),water,Torrent (/abilitydex/torrent.shtml) | Protean (/abilitydex/protean.shtml),54,63,52,83,56,97,405
+#0658,Greninja (/pokemon/greninja),water | dark,Torrent (/abilitydex/torrent.shtml) | Protean (/abilitydex/protean.shtml),72,95,67,103,71,122,530
+#0659,Bunnelby (/pokemon/bunnelby),normal,Pickup (/abilitydex/pickup.shtml) | Cheek Pouch (/abilitydex/cheekpouch.shtml) | Huge Power (/abilitydex/hugepower.shtml),38,36,38,32,36,57,237
+#0660,Diggersby (/pokemon/diggersby),normal | ground,Pickup (/abilitydex/pickup.shtml) | Cheek Pouch (/abilitydex/cheekpouch.shtml) | Huge Power (/abilitydex/hugepower.shtml),85,56,77,50,77,78,423
+#0661,Fletchling (/pokemon/fletchling),normal | flying,Big Pecks (/abilitydex/bigpecks.shtml) | Gale Wings (/abilitydex/galewings.shtml),45,50,43,40,38,62,278
+#0662,Fletchinder (/pokemon/fletchinder),fire | flying,Flame Body (/abilitydex/flamebody.shtml) | Gale Wings (/abilitydex/galewings.shtml),62,73,55,56,52,84,382
+#0663,Talonflame (/pokemon/talonflame),fire | flying,Flame Body (/abilitydex/flamebody.shtml) | Gale Wings (/abilitydex/galewings.shtml),78,81,71,74,69,126,499
+#0664,Scatterbug (/pokemon/scatterbug),bug,Shield Dust (/abilitydex/shielddust.shtml) | Compoundeyes (/abilitydex/compoundeyes.shtml) | Friend Guard (/abilitydex/friendguard.shtml),38,35,40,27,25,35,200
+#0665,Spewpa (/pokemon/spewpa),bug,Shed Skin (/abilitydex/shedskin.shtml) | Friend Guard (/abilitydex/friendguard.shtml),45,22,60,27,30,29,213
+#0666,Vivillon (/pokemon/vivillon),bug | flying,Shield Dust (/abilitydex/shielddust.shtml) | Compoundeyes (/abilitydex/compoundeyes.shtml) | Friend Guard (/abilitydex/friendguard.shtml),80,52,50,90,50,89,411
+#0667,Litleo (/pokemon/litleo),fire | normal,Rivalry (/abilitydex/rivalry.shtml) | Unnerve (/abilitydex/unnerve.shtml) | Moxie (/abilitydex/moxie.shtml),62,50,58,73,54,72,369
+#0668,Pyroar (/pokemon/pyroar),fire | normal,Rivalry (/abilitydex/rivalry.shtml) | Unnerve (/abilitydex/unnerve.shtml) | Moxie (/abilitydex/moxie.shtml),86,68,72,109,66,106,507
+#0669,Flabébé (/pokemon/flabebe),fairy,Flower Veil (/abilitydex/flowerveil.shtml) | Symbiosis (/abilitydex/symbiosis.shtml),44,38,39,61,79,42,303
+#0670,Floette (/pokemon/floette),fairy,Flower Veil (/abilitydex/flowerveil.shtml) | Symbiosis (/abilitydex/symbiosis.shtml),54,45,47,75,98,52,371
+#0671,Florges (/pokemon/florges),fairy,Flower Veil (/abilitydex/flowerveil.shtml) | Symbiosis (/abilitydex/symbiosis.shtml),78,65,68,112,154,75,552
+#0672,Skiddo (/pokemon/skiddo),grass,Sap Sipper (/abilitydex/sapsipper.shtml) | Grass Pelt (/abilitydex/grasspelt.shtml),66,65,48,62,57,52,350
+#0673,Gogoat (/pokemon/gogoat),grass,Sap Sipper (/abilitydex/sapsipper.shtml) | Grass Pelt (/abilitydex/grasspelt.shtml),123,100,62,97,81,68,531
+#0674,Pancham (/pokemon/pancham),fighting,Iron Fist (/abilitydex/ironfist.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml) | Scrappy (/abilitydex/scrappy.shtml),67,82,62,46,48,43,348
+#0675,Pangoro (/pokemon/pangoro),fighting | dark,Iron Fist (/abilitydex/ironfist.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml) | Scrappy (/abilitydex/scrappy.shtml),95,124,78,69,71,58,495
+#0676,Furfrou (/pokemon/furfrou),normal,Fur Coat (/abilitydex/furcoat.shtml),75,80,60,65,90,102,472
+#0677,Espurr (/pokemon/espurr),psychic,Keen Eye (/abilitydex/keeneye.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Own Tempo (/abilitydex/owntempo.shtml),62,48,54,63,60,68,355
+#0678,Meowstic (/pokemon/meowstic),psychic,Keen Eye (/abilitydex/keeneye.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Prankster (/abilitydex/prankster.shtml),74,48,76,83,81,104,466
+#0679,Honedge (/pokemon/honedge),steel | ghost,No Guard (/abilitydex/noguard.shtml),45,80,100,35,37,28,325
+#0680,Doublade (/pokemon/doublade),steel | ghost,No Guard (/abilitydex/noguard.shtml),59,110,150,45,49,35,448
+#0681,Aegislash (/pokemon/aegislash),steel | ghost,Stance Change (/abilitydex/stancechange.shtml),60,50,140,50,140,60,500
+#0682,Spritzee (/pokemon/spritzee),fairy,Healer (/abilitydex/healer.shtml) | Aroma Veil (/abilitydex/aromaveil.shtml),78,52,60,63,65,23,341
+#0683,Aromatisse (/pokemon/aromatisse),fairy,Healer (/abilitydex/healer.shtml) | Aroma Veil (/abilitydex/aromaveil.shtml),101,72,72,99,89,29,462
+#0684,Swirlix (/pokemon/swirlix),fairy,Sweet Veil (/abilitydex/sweetveil.shtml) | Unburden (/abilitydex/unburden.shtml),62,48,66,59,57,49,341
+#0685,Slurpuff (/pokemon/slurpuff),fairy,Sweet Veil (/abilitydex/sweetveil.shtml) | Unburden (/abilitydex/unburden.shtml),82,80,86,85,75,72,480
+#0686,Inkay (/pokemon/inkay),dark | psychic,Contrary (/abilitydex/contrary.shtml) | Suction Cups (/abilitydex/suctioncups.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),53,54,53,37,46,45,288
+#0687,Malamar (/pokemon/malamar),dark | psychic,Contrary (/abilitydex/contrary.shtml) | Suction Cups (/abilitydex/suctioncups.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),86,92,88,68,75,73,482
+#0688,Binacle (/pokemon/binacle),rock | water,Tough Claws (/abilitydex/toughclaws.shtml) | Sniper (/abilitydex/sniper.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),42,52,67,39,56,50,306
+#0689,Barbaracle (/pokemon/barbaracle),rock | water,Tough Claws (/abilitydex/toughclaws.shtml) | Sniper (/abilitydex/sniper.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),72,105,115,54,86,68,500
+#0690,Skrelp (/pokemon/skrelp),poison | water,Poison Point (/abilitydex/poisonpoint.shtml) | Poison Touch (/abilitydex/poisontouch.shtml) | Adaptability (/abilitydex/adaptability.shtml),50,60,60,60,60,30,320
+#0691,Dragalge (/pokemon/dragalge),poison | dragon,Poison Point (/abilitydex/poisonpoint.shtml) | Poison Touch (/abilitydex/poisontouch.shtml) | Adaptability (/abilitydex/adaptability.shtml),65,75,90,97,123,44,494
+#0692,Clauncher (/pokemon/clauncher),water,Mega Launcher (/abilitydex/megalauncher.shtml),50,53,62,58,63,44,330
+#0693,Clawitzer (/pokemon/clawitzer),water,Mega Launcher (/abilitydex/megalauncher.shtml),71,73,88,120,89,59,500
+#0694,Helioptile (/pokemon/helioptile),electric | normal,Dry Skin (/abilitydex/dryskin.shtml) | Sand Veil (/abilitydex/sandveil.shtml) | Solar Power (/abilitydex/solarpower.shtml),44,38,33,61,43,70,289
+#0695,Heliolisk (/pokemon/heliolisk),electric | normal,Dry Skin (/abilitydex/dryskin.shtml) | Sand Veil (/abilitydex/sandveil.shtml) | Solar Power (/abilitydex/solarpower.shtml),62,55,52,109,94,109,481
+#0696,Tyrunt (/pokemon/tyrunt),rock | dragon,Strong Jaw (/abilitydex/strongjaw.shtml) | Sturdy (/abilitydex/sturdy.shtml),58,89,77,45,45,48,362
+#0697,Tyrantrum (/pokemon/tyrantrum),rock | dragon,Strong Jaw (/abilitydex/strongjaw.shtml) | Rock Head (/abilitydex/rockhead.shtml),82,121,119,69,59,71,521
+#0698,Amaura (/pokemon/amaura),rock | ice,Refrigerate (/abilitydex/refrigerate.shtml) | Snow Warning (/abilitydex/snowwarning.shtml),77,59,50,67,63,46,362
+#0699,Aurorus (/pokemon/aurorus),rock | ice,Refrigerate (/abilitydex/refrigerate.shtml) | Snow Warning (/abilitydex/snowwarning.shtml),123,77,72,99,92,58,521
+#0700,Sylveon (/pokemon/sylveon),fairy,Cute Charm (/abilitydex/cutecharm.shtml) | Pixilate (/abilitydex/pixilate.shtml),95,65,65,110,130,60,525
+#0701,Hawlucha (/pokemon/hawlucha),fighting | flying,Limber (/abilitydex/limber.shtml) | Unburden (/abilitydex/unburden.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml),78,92,75,74,63,118,500
+#0702,Dedenne (/pokemon/dedenne),electric | fairy,Cheek Pouch (/abilitydex/cheekpouch.shtml) | Pickup (/abilitydex/pickup.shtml) | Plus (/abilitydex/plus.shtml),67,58,57,81,67,101,431
+#0703,Carbink (/pokemon/carbink),rock | fairy,Clear Body (/abilitydex/clearbody.shtml) | Sturdy (/abilitydex/sturdy.shtml),50,50,150,50,150,50,500
+#0704,Goomy (/pokemon/goomy),dragon,Sap Sipper (/abilitydex/sapsipper.shtml) | Hydration (/abilitydex/hydration.shtml) | Gooey (/abilitydex/gooey.shtml),45,50,35,55,75,40,300
+#0705,Sliggoo (/pokemon/sliggoo),dragon,Sap Sipper (/abilitydex/sapsipper.shtml) | Hydration (/abilitydex/hydration.shtml) | Gooey (/abilitydex/gooey.shtml),68,75,53,83,113,60,452
+#0706,Goodra (/pokemon/goodra),dragon,Sap Sipper (/abilitydex/sapsipper.shtml) | Hydration (/abilitydex/hydration.shtml) | Gooey (/abilitydex/gooey.shtml),90,100,70,110,150,80,600
+#0707,Klefki (/pokemon/klefki),steel | fairy,Prankster (/abilitydex/prankster.shtml) | Magician (/abilitydex/magician.shtml),57,80,91,80,87,75,470
+#0708,Phantump (/pokemon/phantump),ghost | grass,Natural Cure (/abilitydex/naturalcure.shtml) | Frisk (/abilitydex/frisk.shtml) | Harvest (/abilitydex/harvest.shtml),43,70,48,50,60,38,309
+#0709,Trevenant (/pokemon/trevenant),ghost | grass,Natural Cure (/abilitydex/naturalcure.shtml) | Frisk (/abilitydex/frisk.shtml) | Harvest (/abilitydex/harvest.shtml),85,110,76,65,82,56,474
+#0710,Pumpkaboo (/pokemon/pumpkaboo),ghost | grass,Pickup (/abilitydex/pickup.shtml) | Frisk (/abilitydex/frisk.shtml) | Insomnia (/abilitydex/insomnia.shtml),49,66,70,44,55,51,335
+#0711,Gourgeist (/pokemon/gourgeist),ghost | grass,Pickup (/abilitydex/pickup.shtml) | Frisk (/abilitydex/frisk.shtml) | Insomnia (/abilitydex/insomnia.shtml),65,90,122,58,75,84,494
+#0712,Bergmite (/pokemon/bergmite),ice,Own Tempo (/abilitydex/owntempo.shtml) | Ice Body (/abilitydex/icebody.shtml) | Sturdy (/abilitydex/sturdy.shtml),55,69,85,32,35,28,304
+#0713,Avalugg (/pokemon/avalugg),ice,Own Tempo (/abilitydex/owntempo.shtml) | Ice Body (/abilitydex/icebody.shtml) | Sturdy (/abilitydex/sturdy.shtml),95,117,184,44,46,28,514
+#0714,Noibat (/pokemon/noibat),flying | dragon,Frisk (/abilitydex/frisk.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Telepathy (/abilitydex/telepathy.shtml),40,30,35,45,40,55,245
+#0715,Noivern (/pokemon/noivern),flying | dragon,Frisk (/abilitydex/frisk.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Telepathy (/abilitydex/telepathy.shtml),85,70,80,97,80,123,535
+#0716,Xerneas (/pokemon/xerneas),fairy,Fairy Aura (/abilitydex/fairyaura.shtml),126,131,95,131,98,99,680
+#0717,Yveltal (/pokemon/yveltal),dark | flying,Dark Aura (/abilitydex/darkaura.shtml),126,131,95,131,98,99,680
+#0718,Zygarde (/pokemon/zygarde),dragon | ground,Aura Break (/abilitydex/aurabreak.shtml),108,100,121,81,95,95,600
+#0719,Diancie (/pokemon/diancie),rock | fairy,Clear Body (/abilitydex/clearbody.shtml),50,100,150,100,150,50,600
+#0720,Hoopa (/pokemon/hoopa),psychic | ghost,Magician (/abilitydex/magician.shtml),80,110,60,150,130,70,600
+#0721,Volcanion (/pokemon/volcanion),fire | water,Water Absorb (/abilitydex/waterabsorb.shtml),80,110,120,130,90,70,600
+#0722,Rowlet (/pokemon/rowlet),grass | flying,Overgrow (/abilitydex/overgrow.shtml) | Long Reach (/abilitydex/longreach.shtml),68,55,55,50,50,42,320
+#0723,Dartrix (/pokemon/dartrix),grass | flying,Overgrow (/abilitydex/overgrow.shtml) | Long Reach (/abilitydex/longreach.shtml),78,75,75,70,70,52,420
+#0724,Decidueye (/pokemon/decidueye),grass | ghost,Overgrow (/abilitydex/overgrow.shtml) | Long Reach (/abilitydex/longreach.shtml),78,107,75,100,100,70,530
+#0725,Litten (/pokemon/litten),fire,Blaze (/abilitydex/blaze.shtml) | Intimidate (/abilitydex/intimidate.shtml),45,65,40,60,40,70,320
+#0726,Torracat (/pokemon/torracat),fire,Blaze (/abilitydex/blaze.shtml) | Intimidate (/abilitydex/intimidate.shtml),65,85,50,80,50,90,420
+#0727,Incineroar (/pokemon/incineroar),fire | dark,Blaze (/abilitydex/blaze.shtml) | Intimidate (/abilitydex/intimidate.shtml),95,115,90,80,90,60,530
+#0728,Popplio (/pokemon/popplio),water,Torrent (/abilitydex/torrent.shtml) | Liquid Voice (/abilitydex/liquidvoice.shtml),50,54,54,66,56,40,320
+#0729,Brionne (/pokemon/brionne),water,Torrent (/abilitydex/torrent.shtml) | Liquid Voice (/abilitydex/liquidvoice.shtml),60,69,69,91,81,50,420
+#0730,Primarina (/pokemon/primarina),water | fairy,Torrent (/abilitydex/torrent.shtml) | Liquid Voice (/abilitydex/liquidvoice.shtml),80,74,74,126,116,60,530
+#0731,Pikipek (/pokemon/pikipek),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Skill Link (/abilitydex/skilllink.shtml) | Pickup (/abilitydex/pickup.shtml),35,75,30,30,30,65,265
+#0732,Trumbeak (/pokemon/trumbeak),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Skill Link (/abilitydex/skilllink.shtml) | Pickup (/abilitydex/pickup.shtml),55,85,50,40,50,75,355
+#0733,Toucannon (/pokemon/toucannon),normal | flying,Keen Eye (/abilitydex/keeneye.shtml) | Skill Link (/abilitydex/skilllink.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),80,120,75,75,75,60,485
+#0734,Yungoos (/pokemon/yungoos),normal,Stakeout (/abilitydex/stakeout.shtml) | Strong Jaw (/abilitydex/strongjaw.shtml) | Adaptability (/abilitydex/adaptability.shtml),48,70,30,30,30,45,253
+#0735,Gumshoos (/pokemon/gumshoos),normal,Stakeout (/abilitydex/stakeout.shtml) | Strong Jaw (/abilitydex/strongjaw.shtml) | Adaptability (/abilitydex/adaptability.shtml),88,110,60,55,60,45,418
+#0736,Grubbin (/pokemon/grubbin),bug,Swarm (/abilitydex/swarm.shtml),47,62,45,55,45,46,300
+#0737,Charjabug (/pokemon/charjabug),bug | electric,Battery (/abilitydex/battery.shtml),57,82,95,55,75,36,400
+#0738,Vikavolt (/pokemon/vikavolt),bug | electric,Levitate (/abilitydex/levitate.shtml),77,70,90,145,75,43,500
+#0739,Crabrawler (/pokemon/crabrawler),fighting,Hyper Cutter (/abilitydex/hypercutter.shtml) | Iron Fist (/abilitydex/ironfist.shtml) | Anger Point (/abilitydex/angerpoint.shtml),47,82,57,42,47,63,338
+#0740,Crabominable (/pokemon/crabominable),fighting | ice,Hyper Cutter (/abilitydex/hypercutter.shtml) | Iron Fist (/abilitydex/ironfist.shtml) | Anger Point (/abilitydex/angerpoint.shtml),97,132,77,62,67,43,478
+#0741,Oricorio (/pokemon/oricorio),fire | flying,Dancer (/abilitydex/dancer.shtml),75,70,70,98,70,93,476
+#0742,Cutiefly (/pokemon/cutiefly),bug | fairy,Honey Gather (/abilitydex/honeygather.shtml) | Shield Dust (/abilitydex/shielddust.shtml) | Sweet Veil (/abilitydex/sweetveil.shtml),40,45,40,55,40,84,304
+#0743,Ribombee (/pokemon/ribombee),bug | fairy,Honey Gather (/abilitydex/honeygather.shtml) | Shield Dust (/abilitydex/shielddust.shtml) | Sweet Veil (/abilitydex/sweetveil.shtml),60,55,60,95,70,124,464
+#0744,Rockruff (/pokemon/rockruff),rock,Keen Eye (/abilitydex/keeneye.shtml) | Vital Spirit (/abilitydex/vitalspirit.shtml) | Steadfast (/abilitydex/steadfast.shtml),45,65,40,30,40,60,280
+#0745,Lycanroc (/pokemon/lycanroc),rock,Keen Eye (/abilitydex/keeneye.shtml) | Sand Rush (/abilitydex/sandrush.shtml) | Steadfast (/abilitydex/steadfast.shtml),75,115,65,55,65,112,487
+#0746,Wishiwashi (/pokemon/wishiwashi),water,Schooling (/abilitydex/schooling.shtml),45,20,20,25,25,40,175
+#0747,Mareanie (/pokemon/mareanie),poison | water,Merciless (/abilitydex/merciless.shtml) | Limber (/abilitydex/limber.shtml) | Regenerator (/abilitydex/regenerator.shtml),50,53,62,43,52,45,305
+#0748,Toxapex (/pokemon/toxapex),poison | water,Merciless (/abilitydex/merciless.shtml) | Limber (/abilitydex/limber.shtml) | Regenerator (/abilitydex/regenerator.shtml),50,63,152,53,142,35,495
+#0749,Mudbray (/pokemon/mudbray),ground,Own Tempo (/abilitydex/owntempo.shtml) | Stamina (/abilitydex/stamina.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),70,100,70,45,55,45,385
+#0750,Mudsdale (/pokemon/mudsdale),ground,Own Tempo (/abilitydex/owntempo.shtml) | Stamina (/abilitydex/stamina.shtml) | Inner Focus (/abilitydex/innerfocus.shtml),100,125,100,55,85,35,500
+#0751,Dewpider (/pokemon/dewpider),water | bug,Water Bubble (/abilitydex/waterbubble.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),38,40,52,40,72,27,269
+#0752,Araquanid (/pokemon/araquanid),water | bug,Water Bubble (/abilitydex/waterbubble.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml),68,70,92,50,132,42,454
+#0753,Fomantis (/pokemon/fomantis),grass,Leaf Guard (/abilitydex/leafguard.shtml) | Contrary (/abilitydex/contrary.shtml),40,55,35,50,35,35,250
+#0754,Lurantis (/pokemon/lurantis),grass,Leaf Guard (/abilitydex/leafguard.shtml) | Contrary (/abilitydex/contrary.shtml),70,105,90,80,90,45,480
+#0755,Morelull (/pokemon/morelull),grass | fairy,Illuminate (/abilitydex/illuminate.shtml) | Effect Spore (/abilitydex/effectspore.shtml) | Rain Dish (/abilitydex/raindish.shtml),40,35,55,65,75,15,285
+#0756,Shiinotic (/pokemon/shiinotic),grass | fairy,Illuminate (/abilitydex/illuminate.shtml) | Effect Spore (/abilitydex/effectspore.shtml) | Rain Dish (/abilitydex/raindish.shtml),60,45,80,90,100,30,405
+#0757,Salandit (/pokemon/salandit),poison | fire,Corrosion (/abilitydex/corrosion.shtml) | Oblivious (/abilitydex/oblivious.shtml),48,44,40,71,40,77,320
+#0758,Salazzle (/pokemon/salazzle),poison | fire,Corrosion (/abilitydex/corrosion.shtml) | Oblivious (/abilitydex/oblivious.shtml),68,64,60,111,60,117,480
+#0759,Stufful (/pokemon/stufful),normal | fighting,Fluffy (/abilitydex/fluffy.shtml) | Klutz (/abilitydex/klutz.shtml) | Cute Charm (/abilitydex/cutecharm.shtml),70,75,50,45,50,50,340
+#0760,Bewear (/pokemon/bewear),normal | fighting,Fluffy (/abilitydex/fluffy.shtml) | Klutz (/abilitydex/klutz.shtml) | Unnerve (/abilitydex/unnerve.shtml),120,125,80,55,60,60,500
+#0761,Bounsweet (/pokemon/bounsweet),grass,Leaf Guard (/abilitydex/leafguard.shtml) | Oblivious (/abilitydex/oblivious.shtml) | Sweet Veil (/abilitydex/sweetveil.shtml),42,30,38,30,38,32,210
+#0762,Steenee (/pokemon/steenee),grass,Leaf Guard (/abilitydex/leafguard.shtml) | Oblivious (/abilitydex/oblivious.shtml) | Sweet Veil (/abilitydex/sweetveil.shtml),52,40,48,40,48,62,290
+#0763,Tsareena (/pokemon/tsareena),grass,Leaf Guard (/abilitydex/leafguard.shtml) | Queenly Majesty (/abilitydex/queenlymajesty.shtml) | Sweet Veil (/abilitydex/sweetveil.shtml),72,120,98,50,98,72,510
+#0764,Comfey (/pokemon/comfey),fairy,Flower Veil (/abilitydex/flowerveil.shtml) | Triage (/abilitydex/triage.shtml) | Natural Cure (/abilitydex/naturalcure.shtml),51,52,90,82,110,100,485
+#0765,Oranguru (/pokemon/oranguru),normal | psychic,Inner Focus (/abilitydex/innerfocus.shtml) | Telepathy (/abilitydex/telepathy.shtml) | Symbiosis (/abilitydex/symbiosis.shtml),90,60,80,90,110,60,490
+#0766,Passimian (/pokemon/passimian),fighting,Receiver (/abilitydex/receiver.shtml) | Defiant (/abilitydex/defiant.shtml),100,120,90,40,60,80,490
+#0767,Wimpod (/pokemon/wimpod),bug | water,Wimp Out (/abilitydex/wimpout.shtml),25,35,40,20,30,80,230
+#0768,Golisopod (/pokemon/golisopod),bug | water,Emergency Exit (/abilitydex/emergencyexit.shtml),75,125,140,60,90,40,530
+#0769,Sandygast (/pokemon/sandygast),ghost | ground,Water Compaction (/abilitydex/watercompaction.shtml) | Sand Veil (/abilitydex/sandveil.shtml),55,55,80,70,45,15,320
+#0770,Palossand (/pokemon/palossand),ghost | ground,Water Compaction (/abilitydex/watercompaction.shtml) | Sand Veil (/abilitydex/sandveil.shtml),85,75,110,100,75,35,480
+#0771,Pyukumuku (/pokemon/pyukumuku),water,Innards Out (/abilitydex/innardsout.shtml) | Unaware (/abilitydex/unaware.shtml),55,60,130,30,130,5,410
+#0772,Type: Null (/pokemon/type:null),normal,Battle Armor (/abilitydex/battlearmor.shtml),95,95,95,95,95,59,534
+#0773,Silvally (/pokemon/silvally),normal,RKS System (/abilitydex/rkssystem.shtml),95,95,95,95,95,95,570
+#0774,Minior (/pokemon/minior),rock | flying,Shields Down (/abilitydex/shieldsdown.shtml),60,60,100,60,100,60,440
+#0775,Komala (/pokemon/komala),normal,Comatose (/abilitydex/comatose.shtml),65,115,65,75,95,65,480
+#0776,Turtonator (/pokemon/turtonator),fire | dragon,Shell Armor (/abilitydex/shellarmor.shtml),60,78,135,91,85,36,485
+#0777,Togedemaru (/pokemon/togedemaru),electric | steel,Iron Barbs (/abilitydex/ironbarbs.shtml) | Lightning Rod (/abilitydex/lightningrod.shtml) | Sturdy (/abilitydex/sturdy.shtml),65,98,63,40,73,96,435
+#0778,Mimikyu (/pokemon/mimikyu),ghost | fairy,Disguise (/abilitydex/disguise.shtml),55,90,80,50,105,96,476
+#0779,Bruxish (/pokemon/bruxish),water | psychic,Dazzling (/abilitydex/dazzling.shtml) | Strong Jaw (/abilitydex/strongjaw.shtml) | Wonder Skin (/abilitydex/wonderskin.shtml),68,105,70,70,70,92,475
+#0780,Drampa (/pokemon/drampa),normal | dragon,Berserk (/abilitydex/berserk.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml) | Cloud Nine (/abilitydex/cloudnine.shtml),78,60,85,135,91,36,485
+#0781,Dhelmise (/pokemon/dhelmise),ghost | grass,Steelworker (/abilitydex/steelworker.shtml),70,131,100,86,90,40,517
+#0782,Jangmo-o (/pokemon/jangmo-o),dragon,Bulletproof (/abilitydex/bulletproof.shtml) | Soundproof (/abilitydex/soundproof.shtml) | Overcoat (/abilitydex/overcoat.shtml),45,55,65,45,45,45,300
+#0783,Hakamo-o (/pokemon/hakamo-o),dragon | fighting,Bulletproof (/abilitydex/bulletproof.shtml) | Soundproof (/abilitydex/soundproof.shtml) | Overcoat (/abilitydex/overcoat.shtml),55,75,90,65,70,65,420
+#0784,Kommo-o (/pokemon/kommo-o),dragon | fighting,Bulletproof (/abilitydex/bulletproof.shtml) | Soundproof (/abilitydex/soundproof.shtml) | Overcoat (/abilitydex/overcoat.shtml),75,110,125,100,105,85,600
+#0785,Tapu Koko (/pokemon/tapukoko),electric | fairy,Electric Surge (/abilitydex/electricsurge.shtml) | Telepathy (/abilitydex/telepathy.shtml),70,115,85,95,75,130,570
+#0786,Tapu Lele (/pokemon/tapulele),psychic | fairy,Psychic Surge (/abilitydex/psychicsurge.shtml) | Telepathy (/abilitydex/telepathy.shtml),70,85,75,130,115,95,570
+#0787,Tapu Bulu (/pokemon/tapubulu),grass | fairy,Grassy Surge (/abilitydex/grassysurge.shtml) | Telepathy (/abilitydex/telepathy.shtml),70,130,115,85,95,75,570
+#0788,Tapu Fini (/pokemon/tapufini),water | fairy,Misty Surge (/abilitydex/mistysurge.shtml) | Telepathy (/abilitydex/telepathy.shtml),70,75,115,95,130,85,570
+#0789,Cosmog (/pokemon/cosmog),psychic,Unaware (/abilitydex/unaware.shtml),43,29,31,29,31,37,200
+#0790,Cosmoem (/pokemon/cosmoem),psychic,Sturdy (/abilitydex/sturdy.shtml),43,29,131,29,131,37,400
+#0791,Solgaleo (/pokemon/solgaleo),psychic | steel,Full Metal Body (/abilitydex/fullmetalbody.shtml),137,137,107,113,89,97,680
+#0792,Lunala (/pokemon/lunala),psychic | ghost,Shadow Shield (/abilitydex/shadowshield.shtml),137,113,89,137,107,97,680
+#0793,Nihilego (/pokemon/nihilego),rock | poison,Beast Boost (/abilitydex/beastboost.shtml),109,53,47,127,131,103,570
+#0794,Buzzwole (/pokemon/buzzwole),bug | fighting,Beast Boost (/abilitydex/beastboost.shtml),107,139,139,53,53,79,570
+#0795,Pheromosa (/pokemon/pheromosa),bug | fighting,Beast Boost (/abilitydex/beastboost.shtml),71,137,37,137,37,151,570
+#0796,Xurkitree (/pokemon/xurkitree),electric,Beast Boost (/abilitydex/beastboost.shtml),83,89,71,173,71,83,570
+#0797,Celesteela (/pokemon/celesteela),steel | flying,Beast Boost (/abilitydex/beastboost.shtml),97,101,103,107,101,61,570
+#0798,Kartana (/pokemon/kartana),grass | steel,Beast Boost (/abilitydex/beastboost.shtml),59,181,131,59,31,109,570
+#0799,Guzzlord (/pokemon/guzzlord),dark | dragon,Beast Boost (/abilitydex/beastboost.shtml),223,101,53,97,53,43,570
+#0800,Necrozma (/pokemon/necrozma),psychic,Prism Armor (/abilitydex/prismarmor.shtml),97,107,101,127,89,79,600
+#0801,Magearna (/pokemon/magearna),steel | fairy,Soul-Heart (/abilitydex/soul-heart.shtml),80,95,115,130,115,65,600
+#0802,Marshadow (/pokemon/marshadow),fighting | ghost,Technician (/abilitydex/technician.shtml),90,125,80,90,90,125,600
+#0803,Poipole (/pokemon/poipole),poison,Beast Boost (/abilitydex/beastboost.shtml),67,73,67,73,67,73,420
+#0804,Naganadel (/pokemon/naganadel),poison | dragon,Beast Boost (/abilitydex/beastboost.shtml),73,73,73,127,73,121,540
+#0805,Stakataka (/pokemon/stakataka),rock | steel,Beast Boost (/abilitydex/beastboost.shtml),61,131,211,53,101,13,570
+#0806,Blacephalon (/pokemon/blacephalon),fire | ghost,Beast Boost (/abilitydex/beastboost.shtml),53,127,53,151,79,107,570
+#0807,Zeraora (/pokemon/zeraora),electric,Volt Absorb (/abilitydex/voltabsorb.shtml),88,112,75,102,80,143,600
+#0808,Meltan (/pokemon/meltan),steel,Magnet Pull (/abilitydex/magnetpull.shtml),46,65,65,55,35,34,300
+#0809,Melmetal (/pokemon/melmetal),steel,Iron Fist (/abilitydex/ironfist.shtml),135,143,143,80,65,34,600
+#0810,Grookey (/pokemon/grookey),grass,Overgrow (/abilitydex/overgrow.shtml) | Grassy Surge (/abilitydex/grassysurge.shtml),50,65,50,40,40,65,310
+#0811,Thwackey (/pokemon/thwackey),grass,Overgrow (/abilitydex/overgrow.shtml) | Grassy Surge (/abilitydex/grassysurge.shtml),70,85,70,55,60,80,420
+#0812,Rillaboom (/pokemon/rillaboom),grass,Overgrow (/abilitydex/overgrow.shtml) | Grassy Surge (/abilitydex/grassysurge.shtml),100,125,90,60,70,85,530
+#0813,Scorbunny (/pokemon/scorbunny),fire,Blaze (/abilitydex/blaze.shtml) | Libero (/abilitydex/libero.shtml),50,71,40,40,40,69,310
+#0814,Raboot (/pokemon/raboot),fire,Blaze (/abilitydex/blaze.shtml) | Libero (/abilitydex/libero.shtml),65,86,60,55,60,94,420
+#0815,Cinderace (/pokemon/cinderace),fire,Blaze (/abilitydex/blaze.shtml) | Libero (/abilitydex/libero.shtml),80,116,75,65,75,119,530
+#0816,Sobble (/pokemon/sobble),water,Torrent (/abilitydex/torrent.shtml) | Sniper (/abilitydex/sniper.shtml),50,40,40,70,40,70,310
+#0817,Drizzile (/pokemon/drizzile),water,Torrent (/abilitydex/torrent.shtml) | Sniper (/abilitydex/sniper.shtml),65,60,55,95,55,90,420
+#0818,Inteleon (/pokemon/inteleon),water,Torrent (/abilitydex/torrent.shtml) | Sniper (/abilitydex/sniper.shtml),70,85,65,125,65,120,530
+#0819,Skwovet (/pokemon/skwovet),normal,Cheek Pouch (/abilitydex/cheekpouch.shtml) | Gluttony (/abilitydex/gluttony.shtml),70,55,55,35,35,25,275
+#0820,Greedent (/pokemon/greedent),normal,Cheek Pouch (/abilitydex/cheekpouch.shtml) | Gluttony (/abilitydex/gluttony.shtml),120,95,95,55,75,20,460
+#0821,Rookidee (/pokemon/rookidee),flying,Keen Eye (/abilitydex/keeneye.shtml) | Unnerve (/abilitydex/unnerve.shtml) | Big Pecks (/abilitydex/bigpecks.shtml),38,47,35,33,35,57,245
+#0822,Corvisquire (/pokemon/corvisquire),flying,Keen Eye (/abilitydex/keeneye.shtml) | Unnerve (/abilitydex/unnerve.shtml) | Big Pecks (/abilitydex/bigpecks.shtml),68,67,55,43,55,77,365
+#0823,Corviknight (/pokemon/corviknight),flying | steel,Pressure (/abilitydex/pressure.shtml) | Unnerve (/abilitydex/unnerve.shtml) | Mirror Armor (/abilitydex/mirrorarmor.shtml),98,87,105,53,85,67,495
+#0824,Blipbug (/pokemon/blipbug),bug,Swarm (/abilitydex/swarm.shtml) | Compoundeyes (/abilitydex/compoundeyes.shtml) | Telepathy (/abilitydex/telepathy.shtml),25,20,20,25,45,45,180
+#0825,Dottler (/pokemon/dottler),bug | psychic,Swarm (/abilitydex/swarm.shtml) | Compoundeyes (/abilitydex/compoundeyes.shtml) | Telepathy (/abilitydex/telepathy.shtml),50,35,80,50,90,30,335
+#0826,Orbeetle (/pokemon/orbeetle),bug | psychic,Swarm (/abilitydex/swarm.shtml) | Frisk (/abilitydex/frisk.shtml) | Telepathy (/abilitydex/telepathy.shtml),60,45,110,80,120,90,505
+#0827,Nickit (/pokemon/nickit),dark,Run Away (/abilitydex/runaway.shtml) | Unburden (/abilitydex/unburden.shtml) | Stakeout (/abilitydex/stakeout.shtml),40,28,28,47,52,50,245
+#0828,Thievul (/pokemon/thievul),dark,Run Away (/abilitydex/runaway.shtml) | Unburden (/abilitydex/unburden.shtml) | Stakeout (/abilitydex/stakeout.shtml),70,58,58,87,92,90,455
+#0829,Gossifleur (/pokemon/gossifleur),grass,Cotton Down (/abilitydex/cottondown.shtml) | Regenerator (/abilitydex/regenerator.shtml) | Effect Spore (/abilitydex/effectspore.shtml),40,40,60,40,60,10,250
+#0830,Eldegoss (/pokemon/eldegoss),grass,Cotton Down (/abilitydex/cottondown.shtml) | Regenerator (/abilitydex/regenerator.shtml) | Effect Spore (/abilitydex/effectspore.shtml),60,50,90,80,120,60,460
+#0831,Wooloo (/pokemon/wooloo),normal,Fluffy (/abilitydex/fluffy.shtml) | Run Away (/abilitydex/runaway.shtml) | Bulletproof (/abilitydex/bulletproof.shtml),42,40,55,40,45,48,270
+#0832,Dubwool (/pokemon/dubwool),normal,Fluffy (/abilitydex/fluffy.shtml) | Steadfast (/abilitydex/steadfast.shtml) | Bulletproof (/abilitydex/bulletproof.shtml),72,80,100,60,90,88,490
+#0833,Chewtle (/pokemon/chewtle),water,Strong Jaw (/abilitydex/strongjaw.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),50,64,50,38,38,44,284
+#0834,Drednaw (/pokemon/drednaw),water | rock,Strong Jaw (/abilitydex/strongjaw.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Swift Swim (/abilitydex/swiftswim.shtml),90,115,90,48,68,74,485
+#0835,Yamper (/pokemon/yamper),electric,Ball Fetch (/abilitydex/ballfetch.shtml) | Rattled (/abilitydex/rattled.shtml),59,45,50,40,50,26,270
+#0836,Boltund (/pokemon/boltund),electric,Strong Jaw (/abilitydex/strongjaw.shtml) | Competitive (/abilitydex/competitive.shtml),69,90,60,90,60,121,490
+#0837,Rolycoly (/pokemon/rolycoly),rock,Steam Engine (/abilitydex/steamengine.shtml) | Heatproof (/abilitydex/heatproof.shtml) | Flash Fire (/abilitydex/flashfire.shtml),30,40,50,40,50,30,240
+#0838,Carkol (/pokemon/carkol),rock | fire,Steam Engine (/abilitydex/steamengine.shtml) | Flame Body (/abilitydex/flamebody.shtml) | Flash Fire (/abilitydex/flashfire.shtml),80,60,90,60,70,50,410
+#0839,Coalossal (/pokemon/coalossal),rock | fire,Steam Engine (/abilitydex/steamengine.shtml) | Flame Body (/abilitydex/flamebody.shtml) | Flash Fire (/abilitydex/flashfire.shtml),110,80,120,80,90,30,510
+#0840,Applin (/pokemon/applin),grass | dragon,Ripen (/abilitydex/ripen.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Bulletproof (/abilitydex/bulletproof.shtml),40,40,80,40,40,20,260
+#0841,Flapple (/pokemon/flapple),grass | dragon,Ripen (/abilitydex/ripen.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Hustle (/abilitydex/hustle.shtml),70,110,80,95,60,70,485
+#0842,Appletun (/pokemon/appletun),grass | dragon,Ripen (/abilitydex/ripen.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Thick Fat (/abilitydex/thickfat.shtml),110,85,80,100,80,30,485
+#0843,Silicobra (/pokemon/silicobra),ground,Sand Spit (/abilitydex/sandspit.shtml) | Shed Skin (/abilitydex/shedskin.shtml) | Sand Veil (/abilitydex/sandveil.shtml),52,57,75,35,50,46,315
+#0844,Sandaconda (/pokemon/sandaconda),ground,Sand Spit (/abilitydex/sandspit.shtml) | Shed Skin (/abilitydex/shedskin.shtml) | Sand Veil (/abilitydex/sandveil.shtml),72,107,125,65,70,71,510
+#0845,Cramorant (/pokemon/cramorant),flying | water,Gulp Missile (/abilitydex/gulpmissile.shtml),70,85,55,85,95,85,475
+#0846,Arrokuda (/pokemon/arrokuda),water,Swift Swim (/abilitydex/swiftswim.shtml) | Propeller Tail (/abilitydex/propellertail.shtml),41,63,40,40,30,66,280
+#0847,Barraskewda (/pokemon/barraskewda),water,Swift Swim (/abilitydex/swiftswim.shtml) | Propeller Tail (/abilitydex/propellertail.shtml),61,123,60,60,50,136,490
+#0848,Toxel (/pokemon/toxel),electric | poison,Rattled (/abilitydex/rattled.shtml) | Static (/abilitydex/static.shtml) | Klutz (/abilitydex/klutz.shtml),40,38,35,54,35,40,242
+#0849,Toxtricity (/pokemon/toxtricity),electric | poison,Punk Rock (/abilitydex/punkrock.shtml) | Plus (/abilitydex/plus.shtml) | Technician (/abilitydex/technician.shtml),75,98,70,114,70,75,502
+#0850,Sizzlipede (/pokemon/sizzlipede),fire | bug,Flash Fire (/abilitydex/flashfire.shtml) | White Smoke (/abilitydex/whitesmoke.shtml) | Flame Body (/abilitydex/flamebody.shtml),50,65,45,50,50,45,305
+#0851,Centiskorch (/pokemon/centiskorch),fire | bug,Flash Fire (/abilitydex/flashfire.shtml) | White Smoke (/abilitydex/whitesmoke.shtml) | Flame Body (/abilitydex/flamebody.shtml),100,115,65,90,90,65,525
+#0852,Clobbopus (/pokemon/clobbopus),fighting,Limber (/abilitydex/limber.shtml) | Technician (/abilitydex/technician.shtml),50,68,60,50,50,32,310
+#0853,Grapploct (/pokemon/grapploct),fighting,Limber (/abilitydex/limber.shtml) | Technician (/abilitydex/technician.shtml),80,118,90,70,80,42,480
+#0854,Sinistea (/pokemon/sinistea),ghost,Weak Armor (/abilitydex/weakarmor.shtml) | Cursed Body (/abilitydex/cursedbody.shtml),40,45,45,74,54,50,308
+#0855,Polteageist (/pokemon/polteageist),ghost,Weak Armor (/abilitydex/weakarmor.shtml) | Cursed Body (/abilitydex/cursedbody.shtml),60,65,65,134,114,70,508
+#0856,Hatenna (/pokemon/hatenna),psychic,Healer (/abilitydex/healer.shtml) | Anticipation (/abilitydex/anticipation.shtml) | Magic Bounce (/abilitydex/magicbounce.shtml),42,30,45,56,53,39,265
+#0857,Hattrem (/pokemon/hattrem),psychic,Healer (/abilitydex/healer.shtml) | Anticipation (/abilitydex/anticipation.shtml) | Magic Bounce (/abilitydex/magicbounce.shtml),57,40,65,86,73,49,370
+#0858,Hatterene (/pokemon/hatterene),psychic | fairy,Healer (/abilitydex/healer.shtml) | Anticipation (/abilitydex/anticipation.shtml) | Magic Bounce (/abilitydex/magicbounce.shtml),57,90,95,136,103,29,510
+#0859,Impidimp (/pokemon/impidimp),dark | fairy,Prankster (/abilitydex/prankster.shtml) | Frisk (/abilitydex/frisk.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),45,45,30,55,40,50,265
+#0860,Morgrem (/pokemon/morgrem),dark | fairy,Prankster (/abilitydex/prankster.shtml) | Frisk (/abilitydex/frisk.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),65,60,45,75,55,70,370
+#0861,Grimmsnarl (/pokemon/grimmsnarl),dark | fairy,Prankster (/abilitydex/prankster.shtml) | Frisk (/abilitydex/frisk.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),95,120,65,95,75,60,510
+#0862,Obstagoon (/pokemon/obstagoon),dark | normal,Reckless (/abilitydex/reckless.shtml) | Guts (/abilitydex/guts.shtml) | Defiant (/abilitydex/defiant.shtml),93,90,101,60,81,95,520
+#0863,Perrserker (/pokemon/perrserker),steel,Battle Armor (/abilitydex/battlearmor.shtml) | Tough Claws (/abilitydex/toughclaws.shtml) | Steely Spirit (/abilitydex/steelyspirit.shtml),70,110,100,50,60,50,440
+#0864,Cursola (/pokemon/cursola),ghost,Weak Armor (/abilitydex/weakarmor.shtml) | Perish Body (/abilitydex/perishbody.shtml),60,95,50,145,130,30,510
+#0865,Sirfetch'd (/pokemon/sirfetch'd),fighting,Steadfast (/abilitydex/steadfast.shtml) | Scrappy (/abilitydex/scrappy.shtml),62,135,95,68,82,65,507
+#0866,Mr. Rime (/pokemon/mr.rime),ice | psychic,Tangled Feet (/abilitydex/tangledfeet.shtml) | Screen Cleaner (/abilitydex/screencleaner.shtml) | Ice Body (/abilitydex/icebody.shtml),80,85,75,110,100,70,520
+#0867,Runerigus (/pokemon/runerigus),ground | ghost,Wandering Spirit (/abilitydex/wanderingspirit.shtml),58,95,145,50,105,30,483
+#0868,Milcery (/pokemon/milcery),fairy,Sweet Veil (/abilitydex/sweetveil.shtml) | Aroma Veil (/abilitydex/aromaveil.shtml),45,40,40,50,61,34,270
+#0869,Alcremie (/pokemon/alcremie),fairy,Sweet Veil (/abilitydex/sweetveil.shtml) | Aroma Veil (/abilitydex/aromaveil.shtml),65,60,75,110,121,64,495
+#0870,Falinks (/pokemon/falinks),fighting,Battle Armor (/abilitydex/battlearmor.shtml) | Defiant (/abilitydex/defiant.shtml),65,100,100,70,60,75,470
+#0871,Pincurchin (/pokemon/pincurchin),electric,Lightning Rod (/abilitydex/lightningrod.shtml) | Electric Surge (/abilitydex/electricsurge.shtml),48,101,95,91,85,15,435
+#0872,Snom (/pokemon/snom),ice | bug,Shield Dust (/abilitydex/shielddust.shtml) | Ice Scales (/abilitydex/icescales.shtml),30,25,35,45,30,20,185
+#0873,Frosmoth (/pokemon/frosmoth),ice | bug,Shield Dust (/abilitydex/shielddust.shtml) | Ice Scales (/abilitydex/icescales.shtml),70,65,60,125,90,65,475
+#0874,Stonjourner (/pokemon/stonjourner),rock,Power Spot (/abilitydex/powerspot.shtml),100,125,135,20,20,70,470
+#0875,Eiscue (/pokemon/eiscue),ice,Ice Face (/abilitydex/iceface.shtml),75,80,110,65,90,50,470
+#0876,Indeedee (/pokemon/indeedee),psychic | normal,Inner Focus (/abilitydex/innerfocus.shtml) | Synchronize (/abilitydex/synchronize.shtml) | Psychic Surge (/abilitydex/psychicsurge.shtml),60,65,55,105,95,95,475
+#0877,Morpeko (/pokemon/morpeko),electric | dark,Hunger Switch (/abilitydex/hungerswitch.shtml),58,95,58,70,58,97,436
+#0878,Cufant (/pokemon/cufant),steel,Sheer Force (/abilitydex/sheerforce.shtml) | Heavy Metal (/abilitydex/heavymetal.shtml),72,80,49,40,49,40,330
+#0879,Copperajah (/pokemon/copperajah),steel,Sheer Force (/abilitydex/sheerforce.shtml) | Heavy Metal (/abilitydex/heavymetal.shtml),122,130,69,80,69,30,500
+#0880,Dracozolt (/pokemon/dracozolt),electric | dragon,Volt Absorb (/abilitydex/voltabsorb.shtml) | Hustle (/abilitydex/hustle.shtml) | Sand Rush (/abilitydex/sandrush.shtml),90,100,90,80,70,75,505
+#0881,Arctozolt (/pokemon/arctozolt),electric | ice,Volt Absorb (/abilitydex/voltabsorb.shtml) | Static (/abilitydex/static.shtml) | Slush Rush (/abilitydex/slushrush.shtml),90,100,90,90,80,55,505
+#0882,Dracovish (/pokemon/dracovish),water | dragon,Water Absorb (/abilitydex/waterabsorb.shtml) | Strong Jaw (/abilitydex/strongjaw.shtml) | Sand Rush (/abilitydex/sandrush.shtml),90,90,100,70,80,75,505
+#0883,Arctovish (/pokemon/arctovish),water | ice,Water Absorb (/abilitydex/waterabsorb.shtml) | Ice Body (/abilitydex/icebody.shtml) | Slush Rush (/abilitydex/slushrush.shtml),90,90,100,80,90,55,505
+#0884,Duraludon (/pokemon/duraludon),steel | dragon,Light Metal (/abilitydex/lightmetal.shtml) | Heavy Metal (/abilitydex/heavymetal.shtml) | Stalwart (/abilitydex/stalwart.shtml),70,95,115,120,50,85,535
+#0885,Dreepy (/pokemon/dreepy),dragon | ghost,Clear Body (/abilitydex/clearbody.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Cursed Body (/abilitydex/cursedbody.shtml),28,60,30,40,30,82,270
+#0886,Drakloak (/pokemon/drakloak),dragon | ghost,Clear Body (/abilitydex/clearbody.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Cursed Body (/abilitydex/cursedbody.shtml),68,80,50,60,50,102,410
+#0887,Dragapult (/pokemon/dragapult),dragon | ghost,Clear Body (/abilitydex/clearbody.shtml) | Infiltrator (/abilitydex/infiltrator.shtml) | Cursed Body (/abilitydex/cursedbody.shtml),88,120,75,100,75,142,600
+#0888,Zacian (/pokemon/zacian),fairy,Intrepid Sword (/abilitydex/intrepidsword.shtml),92,120,115,80,115,138,660
+#0889,Zamazenta (/pokemon/zamazenta),fighting,Dauntless Shield (/abilitydex/dauntlessshield.shtml),92,120,115,80,115,138,660
+#0890,Eternatus (/pokemon/eternatus),poison | dragon,Pressure (/abilitydex/pressure.shtml),140,85,95,145,95,130,690
+#0891,Kubfu (/pokemon/kubfu),fighting,Inner Focus (/abilitydex/innerfocus.shtml),60,90,60,53,50,72,385
+#0892,Urshifu (/pokemon/urshifu),fighting | dark,Unseen Fist (/abilitydex/unseenfist.shtml),100,130,100,63,60,97,550
+#0893,Zarude (/pokemon/zarude),dark | grass,Leaf Guard (/abilitydex/leafguard.shtml),105,120,105,70,95,105,600
+#0894,Regieleki (/pokemon/regieleki),electric,Transistor (/abilitydex/transistor.shtml),80,100,50,100,50,200,580
+#0895,Regidrago (/pokemon/regidrago),dragon,Dragon's Maw (/abilitydex/dragon'smaw.shtml),200,100,50,100,50,80,580
+#0896,Glastrier (/pokemon/glastrier),ice,Chilling Neigh (/abilitydex/chillingneigh.shtml),100,145,130,65,110,30,580
+#0897,Spectrier (/pokemon/spectrier),ghost,Grim Neigh (/abilitydex/grimneigh.shtml),100,65,60,145,80,130,580
+#0898,Calyrex (/pokemon/calyrex),psychic | grass,Unnerve (/abilitydex/unnerve.shtml),100,80,80,80,80,80,500
+#0899,Wyrdeer (/pokemon/wyrdeer),normal | psychic,Intimidate (/abilitydex/intimidate.shtml) | Frisk (/abilitydex/frisk.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),103,105,72,105,75,65,525
+#0900,Kleavor (/pokemon/kleavor),bug | rock,Swarm (/abilitydex/swarm.shtml) | Sheer Force (/abilitydex/sheerforce.shtml) | Sharpness (/abilitydex/sharpness.shtml),70,135,95,45,70,85,500
+#0901,Ursaluna (/pokemon/ursaluna),ground | normal,Guts (/abilitydex/guts.shtml) | Bulletproof (/abilitydex/bulletproof.shtml) | Unnerve (/abilitydex/unnerve.shtml),130,140,105,45,80,50,550
+#0902,Basculegion (/pokemon/basculegion),water | ghost,Swift Swim (/abilitydex/swiftswim.shtml) | Adaptability (/abilitydex/adaptability.shtml) | Mold Breaker (/abilitydex/moldbreaker.shtml),120,112,65,80,75,78,530
+#0903,Sneasler (/pokemon/sneasler),fighting | poison,Pressure (/abilitydex/pressure.shtml) | Unburden (/abilitydex/unburden.shtml) | Poison Touch (/abilitydex/poisontouch.shtml),80,130,60,40,80,120,510
+#0904,Overqwil (/pokemon/overqwil),dark | poison,Poison Point (/abilitydex/poisonpoint.shtml) | Swift Swim (/abilitydex/swiftswim.shtml) | Intimidate (/abilitydex/intimidate.shtml),85,115,95,65,65,85,510
+#0905,Enamorus (/pokemon/enamorus),fairy | flying,Cute Charm (/abilitydex/cutecharm.shtml) | Contrary (/abilitydex/contrary.shtml),74,115,70,135,80,106,580
+#0906,Sprigatito (/pokemon/sprigatito),grass,Overgrow (/abilitydex/overgrow.shtml) | Protean (/abilitydex/protean.shtml),40,61,54,45,45,65,310
+#0907,Floragato (/pokemon/floragato),grass,Overgrow (/abilitydex/overgrow.shtml) | Protean (/abilitydex/protean.shtml),61,80,63,60,63,83,410
+#0908,Meowscarada (/pokemon/meowscarada),grass | dark,Overgrow (/abilitydex/overgrow.shtml) | Protean (/abilitydex/protean.shtml),76,110,70,81,70,123,530
+#0909,Fuecoco (/pokemon/fuecoco),fire,Blaze (/abilitydex/blaze.shtml) | Unaware (/abilitydex/unaware.shtml),67,45,59,63,40,36,310
+#0910,Crocalor (/pokemon/crocalor),fire,Blaze (/abilitydex/blaze.shtml) | Unaware (/abilitydex/unaware.shtml),81,55,78,90,58,49,411
+#0911,Skeledirge (/pokemon/skeledirge),fire | ghost,Blaze (/abilitydex/blaze.shtml) | Unaware (/abilitydex/unaware.shtml),104,75,100,110,75,66,530
+#0912,Quaxly (/pokemon/quaxly),water,Torrent (/abilitydex/torrent.shtml) | Moxie (/abilitydex/moxie.shtml),55,65,45,50,45,50,310
+#0913,Quaxwell (/pokemon/quaxwell),water,Torrent (/abilitydex/torrent.shtml) | Moxie (/abilitydex/moxie.shtml),70,85,65,65,60,65,410
+#0914,Quaquaval (/pokemon/quaquaval),water | fighting,Torrent (/abilitydex/torrent.shtml) | Moxie (/abilitydex/moxie.shtml),85,120,80,85,75,85,530
+#0915,Lechonk (/pokemon/lechonk),normal,Aroma Veil (/abilitydex/aromaveil.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Thick Fat (/abilitydex/thickfat.shtml),54,45,40,35,45,35,254
+#0916,Oinkologne (/pokemon/oinkologne),normal,Lingering Aroma (/abilitydex/lingeringaroma.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Thick Fat (/abilitydex/thickfat.shtml),110,100,75,59,80,65,489
+#0917,Tarountula (/pokemon/tarountula),bug,Insomnia (/abilitydex/insomnia.shtml) | Stakeout (/abilitydex/stakeout.shtml),35,41,45,29,40,20,210
+#0918,Spidops (/pokemon/spidops),bug,Insomnia (/abilitydex/insomnia.shtml) | Stakeout (/abilitydex/stakeout.shtml),60,79,92,52,86,35,404
+#0919,Nymble (/pokemon/nymble),bug,Swarm (/abilitydex/swarm.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml),33,46,40,21,25,45,210
+#0920,Lokix (/pokemon/lokix),bug | dark,Swarm (/abilitydex/swarm.shtml) | Tinted Lens (/abilitydex/tintedlens.shtml),71,102,78,52,55,92,450
+#0921,Pawmi (/pokemon/pawmi),electric,Static (/abilitydex/static.shtml) | Natural Cure (/abilitydex/naturalcure.shtml) | Iron Fist (/abilitydex/ironfist.shtml),45,50,20,40,25,60,240
+#0922,Pawmo (/pokemon/pawmo),electric | fighting,Volt Absorb (/abilitydex/voltabsorb.shtml) | Natural Cure (/abilitydex/naturalcure.shtml) | Iron Fist (/abilitydex/ironfist.shtml),60,75,40,50,40,85,350
+#0923,Pawmot (/pokemon/pawmot),electric | fighting,Volt Absorb (/abilitydex/voltabsorb.shtml) | Natural Cure (/abilitydex/naturalcure.shtml) | Iron Fist (/abilitydex/ironfist.shtml),70,115,70,70,60,105,490
+#0924,Tandemaus (/pokemon/tandemaus),normal,Run Away (/abilitydex/runaway.shtml) | Pickup (/abilitydex/pickup.shtml) | Own Tempo (/abilitydex/owntempo.shtml),50,50,45,40,45,75,305
+#0925,Maushold (/pokemon/maushold),normal,Friend Guard (/abilitydex/friendguard.shtml) | Cheek Pouch (/abilitydex/cheekpouch.shtml) | Technician (/abilitydex/technician.shtml),74,75,70,65,75,111,470
+#0926,Fidough (/pokemon/fidough),fairy,Own Tempo (/abilitydex/owntempo.shtml) | Klutz (/abilitydex/klutz.shtml),37,55,70,30,55,65,312
+#0927,Dachsbun (/pokemon/dachsbun),fairy,Well-Baked Body (/abilitydex/well-bakedbody.shtml) | Aroma Veil (/abilitydex/aromaveil.shtml),57,80,115,50,80,95,477
+#0928,Smoliv (/pokemon/smoliv),grass | normal,Early Bird (/abilitydex/earlybird.shtml) | Harvest (/abilitydex/harvest.shtml),41,35,45,58,51,30,260
+#0929,Dolliv (/pokemon/dolliv),grass | normal,Early Bird (/abilitydex/earlybird.shtml) | Harvest (/abilitydex/harvest.shtml),52,53,60,78,78,33,354
+#0930,Arboliva (/pokemon/arboliva),grass | normal,Seed Sower (/abilitydex/seedsower.shtml) | Harvest (/abilitydex/harvest.shtml),78,69,90,125,109,39,510
+#0931,Squawkabilly (/pokemon/squawkabilly),normal | flying,Intimidate (/abilitydex/intimidate.shtml) | Hustle (/abilitydex/hustle.shtml) | Guts (/abilitydex/guts.shtml),82,96,51,45,51,92,417
+#0932,Nacli (/pokemon/nacli),rock,Purifying Salt (/abilitydex/purifyingsalt.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Clear Body (/abilitydex/clearbody.shtml),55,55,75,35,35,25,280
+#0933,Naclstack (/pokemon/naclstack),rock,Purifying Salt (/abilitydex/purifyingsalt.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Clear Body (/abilitydex/clearbody.shtml),60,60,100,35,65,35,355
+#0934,Garganacl (/pokemon/garganacl),rock,Purifying Salt (/abilitydex/purifyingsalt.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Clear Body (/abilitydex/clearbody.shtml),100,100,130,45,90,35,500
+#0935,Charcadet (/pokemon/charcadet),fire,Flash Fire (/abilitydex/flashfire.shtml) | Flame Body (/abilitydex/flamebody.shtml),40,50,40,50,40,35,255
+#0936,Armarouge (/pokemon/armarouge),fire | psychic,Flash Fire (/abilitydex/flashfire.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),85,60,100,125,80,75,525
+#0937,Ceruledge (/pokemon/ceruledge),fire | ghost,Flash Fire (/abilitydex/flashfire.shtml) | Weak Armor (/abilitydex/weakarmor.shtml),75,125,80,60,100,85,525
+#0938,Tadbulb (/pokemon/tadbulb),electric,Own Tempo (/abilitydex/owntempo.shtml) | Static (/abilitydex/static.shtml) | Damp (/abilitydex/damp.shtml),61,31,41,59,35,45,272
+#0939,Bellibolt (/pokemon/bellibolt),electric,Electromorphosis (/abilitydex/electromorphosis.shtml) | Static (/abilitydex/static.shtml) | Damp (/abilitydex/damp.shtml),109,64,91,103,83,45,495
+#0940,Wattrel (/pokemon/wattrel),electric | flying,Wind Power (/abilitydex/windpower.shtml) | Volt Absorb (/abilitydex/voltabsorb.shtml) | Competitive (/abilitydex/competitive.shtml),40,40,35,55,40,70,280
+#0941,Kilowattrel (/pokemon/kilowattrel),electric | flying,Wind Power (/abilitydex/windpower.shtml) | Volt Absorb (/abilitydex/voltabsorb.shtml) | Competitive (/abilitydex/competitive.shtml),70,70,60,105,60,125,490
+#0942,Maschiff (/pokemon/maschiff),dark,Intimidate (/abilitydex/intimidate.shtml) | Run Away (/abilitydex/runaway.shtml) | Stakeout (/abilitydex/stakeout.shtml),60,78,60,40,51,51,340
+#0943,Mabosstiff (/pokemon/mabosstiff),dark,Intimidate (/abilitydex/intimidate.shtml) | Guard Dog (/abilitydex/guarddog.shtml) | Stakeout (/abilitydex/stakeout.shtml),80,120,90,60,70,85,505
+#0944,Shroodle (/pokemon/shroodle),poison | normal,Unburden (/abilitydex/unburden.shtml) | Pickpocket (/abilitydex/pickpocket.shtml) | Prankster (/abilitydex/prankster.shtml),40,65,35,40,35,75,290
+#0945,Grafaiai (/pokemon/grafaiai),poison | normal,Unburden (/abilitydex/unburden.shtml) | Poison Touch (/abilitydex/poisontouch.shtml) | Prankster (/abilitydex/prankster.shtml),63,95,65,80,72,110,485
+#0946,Bramblin (/pokemon/bramblin),grass | ghost,Wind Rider (/abilitydex/windrider.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),40,65,30,45,35,60,275
+#0947,Brambleghast (/pokemon/brambleghast),grass | ghost,Wind Rider (/abilitydex/windrider.shtml) | Infiltrator (/abilitydex/infiltrator.shtml),55,115,70,80,70,90,480
+#0948,Toedscool (/pokemon/toedscool),ground | grass,Mycelium Might (/abilitydex/myceliummight.shtml),40,40,35,50,100,70,335
+#0949,Toedscruel (/pokemon/toedscruel),ground | grass,Mycelium Might (/abilitydex/myceliummight.shtml),80,70,65,80,120,100,515
+#0950,Klawf (/pokemon/klawf),rock,Anger Shell (/abilitydex/angershell.shtml) | Shell Armor (/abilitydex/shellarmor.shtml) | Regenerator (/abilitydex/regenerator.shtml),70,100,115,35,55,75,450
+#0951,Capsakid (/pokemon/capsakid),grass,Chlorophyll (/abilitydex/chlorophyll.shtml) | Insomnia (/abilitydex/insomnia.shtml) | Klutz (/abilitydex/klutz.shtml),50,62,40,62,40,50,304
+#0952,Scovillain (/pokemon/scovillain),grass | fire,Chlorophyll (/abilitydex/chlorophyll.shtml) | Insomnia (/abilitydex/insomnia.shtml) | Moody (/abilitydex/moody.shtml),65,108,65,108,65,75,486
+#0953,Rellor (/pokemon/rellor),bug,Compoundeyes (/abilitydex/compoundeyes.shtml) | Shed Skin (/abilitydex/shedskin.shtml),41,50,60,31,58,30,270
+#0954,Rabsca (/pokemon/rabsca),bug | psychic,Synchronize (/abilitydex/synchronize.shtml) | Telepathy (/abilitydex/telepathy.shtml),75,50,85,115,100,45,470
+#0955,Flittle (/pokemon/flittle),psychic,Anticipation (/abilitydex/anticipation.shtml) | Frisk (/abilitydex/frisk.shtml) | Speed Boost (/abilitydex/speedboost.shtml),30,35,30,55,30,75,255
+#0956,Espathra (/pokemon/espathra),psychic,Opportunist (/abilitydex/opportunist.shtml) | Frisk (/abilitydex/frisk.shtml) | Speed Boost (/abilitydex/speedboost.shtml),95,60,60,101,60,105,481
+#0957,Tinkatink (/pokemon/tinkatink),fairy | steel,Mold Breaker (/abilitydex/moldbreaker.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),50,45,45,35,64,58,297
+#0958,Tinkatuff (/pokemon/tinkatuff),fairy | steel,Mold Breaker (/abilitydex/moldbreaker.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),65,55,55,45,82,78,380
+#0959,Tinkaton (/pokemon/tinkaton),fairy | steel,Mold Breaker (/abilitydex/moldbreaker.shtml) | Own Tempo (/abilitydex/owntempo.shtml) | Pickpocket (/abilitydex/pickpocket.shtml),85,75,77,70,105,94,506
+#0960,Wiglett (/pokemon/wiglett),water,Gooey (/abilitydex/gooey.shtml) | Rattled (/abilitydex/rattled.shtml) | Sand Veil (/abilitydex/sandveil.shtml),10,55,25,35,25,95,245
+#0961,Wugtrio (/pokemon/wugtrio),water,Gooey (/abilitydex/gooey.shtml) | Rattled (/abilitydex/rattled.shtml) | Sand Veil (/abilitydex/sandveil.shtml),35,100,50,50,70,120,425
+#0962,Bombirdier (/pokemon/bombirdier),flying | dark,Big Pecks (/abilitydex/bigpecks.shtml) | Keen Eye (/abilitydex/keeneye.shtml) | Rocky Payload (/abilitydex/rockypayload.shtml),70,103,85,60,85,82,485
+#0963,Finizen (/pokemon/finizen),water,Water Veil (/abilitydex/waterveil.shtml),70,45,40,45,40,75,315
+#0964,Palafin (/pokemon/palafin),water,Zero to Hero (/abilitydex/zerotohero.shtml),100,70,72,53,62,100,457
+#0965,Varoom (/pokemon/varoom),steel | poison,Overcoat (/abilitydex/overcoat.shtml) | Slow Start (/abilitydex/slowstart.shtml),45,70,63,30,45,47,300
+#0966,Revavroom (/pokemon/revavroom),steel | poison,Overcoat (/abilitydex/overcoat.shtml) | Filter (/abilitydex/filter.shtml),80,119,90,54,67,90,500
+#0967,Cyclizar (/pokemon/cyclizar),dragon | normal,Shed Skin (/abilitydex/shedskin.shtml) | Regenerator (/abilitydex/regenerator.shtml),70,95,65,85,65,121,501
+#0968,Orthworm (/pokemon/orthworm),steel,Earth Eater (/abilitydex/eartheater.shtml) | Sand Veil (/abilitydex/sandveil.shtml),70,85,145,60,55,65,480
+#0969,Glimmet (/pokemon/glimmet),rock | poison,Toxic Debris (/abilitydex/toxicdebris.shtml) | Corrosion (/abilitydex/corrosion.shtml),48,35,42,105,60,60,350
+#0970,Glimmora (/pokemon/glimmora),rock | poison,Toxic Debris (/abilitydex/toxicdebris.shtml) | Corrosion (/abilitydex/corrosion.shtml),83,55,90,130,81,86,525
+#0971,Greavard (/pokemon/greavard),ghost,Pickup (/abilitydex/pickup.shtml) | Fluffy (/abilitydex/fluffy.shtml),50,61,60,30,55,34,290
+#0972,Houndstone (/pokemon/houndstone),ghost,Sand Rush (/abilitydex/sandrush.shtml) | Fluffy (/abilitydex/fluffy.shtml),72,101,100,50,97,68,488
+#0973,Flamigo (/pokemon/flamigo),flying | fighting,Scrappy (/abilitydex/scrappy.shtml) | Tangled Feet (/abilitydex/tangledfeet.shtml) | Costar (/abilitydex/costar.shtml),82,115,74,75,64,90,500
+#0974,Cetoddle (/pokemon/cetoddle),ice,Thick Fat (/abilitydex/thickfat.shtml) | Snow Cloak (/abilitydex/snowcloak.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),108,68,45,30,40,43,334
+#0975,Cetitan (/pokemon/cetitan),ice,Thick Fat (/abilitydex/thickfat.shtml) | Slush Rush (/abilitydex/slushrush.shtml) | Sheer Force (/abilitydex/sheerforce.shtml),170,113,65,45,55,73,521
+#0976,Veluza (/pokemon/veluza),water | psychic,Mold Breaker (/abilitydex/moldbreaker.shtml) | Sharpness (/abilitydex/sharpness.shtml),90,102,73,78,65,70,478
+#0977,Dondozo (/pokemon/dondozo),water,Unaware (/abilitydex/unaware.shtml) | Oblivious (/abilitydex/oblivious.shtml) | Water Veil (/abilitydex/waterveil.shtml),150,100,115,65,65,35,530
+#0978,Tatsugiri (/pokemon/tatsugiri),dragon | water,Commander (/abilitydex/commander.shtml) | Storm Drain (/abilitydex/stormdrain.shtml),68,50,60,120,95,82,475
+#0979,Annihilape (/pokemon/annihilape),fighting | ghost,Vital Spirit (/abilitydex/vitalspirit.shtml) | Inner Focus (/abilitydex/innerfocus.shtml) | Defiant (/abilitydex/defiant.shtml),110,115,80,50,90,90,535
+#0980,Clodsire (/pokemon/clodsire),poison | ground,Poison Point (/abilitydex/poisonpoint.shtml) | Water Absorb (/abilitydex/waterabsorb.shtml) | Unaware (/abilitydex/unaware.shtml),130,75,60,45,100,20,430
+#0981,Farigiraf (/pokemon/farigiraf),normal | psychic,Cud Chew (/abilitydex/cudchew.shtml) | Armor Tail (/abilitydex/armortail.shtml) | Sap Sipper (/abilitydex/sapsipper.shtml),120,90,70,110,70,60,520
+#0982,Dudunsparce (/pokemon/dudunsparce),normal,Serene Grace (/abilitydex/serenegrace.shtml) | Run Away (/abilitydex/runaway.shtml) | Rattled (/abilitydex/rattled.shtml),125,100,80,85,75,55,520
+#0983,Kingambit (/pokemon/kingambit),dark | steel,Defiant (/abilitydex/defiant.shtml) | Supreme Overlord (/abilitydex/supremeoverlord.shtml) | Pressure (/abilitydex/pressure.shtml),100,135,120,60,85,50,550
+#0984,Great Tusk (/pokemon/greattusk),ground | fighting,Protosynthesis (/abilitydex/protosynthesis.shtml),115,131,131,53,53,87,570
+#0985,Scream Tail (/pokemon/screamtail),fairy | psychic,Protosynthesis (/abilitydex/protosynthesis.shtml),115,65,99,65,115,111,570
+#0986,Brute Bonnet (/pokemon/brutebonnet),grass | dark,Protosynthesis (/abilitydex/protosynthesis.shtml),111,127,99,79,99,55,570
+#0987,Flutter Mane (/pokemon/fluttermane),ghost | fairy,Protosynthesis (/abilitydex/protosynthesis.shtml),55,55,55,135,135,135,570
+#0988,Slither Wing (/pokemon/slitherwing),bug | fighting,Protosynthesis (/abilitydex/protosynthesis.shtml),85,135,79,85,105,81,570
+#0989,Sandy Shocks (/pokemon/sandyshocks),electric | ground,Protosynthesis (/abilitydex/protosynthesis.shtml),85,81,97,121,85,101,570
+#0990,Iron Treads (/pokemon/irontreads),ground | steel,Quark Drive (/abilitydex/quarkdrive.shtml),90,112,120,72,70,106,570
+#0991,Iron Bundle (/pokemon/ironbundle),ice | water,Quark Drive (/abilitydex/quarkdrive.shtml),56,80,114,124,60,136,570
+#0992,Iron Hands (/pokemon/ironhands),fighting | electric,Quark Drive (/abilitydex/quarkdrive.shtml),154,140,108,50,68,50,570
+#0993,Iron Jugulis (/pokemon/ironjugulis),dark | flying,Quark Drive (/abilitydex/quarkdrive.shtml),94,80,86,122,80,108,570
+#0994,Iron Moth (/pokemon/ironmoth),fire | poison,Quark Drive (/abilitydex/quarkdrive.shtml),80,70,60,140,110,110,570
+#0995,Iron Thorns (/pokemon/ironthorns),rock | electric,Quark Drive (/abilitydex/quarkdrive.shtml),100,134,110,70,84,72,570
+#0996,Frigibax (/pokemon/frigibax),dragon | ice,Thermal Exchange (/abilitydex/thermalexchange.shtml) | Ice Body (/abilitydex/icebody.shtml),65,75,45,35,45,55,320
+#0997,Arctibax (/pokemon/arctibax),dragon | ice,Thermal Exchange (/abilitydex/thermalexchange.shtml) | Ice Body (/abilitydex/icebody.shtml),90,95,66,45,65,62,423
+#0998,Baxcalibur (/pokemon/baxcalibur),dragon | ice,Thermal Exchange (/abilitydex/thermalexchange.shtml) | Ice Body (/abilitydex/icebody.shtml),115,145,92,75,86,87,600
+#0999,Gimmighoul (/pokemon/gimmighoul),ghost,Rattled (/abilitydex/rattled.shtml),45,30,70,75,70,10,300
+#1000,Gholdengo (/pokemon/gholdengo),steel | ghost,Good as Gold (/abilitydex/goodasgold.shtml),87,60,95,133,91,84,550
+#1001,Wo-Chien (/pokemon/wo-chien),dark | grass,Tablets of Ruin (/abilitydex/tabletsofruin.shtml),85,85,100,95,135,70,570
+#1002,Chien-Pao (/pokemon/chien-pao),dark | ice,Sword of Ruin (/abilitydex/swordofruin.shtml),80,120,80,90,65,135,570
+#1003,Ting-Lu (/pokemon/ting-lu),dark | ground,Vessel of Ruin (/abilitydex/vesselofruin.shtml),155,110,125,55,80,45,570
+#1004,Chi-Yu (/pokemon/chi-yu),dark | fire,Beads of Ruin (/abilitydex/beadsofruin.shtml),55,80,80,135,120,100,570
+#1005,Roaring Moon (/pokemon/roaringmoon),dragon | dark,Protosynthesis (/abilitydex/protosynthesis.shtml),105,139,71,55,101,119,590
+#1006,Iron Valiant (/pokemon/ironvaliant),fairy | fighting,Quark Drive (/abilitydex/quarkdrive.shtml),74,130,90,120,60,116,590
+#1007,Koraidon (/pokemon/koraidon),fighting | dragon,Orichalcum Pulse (/abilitydex/orichalcumpulse.shtml),100,135,115,85,100,135,670
+#1008,Miraidon (/pokemon/miraidon),electric | dragon,Hadron Engine (/abilitydex/hadronengine.shtml),100,85,100,135,115,135,670
+#1009,Walking Wake (/pokemon/walkingwake),water | dragon,Protosynthesis (/abilitydex/protosynthesis.shtml),99,83,91,125,83,109,590
+#1010,Iron Leaves (/pokemon/ironleaves),grass | psychic,Quark Drive (/abilitydex/quarkdrive.shtml),90,130,88,70,108,104,590
+#1011,Dipplin (/pokemon/dipplin),grass | dragon,Supersweet Syrup (/abilitydex/supersweetsyrup.shtml) | Gluttony (/abilitydex/gluttony.shtml) | Sticky Hold (/abilitydex/stickyhold.shtml),80,80,110,95,80,40,485
+#1012,Poltchageist (/pokemon/poltchageist),grass | ghost,Hospitality (/abilitydex/hospitality.shtml) | Heatproof (/abilitydex/heatproof.shtml),40,45,45,74,54,50,308
+#1013,Sinistcha (/pokemon/sinistcha),grass | ghost,Hospitality (/abilitydex/hospitality.shtml) | Heatproof (/abilitydex/heatproof.shtml),71,60,106,121,80,70,508
+#1014,Okidogi (/pokemon/okidogi),poison | fighting,Toxic Chain (/abilitydex/toxicchain.shtml) | Guard Dog (/abilitydex/guarddog.shtml),88,128,115,58,86,80,555
+#1015,Munkidori (/pokemon/munkidori),poison | psychic,Toxic Chain (/abilitydex/toxicchain.shtml) | Frisk (/abilitydex/frisk.shtml),88,75,66,130,90,106,555
+#1016,Fezandipiti (/pokemon/fezandipiti),poison | fairy,Toxic Chain (/abilitydex/toxicchain.shtml) | Technician (/abilitydex/technician.shtml),88,91,82,70,125,99,555
+#1017,Ogerpon (/pokemon/ogerpon),grass,Defiant (/abilitydex/defiant.shtml),80,120,84,60,96,110,550
+#1018,Archaludon (/pokemon/archaludon),steel | dragon,Stamina (/abilitydex/stamina.shtml) | Sturdy (/abilitydex/sturdy.shtml) | Stalwart (/abilitydex/stalwart.shtml),90,105,130,125,65,85,600
+#1019,Hydrapple (/pokemon/hydrapple),grass | dragon,Supersweet Syrup (/abilitydex/supersweetsyrup.shtml) | Regenerator (/abilitydex/regenerator.shtml) | Sticky Hold (/abilitydex/stickyhold.shtml),106,80,110,120,80,44,540
+#1020,Gouging Fire (/pokemon/gougingfire),fire | dragon,Protosynthesis (/abilitydex/protosynthesis.shtml),105,115,121,65,93,91,590
+#1021,Raging Bolt (/pokemon/ragingbolt),electric | dragon,Protosynthesis (/abilitydex/protosynthesis.shtml),125,73,91,137,89,75,590
+#1022,Iron Boulder (/pokemon/ironboulder),rock | psychic,Quark Drive (/abilitydex/quarkdrive.shtml),90,120,80,68,108,124,590
+#1023,Iron Crown (/pokemon/ironcrown),steel | psychic,Quark Drive (/abilitydex/quarkdrive.shtml),90,72,100,122,108,98,590
+#1024,Terapagos (/pokemon/terapagos),normal,Tera Shift (/abilitydex/terashift.shtml),90,65,85,65,85,60,450
+#1025,Pecharunt (/pokemon/pecharunt),poison | ghost,Poison Puppeteer (/abilitydex/poisonpuppeteer.shtml),88,88,160,88,88,88,600
